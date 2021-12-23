@@ -1,7 +1,6 @@
 ## blocklists-personal
 ## hosts-blocklists
 
-nwcci.com.pk
 0x21.in
 0055game.com
 0124logistics.com
@@ -9,6 +8,7 @@ nwcci.com.pk
 1played.com
 1s5dnwzwv8tht8vi0v78kde4e.com
 2sprout.co.uk
+3-vpassanetjp.shop
 3qar8.com
 3queensacademy.com
 4code.se
@@ -61,6 +61,7 @@ aatif-fortios.pt
 abhijeet.munarktech.com
 abissnet.net
 abohemianeducation.com
+abrahackbugs.xyz
 absolutedentalagency.com
 academia.voeclimb.com
 academiasperto.com
@@ -148,6 +149,7 @@ alhilli.teamengineering.co
 aliltasteofnewyork.com
 aliyunwangpan.com
 alkhayyatbusiness.com
+allamerican.travel
 allaroundshopblog.com
 allianzworldwidepartners.sucks
 allstagingwork.com
@@ -267,6 +269,7 @@ asapdecor.com
 ascalavera.com
 ascenttechnologygroup.com
 ashtanews.com
+asianfllirtz.us
 ask-regard.call-save.biz
 ask.maxfaxtalk.in
 askmeboost.com
@@ -305,6 +308,7 @@ autohausplath.de
 automaticaexpo.com
 autoswept.com
 avatar.ps
+avolebukoneh.website
 avpjq.com
 awakenservers.com
 axisrehab-wordpress.ripedev.com.au
@@ -373,6 +377,7 @@ belayadver.com
 belgura.by
 belisimmo.com
 bellizzo.com
+bem.feb.uns.ac.id
 benditoassociates.com
 benefitcrystal.info
 beniciabounce.com
@@ -519,6 +524,7 @@ busty-italian.com
 buyautoparts.in
 buydth.shop
 buyruon.com
+bw-bank-com.web.app
 bydspa.cl
 bymetronet.com
 cabellosypiel.com
@@ -634,6 +640,7 @@ circuitbreakerguys.store
 circuitoalberghiero.net
 cisco.obedinenie-kj.com
 citestftcwaut17.com
+citisecurecheck.duckdns.org
 claims-gov.fund
 classyfashionbd.com
 clauguidetti.com
@@ -670,6 +677,7 @@ coffee-911.com.ua
 cogitosoftware.in
 cognitec.org
 cohen-asset.com
+colissimo-poste21340471047.3dbricks.com
 colservicios.com.co
 combustibles.idubi.mx
 comenessuno.it
@@ -713,6 +721,7 @@ coopev.store
 cor-tips.com
 corfucom.com
 coroassaofrancisco.com.br
+corp-internal.co
 corpocceta.com
 corporatebusinessmachines.co.in
 corporativa.iltec.co
@@ -761,6 +770,7 @@ ctp1.xyz
 cubectivel.com
 cudecaformacion.org
 culinera.botrise.ro
+cuminside.club
 cunix88.com
 cursosuaslp.com
 custom.robi2.hu
@@ -778,6 +788,7 @@ d22.group
 d966f.net
 dac.wpress.dk
 dacar.vn.ua
+dadsara-1400.xyz
 dailiesuniversity.com
 dairycraft.dairycare.info
 daiyncc.com
@@ -915,6 +926,7 @@ dontnudgeme2.tobias-bechtle.de
 dorothygrew.com
 dotgz.com
 douhonghong.com
+down.1230578.com
 downloads.iyclm.in
 dpdgroupbartolinibillings.org
 dragon.wewe.ws
@@ -939,6 +951,7 @@ dsid.e-mobiletech.com
 dtjug.com
 du-wizards.com
 duasonic.com
+dubem.xyz
 duckvlog.com
 dudehome.com
 dutapp.wisolve.co.za
@@ -954,6 +967,7 @@ e2mblog2.linuxuatwebspiders.com
 e1536.com
 e-kconsulting.co.ke
 e-moz.shop
+e-sampark.jrladdha.in
 e.docarts.id
 eae0908.gossnet.com
 eagle-family.co.uk
@@ -962,6 +976,7 @@ eapdigital.com
 eastboundanddowntrucking.com
 easyrest.focusit.pe
 eb3tly.online
+eba80de9.xen.hill-family.us
 ebmulla.com
 ecarrefour.mystaging.me
 ecftech.com
@@ -1093,6 +1108,7 @@ fatuvocemaga.online
 favoritgame.tech
 fb.nikhilbhoyar.com
 fbomate.com
+fecolfin.coop
 feel1978.com
 feel-the-spirit.at
 feker.ly
@@ -1263,6 +1279,7 @@ golden-memories-funerals.yourpageserver.com
 goldengreenindustries.co.za
 goldenleashcanine.com
 goldpisoslaminados.com.br
+golebukoneh.site
 golfwatchparties.com
 goodfont.co.kr
 goodnessoftth.com
@@ -1314,6 +1331,7 @@ hadevatjulps.com
 haewadalent.com
 haichuanxin.com
 hairgrowinggenius.com
+hajinews.id
 halsingeboxen.se
 hamoabay.com
 handantc.com
@@ -1341,6 +1359,7 @@ hello.glamfitters.com
 hellohomeowner.com
 helloprintcv.com.br
 helpingcause.com
+helpinghandsforstudents.com
 heraclitotattoostudio.com
 herb-e-concept.districtweb.ca
 heritagepedia.com
@@ -1468,6 +1487,7 @@ infinitystay.com
 info.cisbd.org
 infodf.xyz
 infofactes.com
+infokid.softwareelite.com
 inforsante.fr
 infotech.news
 infps.demasys.net
@@ -1487,6 +1507,7 @@ instavcard.com
 insulamundi.com
 insularte.com
 inter.creativeintertech.ca
+interact.sh
 interfaceprosthetics.com
 interiorsfurnituredxb.com
 internal.wpress.dk
@@ -1627,6 +1648,7 @@ kimura-kyoto.com
 king-agency.com
 kionline.net
 kissanime.press
+kitchenraja.in
 kizitox.ga
 kkkc5.com
 kkproj-emailviewcheck10.web.app
@@ -1743,6 +1765,7 @@ logliddoliddooni.belchem.com
 logoartista.com
 logotypin.ru
 logowholesaler.com
+lokiik.xyz
 londonbedbug.ca
 lonewolfchad.com
 lotus.wb5.com.br
@@ -1764,6 +1787,7 @@ luljuf.xyz
 lupai86.com
 luridnesswow.net
 luxormedikal.com
+luxtoken.lu-renew3ds.trust.cashwinludo.com
 lwe-engineering.com.my
 lyhdyhc.com
 lyotrust.com
@@ -1782,6 +1806,7 @@ m2.gameonlinefx15.com
 m2.gameonlinefx31.com
 m2.gameonlinefx35.com
 m2.gameonlinefx36.com
+m3.wtf
 m3comunicacao.com.br
 m-pcp2020.apps-ph.com
 m.am-clinica.ru
@@ -1963,6 +1988,7 @@ msc-cunds.de
 msc.qnotice.com
 msrenewsl.com
 mtm.gov.mn
+mtron.in
 mu-8.com
 mujahidservice.online
 multisanitair.nl
@@ -2001,6 +2027,7 @@ naldcoin.website
 namastecarrier.com
 naon.ru
 naplesgolfcartbatteries2u.com
+narendracentral.com
 nas.svk-telecom.ru
 nasiriacademy.com
 nat-hetong.info
@@ -2013,6 +2040,7 @@ ncr-aloha.net
 ncr.teamengineering.co
 nda41.fr
 nec-i.com
+nedskytrex.xyz
 needanun.net
 negarestanostad.com
 negativeminus.com
@@ -2079,6 +2107,7 @@ nugeneraonline.com
 nurseonthego.co.za
 nuturessoap.com
 nuwvbfig.belchem.com
+nwcci.com.pk
 o2executive.com
 o91982kf.beget.tech
 o296885m.beget.tech
@@ -2199,6 +2228,7 @@ payments-gate-325r.xyz
 payments.amadike.com
 paypal-caseid581.com
 paypal-login69.com
+paypal.ca.cgi.bin.update.account.system.kre8ive.co.uk
 payraynow.com
 pc-netix.com
 pc.helloconci.com
@@ -2342,6 +2372,7 @@ puredropwater.in
 purekypreps.com
 purpledot.io
 push.qnotice.com
+pwn.af
 pypgroup.co
 q8ylawyer.sz4h.com
 qf212.com
@@ -2387,6 +2418,7 @@ range.com.sa
 raozantimes24.com
 raviangroupllc.com
 rawimage.net
+rce.ee
 rdf.dairycare.info
 re-change.net
 readcatalogs.com
@@ -2408,6 +2440,7 @@ regent.sreport.cz
 regentpublicity.net
 regio.big-reinigung.de
 register.demasys.net
+registerprimarydevice.com
 reliancetechsolutions.com
 relocatingrealtor.com
 remshkaf.ru
@@ -2488,6 +2521,7 @@ rtoficina.resultaweb.com.br
 ruayhunhangseng.com
 rubbermounted.com.au
 rubycityvietnam.com
+rudraagrointernational.com
 ruiz-capillas.com
 rumahberkah99.com
 runplay11.com
@@ -2538,6 +2572,7 @@ sarfizmir.com
 sarkarpanservice.xyz
 sarl.zahou-tech.com
 sarojgotame.com.np
+sasinternationalrelations.com
 sasthasheba.com
 sattvadent.ru
 satyamenterprisesbhopal.com
@@ -2563,6 +2598,7 @@ seaplanescenics.net
 seatedauto.com
 secobed.nl
 sectorulb.com
+secure-hsbc-protect.com
 secure.xemmex.com
 secured-connected.com
 secureverified-payments.com
@@ -2608,6 +2644,7 @@ shaastraarth.in
 shadesbeautyparlour.com
 shafiexports.com.pk
 shahu66.com
+shainanailbeauty.com
 shanroban.com
 shareusall.com
 sharpelevators.in
@@ -2654,6 +2691,7 @@ sinan.altankarakaya.com
 sinclairsparkes.com
 sinco.portaldeparcerias.com.br
 singaporeproperty.ournextmarket.com
+sinzu1.camdvr.org
 sisantri.smk-alasror.net
 sisep.ondasguainia.com
 sisromasicurezza.com
@@ -2847,6 +2885,7 @@ tashoku.com
 tasnimproperty.co.id
 tatatertib.binainsani.com
 taumanhquang.com
+tb.osilly.com
 tbcseguros.com.br
 tc-fortuna.com
 tc.snpsresidential.com
@@ -2957,6 +2996,7 @@ ticketsaletravel.com.au
 tiendasred.com
 tierarztpraxis-promenade.de
 tijancompound.com
+timegonebuy.com
 timesys.justsomehosting.com
 tindung24.com
 tineue.com
@@ -3069,6 +3109,7 @@ undtctyky.club
 uneektravel.com
 union-green.com
 uniq.plus
+unitus.mk.ua
 universalmerchandisin.com
 universodarainha.com.br
 unlockmyhip-flexors.com
@@ -3078,6 +3119,7 @@ urban-mosaic.com
 urban-xr.com
 urbanos.resultaweb.com.br
 urbantennis.info
+urielcoffee.com
 urwpp.de
 us-east-1.route-1.000webhost.awex.io
 usa111.com
@@ -3086,6 +3128,7 @@ usatvstreaming.com
 usdigipro.com
 userebecalopes.com
 usersmetaverse.com
+uskitsolutions.com
 usomed.com
 utesm.com
 uvsapl.com
@@ -3109,6 +3152,8 @@ vcophoto.us
 vegainwest.pl
 velochic.com.vn
 venturemap.de
+verification-paypal-account-pay.profiledecorative.ro
+verify.contact.safety.protection.admin.page.sunarc.org
 veroslist.com
 versatilcamiseteria.com.br
 verzekering-oldtimer.be
@@ -3127,9 +3172,12 @@ view.marketfresh.com.ph
 vigom.store
 vigorouswillpower-group.com
 viihelp.com
+vilink.online
 villamarand.com
 vilugerude.xyz
 vimacorrugados.com.mx
+vioesduapuoeass.top
+vioesjpeacss.top
 viralizi.id
 viralxch.com
 virtual-ledlight.com
@@ -3151,6 +3199,11 @@ voltera.solar
 vomdrok.com
 voubucleonteri.xyz
 voxefxphotography.com
+vpasss-ne-inbex.068wtgju.cn
+vpasss-ne-inbex.17gm94zlz.cn
+vpasss-ne-inbex.hw7v32unj6.cn
+vpasss-ne-inbex.hyrq6j.cn
+vpasss-ne-inbex.u34york7.cn
 vqnirr.com
 vraimianowcmpte.com
 vrijensociaalnederland.com
@@ -3218,6 +3271,7 @@ winlegends.com
 winnipegwebdesigners.com
 winut.vn
 wioa.info
+wisdomblogger.com
 wishcida.com
 wisolve.co.za
 wisp.servitel.com.co
@@ -3247,10 +3301,13 @@ wt336688.com
 ww1.survey-smiles.com
 wwdh.xyz
 wwlabora.com
+www3-vpassane0top.shop
 www5.ritamartins.pt
+www-smbc.qingfen15.shop
 wx-test.com
 wxjmxs.com.cn
 wxzg.yngw518.com
+x41.me
 x33456.com
 x.jebone.com
 xandarsa.com
@@ -3313,6 +3370,7 @@ yxsc576.com
 yzkzixun.com
 zaaher.com
 zafav.xyz
+zahirroyhan.com
 zainaab.com
 zajacwogrodzie.pl
 zaletuf.pro
@@ -3320,6 +3378,7 @@ zambrano0.focusit.pe
 zaprom.info
 zcoatux.icu
 zeneanyasbyerika.com
+zensorium.com
 zentralpark.nl
 zepfdental.com.au
 zhangzhengxi.com
@@ -3337,59 +3396,3 @@ zonerphoto.us
 zskdkc.com
 zydonghua.com
 zyxeldevices.com
-
-timegonebuy.com	
-colissimo-poste21340471047.3dbricks.com	
-mtron.in	
-infokid.softwareelite.com	
-citisecurecheck.duckdns.org
-www3-vpassane0top.shop	
-www-smbc.qingfen15.shop	
-3-vpassanetjp.shop	
-vioesduapuoeass.top	
-vioesjpeacss.top
-kitchenraja.in	
-0x21.in	
-sinzu1.camdvr.org	
-dubem.xyz	
-nedskytrex.xyz
-golebukoneh.site
-avolebukoneh.website
-abrahackbugs.xyz
-cuminside.club
-m3.wtf
-pwn.af
-rce.ee
-x41.me
-timegonebuy.com	
-rudraagrointernational.com	
-verification-paypal-account-pay.profiledecorative.ro	
-paypal.ca.cgi.bin.update.account.system.kre8ive.co.uk	
-unitus.mk.ua
-vpasss-ne-inbex.068wtgju.cn	
-vpasss-ne-inbex.hw7v32unj6.cn	
-vpasss-ne-inbex.u34york7.cn	
-vpasss-ne-inbex.17gm94zlz.cn	
-vpasss-ne-inbex.hyrq6j.cn
-eba80de9.xen.hill-family.us	
-interact.sh	
-dadsara-1400.xyz	
-lokiik.xyz	
-down.1230578.com
-zensorium.com	
-luxtoken.lu-renew3ds.trust.cashwinludo.com	
-secure-hsbc-protect.com	
-shainanailbeauty.com	
-verify.contact.safety.protection.admin.page.sunarc.org
-registerprimarydevice.com
-timegonebuy.com	
-password-update.com	
-amazoon.site	
-eservce.co.uk	
-asianfllirtz.us
-fecolfin.coop	
-zahirroyhan.com	
-wisdomblogger.com	
-vilink.online	
-uskitsolutions.com
-narendracentral.com
