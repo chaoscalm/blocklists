@@ -3,6 +3,20 @@
 
 ## https://blog.cyble.com/
 
+# https://blog.cyble.com/2021/12/23/malicious-app-targets-major-brazilian-bank-itau-unibanco/
+acesso.sincronizadorltoken.com 
+
+# https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/
+51afd2f8.probe001.log4j.leakix.net
+69.164.215.204-A-9200.774dda06.dataastatistics.com
+139.162.37.91-A-9200.774dda06.dataastatistics.com
+159.65.193.91-A-9200.774dda06.dataastatistics.com
+185.56.88.86-A-9200.774dda06.dataastatistics.com
+192.155.87.243-A-9200.774dda06.dataastatistics.com
+194.195.113.8-A-9200.774dda06.dataastatistics.com
+998bb3b3.probe001.log4j.leakix.net
+f0d609e4.probe001.log4j.leakix.net
+
 # https://blog.cyble.com/2021/12/06/apt37-using-a-new-android-spyware-chinotto/
 haeundaejugong.com
 
