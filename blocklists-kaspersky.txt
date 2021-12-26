@@ -3,6 +3,17 @@
 
 ## https://securelist.com/
 
+# https://securelist.com/pseudomanuscrypt-a-mass-scale-spyware-attack-campaign/105286/
+# https://ics-cert.kaspersky.com/reports/2021/12/16/pseudomanuscrypt-a-mass-scale-spyware-attack-campaign/
+d.diragame.com
+email.yg9.me
+google.vrthcobj.com
+toa.mygametoa.com
+tob.mygametob.com
+
+# https://securelist.com/owowa-credential-stealer-and-remote-access/105219/
+s3crt.biz
+
 # https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-rights-activists/105074/
 djsm.co.kr
 doseoul.com
