@@ -3,6 +3,17 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/disrupting-glupteba-operation/
+anuanage.info
+evocterm.com
+iceanedy.com
+ninhaine.com
+nisdably.com
+retoti.com
+runmodes.com
+trumops.com
+yturu.com
+
 # https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/
 amnestyhk.org
 apple-webservice.com
