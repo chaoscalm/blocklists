@@ -4,6 +4,15 @@
 ## https://www.welivesecurity.com
 ## https://github.com/eset/malware-ioc
 
+# https://github.com/eset/malware-ioc/tree/master/kimsuky/hotdoge_donutcat_case
+31e27735-43a4-4a42-ba59-0b3cbe6efb21.usrfiles.com
+525ea21c-e821-4bb7-a7e9-24cb6c8a891a.usrfiles.com
+ausq.inaver.org
+hsjj.inaver.org
+wix.navercloud.me
+wnqd.navercloud.org
+ybnm.navercloud.org
+
 # https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/
 # https://github.com/eset/malware-ioc/tree/master/swc-candiru
 addthis.events
