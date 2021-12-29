@@ -1,6 +1,10 @@
 ## cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/news/nuova-campagna-brata-utilizza-downloader-apk/
+direttiva-dati.observer
+scarica-ora-la-nuova-app.com
+
 # https://cert-agid.gov.it/news/cert-agid-condivide-i-propri-ioc-per-la-mitigazione-degli-attacchi-log4shell/
 3e87f42214144c0e9550.y.psc4fuel.com
 223bdb31890b475c.y.psc4fuel.com
