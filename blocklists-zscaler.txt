@@ -3,6 +3,30 @@
 
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/security-research/new-darkhotel-apt-attack-chain-identified
+compliance.maill.buaa.edu.cn.coremailxt.serviceneteasse.com
+compliance.maill.hit.edu.cn.coremailxt.serviceneteasse.com
+dapp-connect.org
+dappconnectmainbott.org
+deepersbot.network
+onlinesurvey.register.moe.edu.cn.serviceneteasse.com
+preview.maiil.caict.ac.cn.coremailxt.serviceneteasse.com
+prevwdoc.mofcom.gov.cn.loginwebbauthh.serviceneteasse.com
+relay-server.com
+secureattch.nudt.edu.cn.coremailxt.serviceneteasse.com
+signing-config.com
+svcstat.com
+walletauthenticatorbot.net
+
+# https://www.zscaler.com/blogs/security-research/threatlabz-analysis-log4shell-cve-2021-44228-exploit-attempts
+4a3b19ce6368.bingsearchlib.com
+90d744e.probe001.log4j.leakix.net
+372d7648.probe001.log4j.leakix.net
+lurchmath.org
+nazi.uy
+qloi8d.dnslog.cn
+u7911j.dnslog.cn
+
 # https://www.zscaler.com/blogs/security-research/black-friday-shoppers-once-again-scrooged-cyber-attacks
 blackfridaysalez.com
 checkoutmodules.biz
