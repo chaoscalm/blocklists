@@ -1,7 +1,9 @@
 ## blocklists-personal
 ## hosts-blocklists
 
+
 0x21.in
+galvtech.com.br
 0055game.com
 0124logistics.com
 1med.kiev.ua
