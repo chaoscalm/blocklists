@@ -1,6 +1,26 @@
 ## cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/news/in-atto-campagna-massiva-gozi-urnsif-veicolata-come-una-comunicazione-della-agenzia-delle-entrate/
+agenziaitaliane.bar
+autosblogs.co
+autosblogs.com
+autoslives.co
+autoslives.com
+blogsautos.com
+blogsautos.info
+entrate.bar
+fiscale.bar
+lineautos.com
+livesautos.com
+mmmmmm.bar
+mmmmmm.casa
+
+# https://cert-agid.gov.it/news/malware/nuova-campagna-malware-sload-veicolata-via-pec/
+ghujnyuo.eu
+jhubyvgr.eu
+nutrizehealth.com
+
 # https://cert-agid.gov.it/news/nuova-campagna-brata-utilizza-downloader-apk/
 direttiva-dati.observer
 scarica-ora-la-nuova-app.com
