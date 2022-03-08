@@ -3,6 +3,17 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/
+accounts.secure-ua.website
+consumerspanel.frge.io
+hatdfg-rhgreh684.frge.io
+i.ua-passport.top
+id-unconfirmeduser.frge.io
+login.creditals-email.space
+post.mil-gov.space
+ua-consumerpanel.frge.io
+verify.rambler-profile.site
+
 # https://blog.google/threat-analysis-group/disrupting-glupteba-operation/
 anuanage.info
 evocterm.com
