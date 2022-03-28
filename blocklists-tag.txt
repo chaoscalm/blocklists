@@ -3,6 +3,48 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/countering-threats-north-korea/
+blockchainnews.vip
+chainnews-star.com
+colasprint.com
+disneycareers.net
+financialtimes365.com
+find-dreamjob.com
+fireblocks.vip
+gatexpiring.com
+gbclabs.com
+giantblock.org
+humingbot.io
+indeedus.org
+onlynova.org
+options-it.com
+teenbeanjs.com
+tradingtechnologies.com
+varietyjob.com
+ziprecruiters.org
+
+# https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/
+al-ghurair.us
+amevida.us
+avrobio.co
+awsblopharma.com
+belcolnd.com
+brightlnsight.co
+conlfex.com
+craneveyor.us
+elemblo.com
+faustel.us
+kvnational.us
+lagauge.us
+lsoplexis.com
+missionbio.us
+modernmeadow.co
+opontia.us
+phxmfg.co
+prmflltration.com
+revergy.us
+richllndmetals.com
+
 # https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/
 accounts.secure-ua.website
 consumerspanel.frge.io
