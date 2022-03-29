@@ -5344,6 +5344,20 @@ testworks.ru
 ## intezer
 # https://www.intezer.com/blog/
 
+# https://www.intezer.com/blog/research/conversation-hijacking-campaign-delivering-icedid/
+yourgroceries.top
+
+# https://www.intezer.com/blog/malware-analysis/teamtnt-cryptomining-explosion/
+chimaera.cc
+teamtnt.red
+
+# https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/
+bookitlab.tech
+github.url-mini.com
+graphic-updater.com
+office360-update.com
+winaudio-tools.com
+
 # https://www.intezer.com/blog/malware-analysis/vermilionstrike-reimplementation-cobaltstrike/
 amazon.hksupd.com
 update.microsofthk.com
