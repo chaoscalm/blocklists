@@ -1,0 +1,46 @@
+## hosts-blocklists
+## blocklists-orangelog4shell
+
+# https://github.com/Orange-Cyberdefense/log4shell_iocs
+
+0brandaeyes0.xyz
+0standavalue0.xyz
+0storageatools0.xyz
+300gsyn.it
+41.me
+ab-ui.com
+abrahackbugs.xyz
+apacheorg.top
+apacheorg.xyz
+awsdns-2.org
+bingsearchlib.com
+burpcollaborator.net
+c19s.net
+canarytokens.com
+cuminside.club
+dataastatistics.com
+dnslog.cn
+doh.li
+eg0.ru
+flofire.de
+interact.sh
+interactsh.com
+kryptoslogic-cve-2021-44228.com
+leakix.net
+log4j-test.xyz
+log4shell-iocs.md
+longwang-sword.com
+m3.wtf
+medusabotnet.com
+mj12bot.com
+nazi.uy
+nijat.space
+psc4fuel.com
+pwn.af
+rce.ee
+redteam.tf
+requestbin.net
+ryedge.io
+scanworld.net
+vikingo.org
+x41.me
