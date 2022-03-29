@@ -5307,7 +5307,6 @@ cryptmonero.com
 crypto-pool.fr
 cryptonight.net
 democats.org
-flypool.org
 miner.center
 mst.mymst007.info
 riepool.ovh
