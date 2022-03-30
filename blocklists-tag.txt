@@ -3,6 +3,17 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/tracking-cyber-activity-eastern-europe/
+drive-share.live
+login-verification.top
+login-verify.top
+protect-link.online
+protection-office.live
+proton-viewer.com
+secure-ua.space
+secure-ua.top
+ua-login.top
+
 # https://blog.google/threat-analysis-group/countering-threats-north-korea/
 blockchainnews.vip
 chainnews-star.com
