@@ -4,6 +4,44 @@
 ## https://news.drweb.com/list
 ## https://github.com/DoctorWebLtd/malware-iocs
 
+# https://news.drweb.com/show/?i=14451&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/blob/master/APT_telecom2021/README.adoc
+blog.globnewsline.com
+clark.l8t.net
+mail.globnewsline.com
+mail.sultris.com
+pop3.wordmoss.com
+webmail.surfanny.com
+www.sultris.com
+youtubemail.club
+zmail.wordmoss.com
+
+# https://news.drweb.com/show/?i=14430&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/blob/master/CoinSteal/README.adoc
+admin.metamaskio.vip
+admin.tokenpocket.pm
+api4.dealinterface.com
+api6.dealinterface.com
+api.btipie.com
+btipie.com
+dht.tokenpocket.pm
+hs65.top
+huosu009.top
+im-token-w.club
+im-token-w.world
+imtoken0004.com
+imtoken.porn
+ios.meiguoxiazai9.com
+lrntoken.vip
+metamaskio.vip
+mobile.jointsky.com
+ok.baofuhh.co
+ok.sdgthr.co
+ok.tkdt.cc
+pgoss1218.oss-accelerate.aliyuncs.com
+sign.habkp.shop
+tokenpocket.pm
+
 # https://news.drweb.com/show/?i=14259&lng=en
 # https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.BankBot.Coper/README.adoc
 4-u.wtf
