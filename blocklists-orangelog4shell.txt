@@ -26,7 +26,6 @@ flofire.de
 interact.sh
 interactsh.com
 kryptoslogic-cve-2021-44228.com
-leakix.net
 log4j-test.xyz
 log4shell-iocs.md
 longwang-sword.com
