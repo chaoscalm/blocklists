@@ -3,6 +3,12 @@
 
 ## https://labs.sentinelone.com/
 
+# https://www.sentinelone.com/labs/chinese-threat-actor-scarab-targeting-ukraine/
+dynamic.ddns.mobi
+ebook.port25.biz
+mert.my03.com
+product2020.mrbasic.com
+
 # https://www.sentinelone.com/labs/hide-and-seek-new-zloader-infection-chain-comes-with-improved-stealth-and-evasion-mechanisms/
 dksaoidiakjd.com
 iqowijsdakm.com

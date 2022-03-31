@@ -3,6 +3,15 @@
 
 ## https://securelist.com/
 
+# https://securelist.com/lazarus-trojanized-defi-app/106195/
+bn-cosmo.com
+emsystec.com
+gyro3d.com
+ilovesvc.com
+newbusantour.co.kr
+softapp.co.kr
+syadplus.com
+
 # https://securelist.com/pseudomanuscrypt-a-mass-scale-spyware-attack-campaign/105286/
 # https://ics-cert.kaspersky.com/reports/2021/12/16/pseudomanuscrypt-a-mass-scale-spyware-attack-campaign/
 d.diragame.com
