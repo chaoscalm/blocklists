@@ -3,53 +3,6 @@
 
 ## https://github.com/citizenlab/malware-indicators
 
-# https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/
-actumali.org
-adibjan.net
-almasryelyuom.com
-alraeesnews.net
-applepps.com
-aramexegypt.com
-bank-alahly.com
-bity.ws
-carrefourmisr.com
-distedc.com
-distedc.com;
-eg-gov.org
-egyqaz.com
-etisalategypt.tech
-ffoxnewz.com
-forwardeshoptt.com
-gosokm.com
-guardian-tt.me
-ikea-egypt.net
-instegram.co
-lnkedin.org
-niceonase.com
-niceonesa.net
-novosti.bid
-orangegypt.co
-playestore.net
-politika.bid
-politique-koaci.info
-qwxzyl.com
-sephoragroup.com
-sinai-new.com
-teslal.shop
-teslal.xyz
-tribune-mg.xyz
-tw.itter.me
-twtter.net
-uberegypt.cn.com
-vodafoneegypt.tech
-wha.tsapp.me
-xnxx-hub.com
-yallakora-egy.com
-youtu-be.net
-youtub.app
-youtubesyncapi.com
-youtubewatch.co
-yuom7.net
 
 # https://github.com/citizenlab/malware-indicators/tree/master/202006_DarkBasin
 2mblk.com
