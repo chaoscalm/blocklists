@@ -3,7 +3,6 @@
 
 ## https://github.com/citizenlab/malware-indicators
 
-
 # https://github.com/citizenlab/malware-indicators/tree/master/202006_DarkBasin
 2mblk.com
 4mblk.com
