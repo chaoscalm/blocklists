@@ -5350,3 +5350,15 @@ www-stats.unipi.it
 analytics.arpae.it
 analytics.unibo.it
 matomo.cloud
+analytics.helpukrainewinwidget.org
+piwik1.glauco.it
+matomo.fab-lab.it
+stats.sissa.it
+stats.monohost.com
+stats4ondernemers.nl
+statistiek.digid.nl
+piwik.easyhandling.nl
+analytics.mpi.nl
+statistiek.rijksoverheid.nl
+stats.eveoh.nl
+stats.nexxar.com
