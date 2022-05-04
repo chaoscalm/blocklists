@@ -3,6 +3,22 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/
+cache-dns.com
+docs-shared.com
+documents-forwarding.com
+documents-preview.com
+facebook.com-validation.top
+jadlactnato.webredirect.org
+lt-facebook.com-verification.top
+lt-meta.com-verification.top
+lt-microsoftgroup.serure-email.online
+microsoftonline.email-verify.top
+noreply.accountsverify.top
+protection-link.online
+webresources.live
+wkoinfo.webredirect.org
+
 # https://blog.google/threat-analysis-group/tracking-cyber-activity-eastern-europe/
 drive-share.live
 login-verification.top
