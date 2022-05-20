@@ -3,6 +3,76 @@
 
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/security-research/vidar-distributed-through-backdoored-windows-11-downloads-and-abusing
+files.getsnyper.com
+ieji.de
+koyu.space
+ms-teams-app.net
+ms-win11.com
+ms-win11.midlandscancer.com
+win11-serv4.com
+win11-serv.com
+win11install.com
+
+# https://www.zscaler.com/blogs/security-research/peeking-privateloader
+wfsdragon.ru
+
+# https://www.zscaler.com/blogs/security-research/targeted-attack-thailand-pass-customers-delivers-asyncrat
+invoice-update.myiphost.com
+
+# https://www.zscaler.com/blogs/security-research/naver-ending-game-lazarus-apt
+cloudcentre.xyz
+copycatfrag.store
+knightsfrag.store
+mailcustomerservice.site
+mailhelp.online
+mailservicecorp.online
+mailserviceteam.email
+naveicoip.com
+naveicoip.tech
+naveicoipa.com
+naveicoipa.online
+naveicoipa.tech
+naveicoipb.online
+naveicoipb.tech
+naveicoipc.com
+naveicoipc.online
+naveicoipc.tech
+naveicoipd.online
+naveicoipd.tech
+naveicoipe.online
+naveicoipe.tech
+naveicoipep.tech
+naveicoipf.online
+naveicoipf.tech
+naveicoipg.online
+naveicoipg.tech
+naveicoiph.online
+naveicoiph.tech
+naveicoipi.online
+naveicoipj.online
+naveicorp.com
+navercorp.live
+navercorpservice.com
+navercscorp.com
+navermailcorp.com
+navermailmanage.com
+navermailservice.com
+navermailservice.online
+navermailteam.online
+navermanage.com
+navermanage.live
+navermanageteam.com
+navermcorp.com
+navernidb.link
+navernidmail.com
+naversecurityservice.online
+naversecurityteam.com
+naverservice.host
+naverserviceteam.com
+noreplya.xyz
+parfumeparlour.store
+
 # https://www.zscaler.com/blogs/security-research/analysis-blackguard-new-info-stealer-malware-being-sold-russian-hacking
 greenblguard.shop
 onetwostep.at
