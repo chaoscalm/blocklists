@@ -4,6 +4,8 @@
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs
 
 3237.site
+a0667987.xsph.ru
+a0671524.xsph.ru
 abodhakujena.com
 abrumpere.online
 abrusa.xyz
@@ -34,20 +36,30 @@ adjd.info
 adleer.ru
 adleer.ru
 admin-gmail.online
+admis.club
+admru.top
+admukr.club
+admukr.top
+admus.top
 adonisi.xyz
 adonisis.xyz
 aerogenosa.ru
 aethusas.xyz
+aff-opros.top
+afi-opros.top
 agamat.xyz
 agaricusa.online
 agarisi.ru
 akademia-mil.space
+akaluij.com
 akowaika.ru
 akunir.ru
 alacritas.ru
 albatrellus.online
 alburnus.online
 alebont.ru
+alf-gos.top
+alfa-gos.top
 alibetar.ru
 alicui.online
 aligatou.ru
@@ -66,11 +78,15 @@ amarus.xyz
 ambystoma.xyz
 amieteku.ru
 ammoniacum.xyz
+amo-opros.top
+an-gos.top
+an-ukr.top
 anainat.ru
 anamirtat.xyz
 anaraq.ru
 anatara.ru
 anguisa.xyz
+anidoz.com
 anisoptera.online
 anisoptera.ru
 anits.ru
@@ -82,10 +98,13 @@ ao3.hmgo.pw
 aocpaysage.com
 apaturinae.online
 apaturinae.ru
+apeduze.com
 apidaet.online
 apidaet.ru
 aplikacje.ron-mil.space
+apokil.com
 apoxipodes.online
+apps-opros.top
 apusa.xyz
 apusi.xyz
 arachnidas.online
@@ -97,6 +116,7 @@ arctiidae.online
 arctiidae.ru
 ardinvest.site
 arelyevennot.top
+arentuk.com
 arianat.ru
 arianos.ru
 ariuma.ru
@@ -119,6 +139,7 @@ autumnale.xyz
 avilarts.com
 avirona.ru
 avratus.xyz
+axikok.com
 azukimiwo.ru
 babylont.online
 bacill.ru
@@ -127,6 +148,8 @@ bacteri.ru
 bacterin.ru
 bacterir.ru
 bacteriu.ru
+badge-gos.top
+baidencult.com
 baldasha.ru
 banisha.ru
 barbadense.space
@@ -158,12 +181,14 @@ bibikaro.ru
 bibikaro.ru
 biblidinae.online
 bibliota.ru
+big-uah.top
 biiter.ru
 bike27.mirtopa.ru
 bikestr.ru
 bikestr.ru
 bikortas.ru
 bikortas.ru
+billiopa.com
 biontra.ru
 bitsadmin2.space
 bitsadmin3.space
@@ -178,6 +203,7 @@ bitsbitsl.space
 blaberidae.ru
 blattodea.online
 blattodea.ru
+blinkij.com
 blockpost.site
 blockpost.space
 blockpost.website
@@ -194,16 +220,20 @@ bombinator.xyz
 bombinators.xyz
 bonitol.online
 boniton.site
+borizhog.com
 borsina.ru
 bortogat.ru
 botaurus.online
 botulina.ru
+bow-gos.top
 brachycera.online
+brand-gos.top
 brasiliensisi.xyz
 bratseth.ru
 bratseth.ru
 brevib.ru
 brevisi.ru
+britxec.com
 brontaga.ru
 brucel.ru
 bryanheritagefarm.com
@@ -212,6 +242,7 @@ buffalor.ru
 bufol.xyz
 bugarto.ru
 buhse.xyz
+bul-opros.top
 burhinus.online
 buruncha.ru
 butyri.ru
@@ -238,12 +269,16 @@ caspius.xyz
 cassandracheatham.com
 catechur.xyz
 ceerdi.ru
+cels-opros.top
+center-gos.top
+central-gos.top
 cephalotes.xyz
 cerambycidae.online
 cerambycidae.ru
 cereusi.online
 cereusi.ru
 certuslogistics.com
+cerv-gos.top
 chaetodon.xyz
 chahoda.ru
 chargata.ru
@@ -266,11 +301,14 @@ clonorchis.online
 clostri.ru
 clublebron.com
 clupeonella.online
+co-opros.top
+co-uah.top
 coagula.ru
 cobact.ru
 coeruleus.online
 coferto.ru
 coffiti.ru
+coinerpay.top
 coleopteras.online
 coleopteras.ru
 coliadinae.online
@@ -317,6 +355,7 @@ destarro.ru
 detegro.ru
 devasil.ru
 devtato.ru
+dezword.com
 differre.online
 difformis.online
 diletras.ru
@@ -338,6 +377,7 @@ dokkade.ru
 domasq.ru
 domasq.ru
 domonas.ru
+domthr.xyz
 dophil.ru
 doriga.ru
 doriga.ru
@@ -348,6 +388,7 @@ doscotra.ru
 downloadfiles.website
 draagotan.ru
 dracod.xyz
+drimzis.com
 drumtar.ru
 duboisia.xyz
 dudocilo.ru
@@ -428,6 +469,7 @@ flodman.ru
 floridae.xyz
 flounder.site
 floundera.online
+fluoxi.com
 fluviatilis.xyz
 fnhn.online
 fnrn.online
@@ -861,6 +903,7 @@ millefolium.xyz
 milopoda.ru
 milopoda.ru
 milotor.ru
+milotraf.ru
 minalis.ru
 mirabilisa.ru
 mirabits.ru
@@ -945,6 +988,7 @@ nerabis.ru
 neslovo.ru
 nibuku.ru
 nijinda.ru
+nikotod.ru
 nilesa.site
 nilias.ru
 niloticu.xyz
@@ -952,6 +996,7 @@ niloticus.online
 ninobotte.ru
 nintara.ru
 nirsoft.me
+nitikora.ru
 noctuidaes.online
 noctuidaes.ru
 nodoka.ru
@@ -1065,6 +1110,8 @@ prisonta.ru
 privigna.online
 privigna.ru
 product2020.mrbasic.com
+project2.top
+project3.top
 proteug.ru
 proteusa.ru
 protimas.ru
@@ -1073,6 +1120,7 @@ pugnax.xyz
 puppis.online
 puppis.ru
 putrif.ru
+qiwardos.ru
 rabilin.ru
 raidata.ru
 raidata.ru
@@ -1080,6 +1128,7 @@ rainbowt.site
 ranar.xyz
 rastani.ru
 rategade.ru
+rbadm.top
 reallyreadyservices.com
 rebatok.ru
 reftist.ru
@@ -1153,6 +1202,7 @@ seitoshi.ru
 selotra.ru
 selotra.ru
 semara.ru
+sendmail.website
 senegala.xyz
 senula.ru
 sertopar.ru
@@ -1164,6 +1214,8 @@ shaparto.ru
 shaperi.online
 shermana.ru
 shermano.ru
+shikjil.com
+shormanz.com
 shredova.ru
 siderar.ru
 siella.ru
@@ -1245,6 +1297,7 @@ tnoi.ru
 tofordat.ru
 tofordat.ru
 tomond.ru
+topadm.top
 torogat.ru
 torohota.ru
 torohota.ru
@@ -1260,6 +1313,7 @@ trobona.ru
 trolato.ru
 tropisti.ru
 trouta.site
+trueadm.top
 tsukiru.ru
 tsukiru.ru
 tsuzuketa.ru
@@ -1296,6 +1350,7 @@ variare.online
 vartogal.ru
 verify-email.space
 vernalisa.xyz
+verofes.com
 verusa.ru
 verusa.ru
 vibrida.ru
