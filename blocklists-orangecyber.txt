@@ -2,7 +2,6 @@
 ## blocklists-orangecyber
 
 # https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs
-
 3237.site
 a0667987.xsph.ru
 a0671524.xsph.ru
