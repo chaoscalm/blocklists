@@ -3,6 +3,13 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/protecting-android-users-from-0-day-attacks/
+contents-domain.com
+getupdatesnow.xyz
+redirecting.page
+s.bit-li.com
+shorten.fi 
+
 # https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/
 cache-dns.com
 docs-shared.com
