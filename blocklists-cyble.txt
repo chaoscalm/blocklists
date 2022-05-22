@@ -3,6 +3,40 @@
 
 ## https://blog.cyble.com/
 
+# https://blog.cyble.com/2022/04/27/emotet-returns-with-new-ttps-and-delivers-lnk-files-to-its-victims/
+cipro.mx
+colegiounamuno.es
+creemo.pl
+demo34.ckg.hk
+filmmogzivota.rs
+focusmedica.in
+
+# https://blog.cyble.com/2022/04/27/dissecting-saintstealer/
+f0591243.xsph.ru
+
+# https://blog.cyble.com/2022/04/22/malicious-app-targets-turkish-ministry-of-justice/
+sanatatolyesii.com
+
+# https://blog.cyble.com/2022/04/19/fake-metamask-app-steals-cryptocurrency/
+Metamask-cn.win
+matemask.bid
+matemask.men
+matemask.lol
+matemask.kim
+Metamask-cn.club
+matemask.tel
+Metamask.lawyer
+Metamask-cn.asia
+Metamask.engineer
+matemask.cool
+Metamaskn.com
+
+# https://blog.cyble.com/2022/04/05/inside-lightning-stealer/
+panelss.xyz
+
+# https://blog.cyble.com/2022/03/31/phishing-pages-used-for-malware-delivery/
+srqc.online
+
 # https://blog.cyble.com/2022/03/24/coper-banking-trojan/
 s22231232fdnsjds.top
 s32231232fdnsjds.top
