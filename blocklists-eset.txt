@@ -37,10 +37,6 @@ code-afsanalytics.com
 customs.gov.ye
 cuturl.app
 cuturl.space
-denel.co.za
-denelaviation.co.za
-deneldynamics.co.za
-denellandsystems.co.za
 doubleclick.ac
 engagebaay.app
 engagebay.app
@@ -57,7 +53,6 @@ moatads.co
 moe.gov.sy
 mof.gov.ye
 piwiks.com
-pmp.co.za
 rebrandly.site
 saba.ye
 scs-net.org
@@ -144,7 +139,6 @@ update.facebookint.workers.dev
 
 # https://www.welivesecurity.com/2021/08/11/iiserpent-malware-driven-seo-fraud-service/
 # https://github.com/eset/malware-ioc/tree/master/badiis
-20.3323sf.com
 allsoulu.com
 bj2.wzrpx.com
 bj.whtjz.com
