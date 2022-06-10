@@ -481,7 +481,6 @@ msap.services
 news.cmitcsubs.tk
 polarismail.services
 rf.mk
-suo.im
 walkingnote.online
 
 # https://github.com/citizenlab/endless_mayfly
