@@ -3,6 +3,62 @@
 
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/security-research/return-evilnum-apt-updated-ttps-and-new-targets
+advertbart.com
+appdllsvc.com
+azuredcloud.com
+bgamifieder.com
+bingapianalytics.com
+book-advp.com
+bookaustriavisit.com
+bookingitnow.org
+bunflun.com
+covdd.org
+deltacldll.com
+estoniaforall.com
+inetp-service.com
+infcloudnet.com
+khnga.com
+mailservice-ns.com
+meetomoves.com
+moreofestonia.com
+moretraveladv.com
+mscloudin.com
+msdllopt.com
+netrcmapi.com
+netwebsoc.com
+nortonalytics.com
+pcamanalytics.com
+refinance-ltd.com
+roblexmeet.com
+traveladvnow.com
+travelbooknow.org
+travinfor.com
+tripadvit.com
+udporm.com
+visitaustriaislands.com
+webinfors.com
+windnetap.com
+yomangaw.com
+
+# https://www.zscaler.com/blogs/security-research/resurgence-voicemail-themed-phishing-attacks-targeting-key-industry
+antarnex.com
+bajafulfillrnent.com
+bpirninerals.com
+brenthavenhg.com
+briccorp.com
+dorrngroup.com
+lacotechs.com
+lovitafood-tw.com
+mordematx.com
+spasfetech.com
+
+# https://www.zscaler.com/blogs/security-research/technical-analysis-purecrypter
+amcomri.upro.site
+gbtak.ir
+sub.areal-parfumi.si
+taskmgrdev.com
+
 # https://www.zscaler.com/blogs/security-research/lyceum-net-dns-backdoor
 cyberclub.one
 news-spot.live
