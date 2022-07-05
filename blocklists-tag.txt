@@ -3,6 +3,63 @@
 
 # https://blog.google/threat-analysis-group/
 
+https://blog.google/threat-analysis-group/countering-hack-for-hire-groups/
+account-noreply3.xyz
+account-noreply8.info
+account-server.xyz
+apl.onl
+aws-amazon.app.ink
+clik.sbs
+dtiwa.app.link
+go-gl.io
+goolge.help
+goolge.ltd
+id-apl.info
+kcynvd-mail.com
+kcynve-mail.com
+loading.sbs
+login-cloud-myaccount-mail.ru
+login-my-oauth-mail.ru
+mail-goolge.com
+mipim.app.link
+my-oauth-accounts-mail.ru
+myaccounts-auth.ru
+myproject-login.shop
+mysite-log.shop
+oauth-login-accounts-mail.ru
+preference-community-place.ru
+processs.app.link
+requestservice.live
+rnanage-icloud.com
+safe-place-experience.ru
+safe-place-smartlink.ru
+security-my-account.ru
+share-team.app.link
+source-place-preference.ru
+supp-help.me
+unt-log.com
+userprofile.live
+webtech-portal.com
+
+# https://blog.google/threat-analysis-group/italian-spyware-vendor-targets-users-in-italy-and-kazakhstan/
+119-tim.info
+133-tre.info
+146-fastweb.info
+155-wind.info
+159-windtre.info
+comtencentmobileqq-6ffb5.appspot.com
+comxdjajxclient.appspot.com
+fb-techsupport.com
+fintur-a111a.appspot.com
+ho-mobile.online
+iliad.info
+kena-mobile.info
+mobilepays.info
+my190.info
+poste-it.info
+project1-c094e.appspot.com
+safekeyservice-972cd.appspot.com
+
 # https://blog.google/threat-analysis-group/protecting-android-users-from-0-day-attacks/
 contents-domain.com
 getupdatesnow.xyz
