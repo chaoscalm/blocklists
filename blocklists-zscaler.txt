@@ -950,7 +950,6 @@ itelagen.com
 ivfminiua.com
 iviaggisonciliegie.it
 ivivo.es
-iwr.nl
 iyahayki.nl
 iyengaryogacharlotte.com
 izzi360.com
@@ -1012,7 +1011,6 @@ kmbshipping.co.uk
 knowledgemuseumbd.com
 kojima-shihou.com
 kojinsaisei.info
-koken-voor-baby.nl
 koko-nora.dk
 kostenlose-webcams.com
 kosterra.com
@@ -1988,7 +1986,6 @@ bit-browser.gq
 
 # https://www.zscaler.com/blogs/research/targeted-attack-leverages-india-china-border-dispute-lure-victims
 image91.360doc.com
-userimage8.360doc.com
 welcome.toutiao.com
 
 # https://www.zscaler.com/blogs/research/return-higaisa-apt
@@ -2788,7 +2785,6 @@ lumbertrans.com
 lumbertrans.com sunbuggy.com
 luxbagsgirl.com
 magento-analytics.com
-magformers.com
 minitruckusa.com
 mz-at-shop.de
 mz-at-shop.des
