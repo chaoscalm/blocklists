@@ -1162,7 +1162,6 @@ fuertecaja.com
 function5.com.au
 galaenterprises.com.au
 gammapower.com.au
-gammatron.com.au
 gazedice.com
 geisterhouse.com
 geivoip.com
@@ -1971,8 +1970,6 @@ gstat.sloleaks.com
 line.ehrlum.com
 
 # https://csirt.gov.it/contenuti/malware-lucifer-sfrutta-vulnerabilita-critiche-per-impattare-i-sistemi-windows-al01-200628-csirt-ita
-gulf.moneroocean.stream
-pool.supportxmr.com
 qf2020.top
 yzzswt.com
 
