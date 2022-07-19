@@ -3,7 +3,11 @@
 
 # https://blog.google/threat-analysis-group/
 
-https://blog.google/threat-analysis-group/countering-hack-for-hire-groups/
+# https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/
+cache-pdf.com
+cyberazov.com
+
+# https://blog.google/threat-analysis-group/countering-hack-for-hire-groups/
 account-noreply3.xyz
 account-noreply8.info
 account-server.xyz
