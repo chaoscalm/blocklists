@@ -3,6 +3,52 @@
 
 ## https://blog.cyble.com/
 
+# https://blog.cyble.com/2022/07/21/amextroll-android-banking-trojan-spotted-in-the-wild/
+infoapp.pro
+
+# https://blog.cyble.com/2022/07/19/new-malware-campaign-targets-russia/
+vtbsu.club
+
+# https://blog.cyble.com/2022/07/13/airavat-malware-targeting-android-users/
+blindajeseguro.online
+dragomitch.com
+jhon-30119-default-rtdb.firebaseio.com
+
+# https://blog.cyble.com/2022/07/07/nomercy-stealer-adding-new-features/
+six-clowns-sing-103-119-240-166.loca.lt
+
+# https://blog.cyble.com/2022/07/01/xloader-returns-with-new-infection-technique/
+htmlpreview.github.io@oshi.at
+
+# https://blog.cyble.com/2022/06/29/bahamut-android-malware-returns-with-new-spying-capabilities/
+gkcx6ye4t4zafw8ju2xdr5na5.de
+iminglechat.de
+securechatnow.com
+
+# https://blog.cyble.com/2022/06/23/matanbuchus-loader-resurfaces/
+extic.icu
+telemetrysystemcollection.com
+
+# https://blog.cyble.com/2022/06/22/quantum-software-lnk-file-based-builders-growing-in-popularity/
+quantum-software.online
+
+# https://blog.cyble.com/2022/06/13/hydra-android-malware-distributed-via-play-store/
+allupdatesecuretynow.com
+servservfreeupdate.top
+wayneconnectingservice.hk
+
+# https://blog.cyble.com/2022/06/06/android-malware-distributed-via-smishing/
+bbva.movil-es.icu
+clientesbbvalock.com
+movil.bbva.es
+privasol.xyz
+
+# https://blog.cyble.com/2022/06/03/cve-2022-30190-actively-exploited-in-the-wild/
+seller-notification.live
+
+https://blog.cyble.com/2022/05/31/new-zero-day-exploit-spotted-in-the-wild/
+xmlformats.com
+
 # https://blog.cyble.com/2022/05/25/ermac-back-in-action/
 apkphoto.co.nz
 bolt-food.site
