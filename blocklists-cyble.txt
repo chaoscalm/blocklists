@@ -40,7 +40,6 @@ wayneconnectingservice.hk
 # https://blog.cyble.com/2022/06/06/android-malware-distributed-via-smishing/
 bbva.movil-es.icu
 clientesbbvalock.com
-movil.bbva.es
 privasol.xyz
 
 # https://blog.cyble.com/2022/06/03/cve-2022-30190-actively-exploited-in-the-wild/
