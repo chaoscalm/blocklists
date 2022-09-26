@@ -3,6 +3,20 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/initial-access-broker-repurposing-techniques-in-targeted-attacks-against-ukraine/
+activecitizens.in.ua
+aprize.com.ua
+baiden.top
+baidenfree.com
+blinkin.top
+donaldtr.com
+gov.uz.ua
+kirbi.top
+kompromatua.info
+lviv.uz.ua
+microsoftua.com
+starlinkua.info
+
 # https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/
 cache-pdf.com
 cyberazov.com
