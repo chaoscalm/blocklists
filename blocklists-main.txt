@@ -1728,7 +1728,6 @@ pretrendy.com
 rumahcendekiaunj.com
 t-email1.instantytpresence.com
 t-email1.ottawashowers.ca
-t.email1.samsung.ca
 tremplinedu.com
 vrpublicnews.com
 wpbasket.co.il
@@ -3454,7 +3453,6 @@ lti.intelequia.com
 m.macaronigrill.com
 mail.somersetcm.com
 map.carlgross.com
-maps.foundationcenter.org
 mclambda-devtest.cpsextsandbox.mayo.edu
 media.antenna.gr
 members.dotnetfoundation.org
@@ -3687,7 +3685,6 @@ mamontenius.club
 z2uymda1mtk.top
 
 # https://csirt.gov.it/contenuti/aggiornamento-sulla-campagna-di-malspam-di-ursnif-nuovi-ioc-30-06-al02-200630-csirt-ita
-222.222.67.208.in-addr.arpa
 gstat.peshtigodental.com
 gstat.premiamo.com
 gstat.premiamo.eu
@@ -5861,7 +5858,6 @@ freeandroidspy.com
 hoverspyapp.com
 ispyoo.com
 mobile-spy.com
-mobile-tracker-free.com
 mobiletool.ru
 mspy.com
 mtoolapp.net
