@@ -3,6 +3,24 @@
 
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/security-research/warhawk-new-backdoor-arsenal-sidewinder-apt-group-0
+customs-lk.org
+fia-gov.org
+mofa-pk.org
+nationalhelpdesk.pk
+nepra.org.pk
+sngpl.org.pk
+
+# https://www.zscaler.com/blogs/security-research/new-php-variant-ducktail-infostealer-targeting-facebook-business-accounts
+9todesigns.com
+chawood.com
+djderov.com
+emisfer.com
+
+# https://www.zscaler.com/blogs/security-research/agent-tesla-rat-delivered-quantum-builder-new-ttps
+ftp.qurvegraphics.com
+mail.thesharpening.com.au
+
 # https://www.zscaler.com/blogs/security-research/x-files-stealer-evolution-analysis-and-comparison-study
 acacaca.org
 importadoracandy.com
