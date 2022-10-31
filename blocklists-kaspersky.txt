@@ -3,6 +3,10 @@
 
 ## https://securelist.com/
 
+# https://securelist.com/apt10-tracking-down-lodeinfo-2022-part-i/107742/
+# https://securelist.com/apt10-tracking-down-lodeinfo-2022-part-ii/107745/
+dvdsesso.com
+
 # https://securelist.com/nullmixer-oodles-of-trojans-in-a-single-dropper/107498/
 ads-memory.biz
 all-mobile-pa1ments.com.mx
