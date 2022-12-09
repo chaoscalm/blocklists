@@ -3,6 +3,13 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/
+ms-office.services
+ms-offices.com
+openxmlformat.org
+template-openxml.com
+word-template.net
+
 # https://blog.google/threat-analysis-group/initial-access-broker-repurposing-techniques-in-targeted-attacks-against-ukraine/
 activecitizens.in.ua
 aprize.com.ua
