@@ -1,6 +1,13 @@
 ## cert-agid
 # https://cert-agid.gov.it/
 
+#https://cert-agid.gov.it/news/campagna-di-phishing-sfrutta-agid-e-inps-per-il-furto-di-credenziali-tramite-servizio-glideapps/
+idati.info
+i-verifica.one
+agid-italia.glideapp.io
+s-informazioni.click
+
+                
 # https://cert-agid.gov.it/news/il-malware-envyscout-apt29-e-stato-veicolato-anche-in-italia/
 agencijazaregistraciju.rs
 
