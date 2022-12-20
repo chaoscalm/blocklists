@@ -3,6 +3,42 @@
 
 # https://csirt.gov.it/contenuti
 
+
+# https://www.csirt.gov.it/contenuti/nuova-versione-del-malware-icexloader-bl01-221114-csirt-ita
+
+
+# https://www.csirt.gov.it/contenuti/rilevate-nuove-attivita-associate-al-worm-raspberry-robin-bl01-221028-csirt-ita-2
+
+guteyutur.com
+annunci.softupdt.com
+
+
+# https://www.csirt.gov.it/contenuti/rilevata-la-diffusione-del-malware-chaos-al01-220930-csirt-ita
+a.nqb001.com
+abc.cfed.cc
+ai.nqb001.com
+are.nishabig.pro
+ars1.wemix.cc
+bb.hash3688.com
+bitantcoins.pro
+botnet.ddoswow.site
+js.wanpay1.cn
+kivspace.xyz
+linuxddos.net
+quanquandd.top
+skyeda.vip
+tf.xiaozhuddos.co
+tomca1.com
+x.xlg360.xyz
+xiaomai233.f3322.net
+
+
+
+
+# https://www.csirt.gov.it/contenuti/follina-vulnerabilita-0-day-in-prodotti-microsoft-al01-220531-csirt-ita
+
+xmlformats.com
+
 # https://www.csirt.gov.it/contenuti/emotet-rilevata-nuova-campagna-di-distribuzione-al02-220518-csirt-ita
 3dstudioa.com.br
 anat-bar.co.il
