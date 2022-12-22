@@ -15,7 +15,6 @@ awsdns-2.org
 bingsearchlib.com
 burpcollaborator.net
 c19s.net
-canarytokens.com
 cuminside.club
 dataastatistics.com
 dnslog.cn
@@ -25,7 +24,6 @@ flofire.de
 interact.sh
 interactsh.com
 kryptoslogic-cve-2021-44228.com
-leakix.net
 log4j-test.xyz
 log4shell-iocs.md
 longwang-sword.com
