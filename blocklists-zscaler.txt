@@ -3,6 +3,116 @@
 
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blog/security-research/trade-with-caution
+tradingview.business
+
+# https://www.zscaler.com/blogs/security-research/sms-scams-trick-indian-banking-customers-installing-malicious-apps
+applicationkyc.pages.dev
+calm-fjord-69600.herokuapp.com
+calm-garden-42338.herokuapp.com
+cardupdatation.in
+cardupdate.in
+kyc-update-app.web.app
+please-visitnow-immediately.com
+point-dekho.xyz/save_sms.php
+pointincash.xyz
+publicationofindia.top
+sbi-kyc-app.web.app
+sbi-kyc-apps-v-23.web.app
+sbi-kyc-points.firebaseapp.com
+sbi-kyc-points.web.app
+sbi-kyc-update-immediately.firebaseapp.com
+sbi-kyc-update-immediately.web.app
+sbi-user-kyc-app.web.app
+sbi-users-kyc-1.web.app
+sheltered-dawn-11337.herokuapp.com
+updateyourcard.in
+
+# https://www.zscaler.com/blogs/security-research/surge-fake-fifa-world-cup-streaming-sites-targets-virtual-fans
+africanscientists.africa
+arakusus.com
+bestsports-stream.com
+brakenetic.com
+brazingonestop.site
+earningsteel.site
+eurotranslations.ie
+Fifa2022worldcup.net
+Fifafootball.io
+fifaworldcupontv.blogspot.com
+followfoxconn.site
+games-blacksoft.com
+gatewaytoworld.com
+hornwien.site
+hrslimwound.site
+humourousretort.top
+i13lc8k.cn
+karenstatus.site
+opensea.io
+overadmit.site
+rocklandbase.site
+sattology.org
+schemeresource.site
+sportsevents4me.store
+violentpreamps.site
+wartimestac.site
+ww6.brazingonestop.site
+ww16.brazingonestop.site
+ww16.excitinghear.site
+ww16.followfoxconn.site
+ww16.hornwien.site
+ww16.hrslimwound.site
+ww16.idolwizardry.site
+ww16.rocklandbase.site
+ww25.violentpreamps.site
+ww38.violentpreamps.site
+xbitwiseacre.site
+yzerfonteinaccommodation.co.za
+
+# https://www.zscaler.com/blogs/security-research/black-friday-scams-4-emerging-skimming-attacks-watch-holiday-season
+artmodecssdev.art
+cdn-common.com
+cdn-fonts.com
+cdn-mediacloud.com
+cdn-webcloud.com
+cdn-webhub.com
+devjs.biz
+html5decode.biz
+html5decode.com
+html5decode.net
+html5decode.org
+java-cloud.biz
+java-cloud.net
+java-cloud.org
+magento-cloud.biz
+magento-cloud.com
+magento-cloud.net
+magento-cloud.org
+modersecure.com
+mozillajs.biz
+mozillajs.net
+mozillajs.org
+payment-analytics.info
+stirepoint.com
+
+# https://www.zscaler.com/blogs/security-research/rise-banking-trojan-dropper-google-play-0
+gogoanalytics.click
+gogoanalytics.digital
+
+# https://www.zscaler.com/blogs/security-research/apt-36-uses-new-ttps-and-new-tools-target-indian-governmental-organizations
+gcloudsvc.com
+get-kavach.in
+getkavach.com
+kavach-app.com
+kavach-app.in
+kavachauthentication.blogspot.com
+kavachdownload.in
+kavachguide.com
+kavachmail-govin.rf.gd
+kavachsupport.com
+ncloudup.com
+nic-updates.in
+wzxdao.com
+
 # https://www.zscaler.com/blogs/security-research/warhawk-new-backdoor-arsenal-sidewinder-apt-group-0
 customs-lk.org
 fia-gov.org
