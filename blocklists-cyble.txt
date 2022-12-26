@@ -3,6 +3,80 @@
 
 ## https://blog.cyble.com/
 
+# https://blog.cyble.com/2022/12/23/new-youtube-bots-malware-spotted-stealing-users-sensitive-information/
+e-csc.gov.co.in
+e-cscgov.co.in
+e-cscgov.com
+ecscgov.co.in
+
+# https://blog.cyble.com/2022/12/16/sophisticated-darktortilla-malware-spreading-via-phishing-sites/
+atomm.com.br
+Cicsom.com
+Gnammarly.com
+
+# https://blog.cyble.com/2022/12/09/threat-actors-targeting-fans-amid-fifa-world-cup-fever/
+claim-fifa.live
+fifa-uj.top
+football-blnance.com
+kora442.com
+playskeep.com
+
+# https://blog.cyble.com/2022/12/01/ducklogs-new-malware-strain-spotted-in-the-wild/
+Ducklogs.com
+ilovetheducks.ru
+lovableduck.ru
+quackquack.ru
+smallduck.ru
+
+# https://blog.cyble.com/2022/11/30/fraudulent-digital-lending-andriod-app-steals-users-sensitive-data/
+api.loanbee.tech
+
+# https://blog.cyble.com/2022/11/30/redline-stealer-being-distributed-via-fake-express-vpn-sites/
+express-vpns.biz
+express-vpns.cloud
+express-vpns.fun
+express-vpns.online
+express-vpns.pro
+express-vpns.xyz
+
+# https://blog.cyble.com/2022/11/23/fake-msi-afterburner-sites-delivering-coin-miner/
+matrizauto.net
+
+# https://blog.cyble.com/2022/11/22/over-2-million-users-affected-with-browser-hijackers/
+go.searchsecurer.com
+internet-start.net
+rkn.gov.ru
+searchsecurer.com
+smartwebfinder.com
+ultrasurfing.com
+
+# https://blog.cyble.com/2022/11/15/phishing-campaign-targeting-indonesian-bri-bank-using-sms-stealer/
+brimo-login-id.apk-ind.com
+brimo-login-ind.apk-online.com
+id-bri-login.apk-online.com
+id-login-brimo.apk-ind.com
+id-login-brimo.apk-online.com
+ionicio.com
+login-bri-ib.apk-ind.com
+login-brimo-tarif.com
+skematrf-login.apk-ind.com
+
+# https://blog.cyble.com/2022/11/09/emotet-returns-targeting-users-worldwide/
+bayernbadabum.com
+copayucatan.com.mx
+cursosweb.com.br
+db.rikaz.tech
+designelis.com.br
+
+# https://blog.cyble.com/2022/11/02/new-laplas-clipper-distributed-by-smokeloader/
+clipper.guru
+
+# https://blog.cyble.com/2022/10/27/drinik-malware-returns-with-advanced-capabilities-targeting-indian-taxpayers/
+gia.3utilities.com
+
+# https://blog.cyble.com/2022/10/25/dual-malware-infection-targets-cryptocurrency-users/
+s457516.ha003.t.justns.ru
+
 # https://blog.cyble.com/2022/10/18/ermac-android-malware-increasingly-active/
 apk-combos.com
 app-vidmate.com
@@ -19,7 +93,7 @@ vidmates-app.com
 convertigoto.net
 
 # https://blog.cyble.com/2022/10/13/mitsu-stealer-distributed-via-anydesk-phishing-site/
-anydesk[.ml
+anydesk.ml
 
 # https://blog.cyble.com/2022/10/11/massive-tech-support-scam-exposed/
 0022winsupportonline.xyz
