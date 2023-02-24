@@ -20,3 +20,12 @@ matomo.pensareweb.it
 matomo.ticketingbox.com
 matomo.valigiablu.it
 matomo.valueforyou.cineca.it
+piwik1.glauco.it
+piwik.auslromagna.it
+piwik.av-comparatives.org
+piwik.easyhandling.nl
+piwik.fiblserver.com
+piwik.procne.it
+piwik.whiterabbitsuite.com
+piwik.konicaminolta.eu
+piwik.tapatalk.com
