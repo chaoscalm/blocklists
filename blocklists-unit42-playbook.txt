@@ -412,7 +412,6 @@ microsoft.authorizeddns.us
 msdns.otzo.com
 
 # reaper
-kgls.or.kr
 old.jrchina.com
 
 # rocke-group
