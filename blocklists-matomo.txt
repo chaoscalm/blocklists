@@ -29,3 +29,14 @@ piwik.procne.it
 piwik.whiterabbitsuite.com
 piwik.konicaminolta.eu
 piwik.tapatalk.com
+matomo.alkemyplay.it
+matomo.eea.europa.eu
+piwik-hls.xwiki.com
+piwik.logos.net
+stats.davincimedia.it
+stats.reteambiente.com
+web.stats.ilmiopatronato.org
+stats.orizzontescuola.it
+webstats.opensoftware.it
+stats.estrema.it
+stats.terredargine.it
