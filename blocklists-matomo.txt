@@ -40,3 +40,5 @@ stats.orizzontescuola.it
 webstats.opensoftware.it
 stats.estrema.it
 stats.terredargine.it
+matomo.selda.it
+matomo.dmcultura.it
