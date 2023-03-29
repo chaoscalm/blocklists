@@ -3,6 +3,13 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/
+anglesyen.org
+api.cutlink.site
+cdn.cutlink.site
+imjustarandomsite.3utilities.com
+sufficeconfigure.com
+
 # https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/
 ms-office.services
 ms-offices.com
