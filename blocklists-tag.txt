@@ -3,6 +3,22 @@
 
 # https://blog.google/threat-analysis-group/
 
+# https://blog.google/threat-analysis-group/ukraine-remains-russias-biggest-cyber-focus-in-2023/
+biogenie.substack.com
+chatgpt4beta.com
+cpcpipe.com
+cpcpipe.org
+masterofdigital.org
+meta-l.space
+passport-log.online
+passport-ua.site
+robot-876.frge.io
+setnewcreds.ukr.net.frge.io
+telegram.org.4234e8234ad0f.24o1.com
+telegram.org.security.ohsxy.com
+ukroboronprom.com.ukr.pm
+ukrprivatesite.frge.io
+
 # https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/
 anglesyen.org
 api.cutlink.site
