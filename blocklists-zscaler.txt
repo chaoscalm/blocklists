@@ -3,6 +3,159 @@
 
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/security-research/introducing-devopt-multifunctional-backdoor-arsenal
+mvd-k-tula.ru
+mvd-k-tula.siteme.org
+wdfiles-download.siteme.org
+
+# https://www.zscaler.com/security-research/3CX-supply-chain-attack-analysis-march-2023
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msedgeupdate.net
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wiki
+sourceslabs.com
+visualstudiofactory.com
+zacharryblogs.com
+
+# https://www.zscaler.com/blogs/security-research/technical-analysis-xloaders-code-obfuscation-version-43
+060jinbo.com
+4tx.ru
+117ygh9x.com
+365-8119.com
+365heji.com
+667fm.com
+991-touring.info
+10086253.vip
+abttt.win
+adacaranya.com
+allforfun.online
+allison2patrick.online
+applicationsdown.store
+apsocreto.online
+avdeeva.info
+betfury-platform.net
+bilpoinsaat.net
+bocc.live
+bookinbournemouth.co.uk
+botanica-online.ru
+byfuture.biz
+canlicerrahi.xyz
+ceu84g.com
+chiyiqian.net
+christmatoy.com
+cinemamaxz.com
+coffeelectro.online
+dedmorozvidos.store
+difozaa.life
+dugebitv4.xyz
+eatgre.wiki
+expertponto.com
+farmanow.xyz
+flippingfrenzy.com
+g2fm.co.uk
+ginaandhipa.com
+graciesvoice.info
+guzmanmodels.com
+habka.online
+hal-skincare.com
+hiufouwnwk.shop
+hjiqa.com
+huifeng-tech.com
+identowel.com
+inigrey.com
+ituyiut.wang
+jimtrosper.com
+jourmoe.com
+kajainterior.com
+loaddown.vip
+mgconsultantlogistics.com
+myif471ok9ipidk2kkl.xyz
+najdlegend1.com
+nnhuigou.com
+ogei.app
+poweroffer.net
+realtxt.co.uk
+seeword.site
+solutionsquik.net
+themas5erofssuepnse.cyou
+uevj.win
+vowlashes.co.uk
+wanknumbers.co.uk
+wsavxrg.shop
+zzaen.com
+
+# https://www.zscaler.com/blogs/security-research/dbatloader-actively-distributing-malwares-targeting-european-businesses+
+hxxps://silverline[.]com
+hallowed247[.]duckdns[.]org
+hxxps://sleda[.]sleda[.]eu
+thesquirrelgame[.]net
+b-yy[.]xyz
+
+# https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-distribution
+helthbrotthersg.com         
+transfer.sh    
+ehonlionetodo.com                            
+thefirstupd.com                             
+myvigyan.com   
+starcomputadoras.com
+somosnutrisalud.cl 
+wi-protect.com                    
+oiartzunirratia.eus
+                             
+# https://www.zscaler.com/blogs/security-research/snip3-crypter-reveals-new-ttps-over-time
+crazydns.linkpc.net
+
+# https://www.zscaler.com/blogs/security-research/havoc-across-cyberspace
+ttwweatterarartgea.ga
+
+# https://www.zscaler.com/blogs/security-research/dynamic-approaches-seen-avemarias-distribution-strategy
+hbfyewtuvfbhsbdjhjwebfy.net
+kashbilly.duckdns.org
+mt4blog.com
+odessa-gov.ddns.net
+pliblu-fax.home-webserver.de
+sgtmarkets.com
+
+# https://www.zscaler.com/blogs/security-research/job-scams-impersonate-companies-still-hiring-following-tech-layoffs
+canadiantire.work
+career-conagragroup.live
+career-petsmart.com
+careers-firstenergycorp.online
+global-application.us
+hire-weston.com
+intellectsoftcareer.com
+interview-petsmart.online
+submit-application.us
+zscaler-finance-analyst-strategy.live
+zscalercareers.co
+zuora-ux-designer-a83637.ingress-erytho.easywp.com
+
+# https://www.zscaler.com/blogs/security-research/album-stealer-targets-facebook-adult-only-content-seekers
+cdn.ubutun.xyz
+findalbum.top
+Foundaz.xyz
+Keeptosafe.top
+microtobig.xyz
+neuka.top
+Ponamei.top
+rebrandtop.top
+shopalbum.xyz
+
 # https://www.zscaler.com/blog/security-research/trade-with-caution
 tradingview.business
 
