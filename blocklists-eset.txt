@@ -24,7 +24,6 @@ ybnm.navercloud.org
 # https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/
 # https://github.com/eset/malware-ioc/tree/master/swc-candiru
 addthis.events
-almasirahnews.com
 bit-ly.site
 bitly.bz
 bitly.tel
@@ -46,7 +45,6 @@ instagrarn.co
 livesesion.bid
 livesession.bid
 llink.link
-manartv.com.lb
 medica-tradefair.co
 mmy.ye
 moatads.co
