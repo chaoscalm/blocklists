@@ -20,6 +20,74 @@ unlimitedteacup.com
 virtuallaughing.com
 web-trackers.com
 
+# https://securelist.com/goldenjackal-apt-group/109677/
+abert-online.de
+acehigh.host
+ajapnyakmc.com
+assistance.uz
+asusiran.com
+cnom.sante.gov.ml
+croma.vn
+den-photomaster.kz
+djstuff.fr
+eyetelligence.ai
+finasteridehair.com
+gradaran.be
+info.merysof.am
+invest.zyrardow.pl
+mehrganhospital.com
+meukowcognac.com
+nassiraq.iq
+new.jmcashback.com
+news.lmond.com
+pabalochistan.gov.pk
+pak-developers.net
+perlesoie.com
+sbj-i.com
+sokerpower.com
+tahaherbal.ir
+technocometsolutions.com
+weblines.gr/gallery
+wetter-bild.de
+winoptimum.com
+
+# https://securelist.com/cloudwizard-apt/109722/
+curveroad.com
+
+# https://securelist.com/fleckpe-a-new-family-of-trojan-subscribers-on-google-play/109643/
+beautycam.xyz
+gifcam.xyz
+hdmodecam.live
+iprocam.xyz
+mveditor.xyz
+odskguo.xyz
+photoeffect.xyz
+slimedit.live
+toobox.online
+twmills.xyz
+
+# https://securelist.com/qbot-banker-business-correspondence/109535/
+abhishekmeena.in
+agtendelperu.com
+capitalperurrhh.com
+centerkick.com
+chimpcity.com
+cica.com.co
+graficalevi.com.br
+kmphi.com
+propertynear.co.uk
+rosewoodlaminates.com
+theshirtsummit.com
+
+# https://securelist.com/nokoyawa-ransomware-attacks-with-windows-zero-day/109483/
+devsetgroup.com
+qooqle.top
+vnssinc.com
+vsexec.com
+
+
+
+
 # https://securelist.com/apt10-tracking-down-lodeinfo-2022-part-i/107742/
 # https://securelist.com/apt10-tracking-down-lodeinfo-2022-part-ii/107745/
 dvdsesso.com
