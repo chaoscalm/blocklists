@@ -88,3 +88,5 @@ stats.vodafone-wifi.com
 svi-matomo.serviziaci.it
 web.stats.ilmiopatronato.org
 webstats.opensoftware.it
+
+analytics.controld.com
