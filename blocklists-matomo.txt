@@ -45,3 +45,6 @@ stats.terredargine.it
 web.stats.ilmiopatronato.org
 webstats.opensoftware.it
 matomo-germania1.kleecks-stats.com
+
+analytics.difesa.it
+ingestion.webanalytics.italia.it
