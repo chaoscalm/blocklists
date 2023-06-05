@@ -3,6 +3,54 @@
 
 # https://yoroi.company/blog/
 
+# https://yoroi.company/warning/supply-chain-attack-ai-danni-di-3cx-client-desktop-app/
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wiki
+sourceslabs.com
+visualstudiofactory.com
+zacharryblogs.com
+
+# https://yoroi.company/research/ducktail-dissecting-a-complex-infection-chain-started-from-social-engineering/
+beautygirls-photos.com
+beautygirls-picture.com
+caseiden.com
+download5s.com
+graeslavur.com
+ikejd.com
+jmooreassoc.com
+karbilyazilim.com
+kimhasa.com
+meetstaci.com
+notodaiya.com
+photo-cam.com
+rapadtrai.com
+romeflirt.com
+s1-download-photos.com
+sensetria.com
+shble.com
+te5.techgeetam.com
+velascasadelaluz.com
+x-album.com
+x-albums.com
+x-photos.net
+x-pictures.net
+
 # https://yoroi.company/research/serverless-infostealer-delivered-in-est-european-countries/
 madarbloghogya.blogspot.com
 
