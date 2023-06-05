@@ -4,6 +4,47 @@
 ## https://news.drweb.com/list
 ## https://github.com/DoctorWebLtd/malware-iocs
 
+# https://news.drweb.com/show/?i=14705&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Spy.SpinOk/README.adoc
+d3hdbjtb1686tn.cloudfront.net
+s.hisp.in
+
+# https://news.drweb.com/show/?i=14646&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/tree/master/Linux.Backdoor.WordPressExploit.1
+clon.collectfasttracks.com
+count.trackstatisticsss.com
+css.digestcolect.com
+deliverygoodstrategies.com
+gabriellalovecats.com
+letsmakeparty3.ga
+lobbydesires.com
+
+# https://news.drweb.com/show/?i=14608&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.FakeApp.1036/README.adoc
+d21icdv45rw4c3.cloudfront.net
+grabjobs1.com
+jobrecommon.com
+jobsfinder1.com
+jobstodayfyj.com
+nanoss1.com
+notpon666.com
+recruitjobrecommon.com
+
+# https://news.drweb.com/show/?i=14542&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/tree/master/Android.BackDoor.3104
+api.genetence.com
+api.matriature.com
+api.miretic.com
+api.sensfaction.com
+app.fota.digitimetech.com
+s1.fotaservice.com
+statistics.flurrydata.com
+
+
+
+
+
+
 # https://news.drweb.com/show/?i=14451&lng=en
 # https://github.com/DoctorWebLtd/malware-iocs/blob/master/APT_telecom2021/README.adoc
 blog.globnewsline.com
