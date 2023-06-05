@@ -4,6 +4,22 @@
 ## https://www.welivesecurity.com
 ## https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/
+
+80876dd5.shop
+order.80876dd5.shop
+
+# https://www.welivesecurity.com/2023/04/20/linux-malware-strengthens-links-lazarus-3cx-supply-chain-attack/
+
+journalide.org
+od.lk	
+
+# https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/
+
+
+
+
+
 # https://www.welivesecurity.com/2022/04/27/lookback-ta410-umbrella-cyberespionage-ttps-activity/
 # https://github.com/eset/malware-ioc/tree/master/ta410
 cahe.microsofts.com
