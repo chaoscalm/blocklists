@@ -3,6 +3,76 @@
 
 ## https://labs.sentinelone.com/
 
+# https://www.sentinelone.com/labs/kimsuky-ongoing-campaign-using-tailored-reconnaissance-toolkit/
+cf-health.click
+com-def.asia
+com-hwp.space
+com-in.asia
+com-otp.click
+com-people.click
+com-port.space
+com-pow.click
+com-price.space
+com-view.online
+com-www.click
+db-online.space
+de-file.online
+ko-asia.click
+kr-angry.click
+kr-me.click
+
+# https://www.sentinelone.com/labs/kimsuky-evolves-reconnaissance-capabilities-in-new-global-campaign/
+aaaaawwqwdqkidoemsk.lives.com-change.info
+accounts.live.com-change.info
+accounts.lives.com-change.info
+cashsentinel.com-change.info
+cashsentinel.hotmail.com-change.info
+cashsentinel.hotrnail.com-change.info
+cashsentinel.live.com-change.info
+cashsentinel.lives.com-change.info
+cashsentinel.microsoft.com-change.info
+cashsentinel.naver.com-change.info
+cashsentinel.navers.com-change.info
+cashsentinel.navor.com-change.info
+cashsentinel.outlock.com-change.info
+cashsentinel.outlook.com-change.info
+cloud.navor.com-change.info
+downmail.navor.com-change.info
+gmail.com-change.info
+grnail.com-change.info
+hotmail.com-change.info
+hotrnail.com-change.info
+live.com-change.info
+lives.com-change.info
+loges.lives.com-change.info
+loginsaa.gmail.com-change.info
+loginsaa.grnail.com-change.info
+logmes.lives.com-change.info
+logrns.lives.com-change.info
+logws.lives.com-change.info
+microsoft.com-change.info
+microsoft.loginsaa.gmail.com-change.info
+microsoft.loginsaa.grnail.com-change.info
+mitmail.tech
+naver.com-change.info
+naver.loginsaa.gmail.com-change.info
+navers.com-change.info
+navor.com-change.info
+nlds.navor.com-change.info
+outlock.com-change.info
+outlook.com-change.info
+paypal.com-change.info
+publiccloud.navor.com-change.info
+rfa.ink
+skjflkjsjflejlkjieiieieiei.lives.com-change.info
+yonsei.lol
+
+
+
+
+
+
+
 # https://www.sentinelone.com/labs/socgholish-diversifies-and-expands-its-malware-staging-infrastructure-to-counter-defenders/
 hemi.mamasbakery.net
 track.positiverefreshment.org
