@@ -4,6 +4,17 @@
 # https://research.checkpoint.com/
 # https://research.checkpoint.com/latest-publications/
 
+# https://research.checkpoint.com/2023/stealth-soldier-backdoor-used-in-targeted-espionage-attacks-in-north-africa/
+2096.website
+customjvupdate.live
+filecloud.store
+filestoragehub.live
+loglivemail.com
+webmailogemail.com
+
+# https://research.checkpoint.com/2023/the-dragon-who-sold-his-camaro-analyzing-custom-router-implant/
+m.cremessage.com
+
 # https://research.checkpoint.com/2023/eastern-asian-android-assault-fluhorse/
 api.fetc-net.com
 api.fetctw.xyz
