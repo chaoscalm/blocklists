@@ -3,6 +3,32 @@
 
 # https://csirt.gov.it/contenuti
 
+# https://www.csirt.gov.it/contenuti/rilevata-nuova-campagna-di-phishing-ai-danni-degli-utenti-di-poste-italiane-al05-230608-csirt-ita
+loginsicuro.45-81-39-246.cprapid.com
+
+# https://www.csirt.gov.it/contenuti/campagna-di-smishing-a-tema-unicredit-al04-230427-csirt-ita
+birathospital.com
+is.gd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # https://www.csirt.gov.it/contenuti/emotet-rilevata-nuova-campagna-di-distribuzione-al02-220518-csirt-ita
 3dstudioa.com.br
 anat-bar.co.il

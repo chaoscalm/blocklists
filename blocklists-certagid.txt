@@ -1,6 +1,26 @@
 ## cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/news/nuova-campagna-sload-diffusa-via-pec/
+zindx.com
+
+# https://cert-agid.gov.it/news/malware/analisi-di-un-pythonrat-individuato-su-un-dominio-italiano/
+lucaagostini.it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # https://cert-agid.gov.it/news/il-malware-envyscout-apt29-e-stato-veicolato-anche-in-italia/
 agencijazaregistraciju.rs
 
