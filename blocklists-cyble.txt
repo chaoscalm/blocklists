@@ -58,7 +58,6 @@ matrizauto.net
 # https://blog.cyble.com/2022/11/22/over-2-million-users-affected-with-browser-hijackers/
 go.searchsecurer.com
 internet-start.net
-rkn.gov.ru
 searchsecurer.com
 smartwebfinder.com
 ultrasurfing.com
