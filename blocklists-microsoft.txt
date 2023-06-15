@@ -184,3 +184,27 @@ zebra-arts.com
 zedforme.com
 zeebefg.com
 zooloow.com
+
+# https://www.microsoft.com/en-us/security/blog/2023/04/07/mercury-and-dev-1084-destructive-attack-on-hybrid-environment/
+vatacloud.com
+
+# https://www.microsoft.com/en-us/security/blog/2022/12/21/microsoft-research-uncovers-new-zerobot-capabilities/
+zero.sudolite.ml
+
+# https://www.microsoft.com/en-us/security/blog/2022/12/15/mccrash-cross-platform-ddos-botnet-targets-private-minecraft-servers/
+repo.ark-event.net
+
+# https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/
+strainservice.com
+
+# https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/
+aviadronazhed.com
+guteyutur.com
+
+# https://www.microsoft.com/en-us/security/blog/2022/09/29/zinc-weaponizing-open-source-software/
+cats.runtimerec.com
+elite4print.com
+hurricanepub.com
+olidhealth.com
+recruitment.raystechserv.com
+turnscor.com
