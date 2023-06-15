@@ -4,18 +4,25 @@
 ## https://www.welivesecurity.com
 ## https://github.com/eset/malware-ioc
 
-# https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/
+# https://www.welivesecurity.com/2023/06/15/android-gravityrat-goes-after-whatsapp-backups/
+adb.androidadbserver.com
+bingechat.net
+chatico.co.uk
+cld.androidadbserver.com
+dev.androidadbserver.com
+dev.jdklibraries.com
+jre.jdklibraries.com
+ping.androidadbserver.com
 
-80876dd5.shop
-order.80876dd5.shop
+# https://www.welivesecurity.com/2023/06/08/asylum-ambuscade-crimeware-or-cyberespionage/
+namesilo.my.id
+snowzet.com
+
+# https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/
 
 # https://www.welivesecurity.com/2023/04/20/linux-malware-strengthens-links-lazarus-3cx-supply-chain-attack/
 
-journalide.org
-od.lk	
-
 # https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/
-
 
 
 
