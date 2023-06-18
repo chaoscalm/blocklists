@@ -3,6 +3,30 @@
 
 ## https://blog.cyble.com/
 
+# https://blog.cyble.com/2023/06/16/new-malware-campaign-targets-letsvpn-users/
+letsvpn.club
+letsvpn.cyou
+latavpn.world
+letevpn.world
+letsvpnaa.com
+lestvpn.com
+
+# https://blog.cyble.com/2023/06/14/cloud-mining-scam-distributes-roamer-banking-trojan/
+c58cmin.m8er2s.top
+cloud-miner.cc
+cloud-miner.top
+cloud-mining.vip
+cloudmining.uk.com
+down.mining-tron.vip
+
+# https://blog.cyble.com/2023/06/13/threat-actor-targets-russian-gaming-community-with-wannacry-imitator/
+adobe-acrobat.1gb.ru
+testsite-beta-ne.1gb.ru
+
+# https://blog.cyble.com/2023/06/05/helloteacher-new-android-malware-targeting-banking-users-in-vietnam/
+api.sixmiss.com
+api.viberrx.com
+
 # https://blog.cyble.com/2023/05/30/pixbankbot-new-ats-based-malware-poses-threat-to-the-brazilian-banking-sector/
 proctrt.sytes.net
 
@@ -12,6 +36,21 @@ capcut-freedownload.com
 capcutdownload.com
 capcutfreedownload.com
 capcutpc-download.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
