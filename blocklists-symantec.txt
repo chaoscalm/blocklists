@@ -3,6 +3,13 @@
 
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence
 
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/flea-backdoor-microsoft-graph-apt15
+beltsymd.org	
+cyclophilit.com	
+cyprus-villas.org	
+perusmartcity.com	
+verisims.com
+
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/xtrader-3cx-supply-chain
 tradingtechnologies.com
 
