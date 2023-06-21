@@ -3,6 +3,30 @@
 
 ## https://blog.cyble.com/
 
+# https://blog.cyble.com/2023/06/16/new-malware-campaign-targets-letsvpn-users/
+letsvpn.club
+letsvpn.cyou
+latavpn.world
+letevpn.world
+letsvpnaa.com
+lestvpn.com
+
+# https://blog.cyble.com/2023/06/14/cloud-mining-scam-distributes-roamer-banking-trojan/
+c58cmin.m8er2s.top
+cloud-miner.cc
+cloud-miner.top
+cloud-mining.vip
+cloudmining.uk.com
+down.mining-tron.vip
+
+# https://blog.cyble.com/2023/06/13/threat-actor-targets-russian-gaming-community-with-wannacry-imitator/
+adobe-acrobat.1gb.ru
+testsite-beta-ne.1gb.ru
+
+# https://blog.cyble.com/2023/06/05/helloteacher-new-android-malware-targeting-banking-users-in-vietnam/
+api.sixmiss.com
+api.viberrx.com
+
 # https://blog.cyble.com/2023/05/30/pixbankbot-new-ats-based-malware-poses-threat-to-the-brazilian-banking-sector/
 proctrt.sytes.net
 
@@ -12,6 +36,119 @@ capcut-freedownload.com
 capcutdownload.com
 capcutfreedownload.com
 capcutpc-download.com
+
+# https://blog.cyble.com/2023/05/03/new-kekw-malware-variant-identified-in-pypi-package-distribution/
+blackcap.ru
+kekwltd.ru
+
+# https://blog.cyble.com/2023/04/26/threat-actor-selling-new-atomic-macos-amos-stealer-on-telegram/
+amos-malware.ru
+
+#https://blog.cyble.com/2023/04/25/print-management-software-papercut-actively-exploited-in-the-wild/
+anydeskupdate.com
+anydeskupdates.com
+netviewremote.com
+upd488.windowservicecemter.com
+updateservicecenter.com
+windowcsupdates.com
+windowservicecentar.com
+windowservicecenter.com
+winserverupdates.com
+
+# https://blog.cyble.com/2023/04/21/qakbot-malware-continues-to-morph/
+carladvogadatributaria.com
+citytech-solutions.com
+erg-eg.com
+gsscorporationltd.com
+hotellosmirtos.com
+mrcrizquna.com
+nayadofoundation.org
+zainco.net
+
+# https://blog.cyble.com/2023/04/13/chameleon-a-new-android-malware-spotted-in-the-wild/
+renatsoft.com.br
+
+# https://blog.cyble.com/2023/03/31/a-comprehensive-analysis-of-the-3cx-attack/
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+convieneonline.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wiki
+sourceslabs.com
+Soyoungjun.com
+visualstudiofactory.com
+zacharryblogs.com
+
+# https://blog.cyble.com/2023/03/29/creal-new-stealer-targeting-cryptocurrency-users-via-phishing-sites/
+kryptex.software
+
+# https://blog.cyble.com/2023/03/23/cinoshi-project-and-the-dark-side-of-free-maas/
+anaida.evisyn.lol
+tryno.ru
+
+# https://blog.cyble.com/2023/03/21/notorious-sidecopy-apt-group-sets-sights-on-indias-drdo/
+cornerstonebeverly.org
+
+# https://blog.cyble.com/2023/03/17/recent-emotet-spam-campaign-utilizing-new-tactics/
+1it.fit
+4fly.su
+efirma.sglwebs.com
+hypernite.5v.pl
+kts.group
+malli.su
+olgaperezporro.com
+polarkh-crewing.com
+semedacara.com.br
+staging-demo.com
+thailandcan.org
+uk-eurodom.com
+
+# https://blog.cyble.com/2023/03/14/svb-collapse-triggers-heightened-cybersecurity-concerns/
+banksvb.com
+circle-mintusdc.com
+circle-reserves.com
+circle.web3claimer.net
+circleusdcoin.com
+login-svb.com
+redeemed-circle.com
+svb-circle.com
+svb-usdc.com
+svb-usdc.net
+svbank.com
+svbbailout.com
+svbclaim.com
+svbclaims.net
+svbcollapse.com
+svbdebt.com
+svbi.io
+svblogin.com
+usd-circle.com  
+
+# https://blog.cyble.com/2023/03/14/goatrat-android-banking-trojan-variant-targeting-brazilian-banks/
+api.goatrat.com
+goatrat.com
+
+
+
+
+
+
+
+
 
 
 
@@ -58,7 +195,6 @@ matrizauto.net
 # https://blog.cyble.com/2022/11/22/over-2-million-users-affected-with-browser-hijackers/
 go.searchsecurer.com
 internet-start.net
-rkn.gov.ru
 searchsecurer.com
 smartwebfinder.com
 ultrasurfing.com

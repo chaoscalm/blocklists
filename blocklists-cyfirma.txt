@@ -1,0 +1,30 @@
+## hosts-blocklists
+## blocklists-cyfirma
+
+# https://www.cyfirma.com/research/
+
+# https://www.cyfirma.com/outofband/donot-apt-elevates-its-tactics-by-deploying-malicious-android-apps-on-google-play-store/
+Appnsure.com
+Ikhfaavpn.com
+
+# https://www.cyfirma.com/outofband/deltaboys-black-hats-on-the-rise/
+bashupload.com
+
+# https://www.cyfirma.com/outofband/donot-apt-targets-individuals-in-south-asia-using-android-malware/
+mindestplay.buzz
+playstoree.xyz 
+visited.buzz
+
+# https://www.cyfirma.com/outofband/apt-bahamut-attacks-indian-intelligence-operative-using-android-malware/
+cdw1ir0dc9g3dwl5oh1y.de
+
+https://www.cyfirma.com/outofband/erbium-stealer-malware-report/
+Panel.erbium.ml 
+
+# https://www.cyfirma.com/outofband/nukesped-rat-report/
+ddjmco.kr
+snum.or.kr
+
+# https://www.cyfirma.com/outofband/matanbuchus-loader-report/
+collectiontelemetrysystem.com
+telemetrysystemcollection.com

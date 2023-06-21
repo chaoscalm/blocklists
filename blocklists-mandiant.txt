@@ -1,0 +1,69 @@
+## hosts-blocklists
+## blocklists-mandiant
+
+# https://www.mandiant.com/resources/blog
+
+# https://www.mandiant.com/resources/blog/barracuda-esg-exploited-globally
+bestfindthetruth.com
+fessionalwork.com
+gesturefavour.com
+goldenunder.com
+singamofing.com
+singnode.com
+togetheroffway.com
+troublendsef.com
+
+# # https://www.mandiant.com/resources/blog/lnk-between-browsers
+2022-blanks.site
+ashgrrwt.click
+extenision-app.com
+finandy.info
+finandy.online
+flnand.online
+kz-smartbank.com
+mareux.online
+mmarx.quest
+nch-software.info
+okxsat.xyz
+panger-top.click
+pr-tracker.online
+qivvi-3.click
+serienjunkies.us
+telegromcn.org
+vceilinichego.ru
+vse-blanki.online
+
+# https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise
+apollo-crypto.org.shilaerc20.com
+curvefinances.com
+journalide.org
+msedgepackageinfo.com
+nxmnv.site
+pbxphonenetwork.com
+
+# https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated
+ms-prod19-live.com
+
+# https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970
+abba-servicios.mx
+ajayjangid.in
+crickethighlights.today
+doug.org
+fainstec.com
+keewoom.co.kr
+leadsblue.com
+mantis.quick.net.pl
+olidhealth.com
+ruscheltelefonia.com.br
+sede.lamarinadevalencia.com
+toptradenews.com
+webinternal.anyplex.com
+
+# https://www.mandiant.com/resources/blog/tracking-evolution-gootloader-operations
+jonathanbartz.com
+jp.imonitorsoft.com
+junk-bros.com
+kakiosk.adsparkdev.com
+kepw.org
+kristinee.com
+lakeside-fishandchips.com
