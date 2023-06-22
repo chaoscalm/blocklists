@@ -3,6 +3,55 @@
 
 # https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/?sort-by=newest-oldest&date=any
 
+# https://www.microsoft.com/en-us/security/blog/2023/06/22/iot-devices-and-linux-based-systems-targeted-by-openssh-trojan-campaign/
+2018.rawdot.net
+amsterdam.nl.socialfreedom.party
+blog.rawdot.net
+cler.madagent.cc
+clients.rawdot.net
+donate.xmr.rawdot.net
+dumpx.madagent.cc
+dumpx.madagent.tm
+frankfurt.de.socialfreedom.party
+ftp.rawdot.net
+irc.socialfreedom.party
+losangeles.us.socialfreedom.party
+madagent.cc
+mh.madagent.cc
+mumbaitravelers.org
+ns1.madagent.cc
+ns2.madagent.cc
+ns3.madagent.cc
+ns4.madagent.cc
+pool.rawdot.net
+psql01.rawdot.net
+reg.madagent.cc
+reg.madagent.tm
+rsh.sys-stat.download
+sh.0xbadc0de.stream
+sh.madagent.tm
+sh.rawdot.net
+sh.sys-stat.download
+sidney.au.socialfreedom.party
+singapore.sg.socialfreedom.party
+ss.0xbadc0de.stream
+ssh.madagent.cc
+ssh.madagent.tm
+sshm.madagent.cc
+sshm.madagent.tm
+ssho.madagent.cc
+ssho.madagent.tm
+ssho.rawdot.net
+sshr.madagent.cc
+sshr.madagent.tm
+sshu.madagent.cc
+sshu.madagent.tm
+user.madagent.cc
+user.madagent.tm
+madagent.cc
+rawdot.net
+z.madagent.tm
+
 # https://www.microsoft.com/en-us/security/blog/2023/06/14/cadet-blizzard-emerges-as-a-novel-and-distinct-russian-threat-actor/
 justiceua.org
 
