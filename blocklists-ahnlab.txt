@@ -1,0 +1,45 @@
+## hosts-blocklists
+## blocklists-ahnlab
+
+# https://asec.ahnlab.com/en/
+
+# https://asec.ahnlab.com/en/54678/
+vndjgheruewy1.com
+
+# https://asec.ahnlab.com/en/54662/
+californiaapostillenotary.com
+formspree.io
+naehpa.com
+regulateantelope.sa.com
+sattaonmobile.com
+submit-form.com
+
+# https://asec.ahnlab.com/en/54647/
+ddoser.org
+ircx.us.to
+
+# https://asec.ahnlab.com/en/54375/
+pita1.sportsontheweb.net
+
+# https://asec.ahnlab.com/en/54195/
+bcdm.or.kr
+coupontreezero.com
+daehang.com
+gongsilbox.com
+hmedical.co.kr
+ksmarathon.com
+materic.or.kr
+sinae.or.kr
+swt-keystonevalve.com
+
+# https://asec.ahnlab.com/en/54260/
+classychic.top
+cookcollectives.xyz
+fecoles.online
+forrwel.net
+hadxxx.cf
+marineclaimoffice.com
+mexob.online
+urbancon.xyz
+xysklhgf.xyz
+zhaoziliao1668.cn
