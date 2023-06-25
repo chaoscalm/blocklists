@@ -142,7 +142,6 @@ bourns.space
 yotsubasociety.website
 
 # https://cert.gov.ua/article/4789582
-
 0-t.me
 00-l.ru
 4-t.me
@@ -237,3 +236,65 @@ zaliphone.com
 diagnostic-resolver.com
 ms-webdav-miniredir.com
 net-certificate.services
+
+# https://cert.gov.ua/article/4555802
+3dstore.pro
+balkimotion.ru
+coudzoom.ru
+criticalosl.tech
+homospoison.ru
+humanitarydp.ug
+ipodromlan.ru
+lamazone.site
+ligaspace.ru
+maximprofile.net
+redport80.ru
+shopersport.ru
+sindoproperty.org
+superboler.com
+zaliphone.com
+
+# https://cert.gov.ua/article/4492467
+mockbin.org
+run.mocky.io
+
+# https://cert.gov.ua/article/4279195
+bt.hurtom.com
+bt.toloka.to
+bt.toloka.tv
+dwservice.net
+toloka.to
+
+# https://cert.gov.ua/article/3931296
+courtbox.online
+courtgova.online
+courtgova.site
+
+# https://cert.gov.ua/article/3804703
+telecomds.online
+
+# https://cert.gov.ua/article/3761023
+bugiplaysec.com
+ocspdep.com
+troadsecow.com
+
+# https://cert.gov.ua/article/3349703
+delta-storages.com
+hexactor.com
+
+# https://cert.gov.ua/article/3192088
+dsns.com.ua
+
+# https://cert.gov.ua/article/2724253
+advanced-ip-scanner.click
+advanced-ip-scanner.site
+agrikoz.com
+aluaadin.com
+arminext.com
+benokij.com
+fudupdate.com
+sinergil.com
+softloadup.com
+survefuz.com
+vinergil.com
+zbignef.com
