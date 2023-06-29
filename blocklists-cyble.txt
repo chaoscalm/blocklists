@@ -3,6 +3,13 @@
 ## https://blog.cyble.com/
 
 
+# https://blog.cyble.com/2023/06/23/trojanized-super-mario-game-installer-spreads-supremebot-malware/
+shadowlegion.duckdns.org
+silentlegion.duckdns.org
+
+# https://blog.cyble.com/2023/06/22/mallox-ransomware-implements-new-infection-strategy/
+whyers.io
+
 # https://blog.cyble.com/2023/06/16/new-malware-campaign-targets-letsvpn-users/
 letsvpn.club
 letsvpn.cyou
