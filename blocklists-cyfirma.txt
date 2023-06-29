@@ -1,7 +1,7 @@
 ## hosts-blocklists
 ## blocklists-cyfirma
+## https://www.cyfirma.com/research/
 
-# https://www.cyfirma.com/research/
 
 # https://www.cyfirma.com/outofband/donot-apt-elevates-its-tactics-by-deploying-malicious-android-apps-on-google-play-store/
 Appnsure.com

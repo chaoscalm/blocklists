@@ -1,7 +1,6 @@
 ## hosts-blocklists
 ## blocklists-bitdefender
-
-# https://www.bitdefender.com/blog/labs/tag/antimalware-research/
+## https://www.bitdefender.com/blog/labs/tag/antimalware-research/
 
 
 # https://www.bitdefender.com/blog/labs/exposing-rdstealerdeep-dive-into-a-targetedcyber-attack-against-east-asiainfrastructure/

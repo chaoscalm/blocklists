@@ -1,7 +1,7 @@
 ## hosts-blocklists
 ## blocklists-cyble
-
 ## https://blog.cyble.com/
+
 
 # https://blog.cyble.com/2023/06/16/new-malware-campaign-targets-letsvpn-users/
 letsvpn.club

@@ -1,0 +1,9 @@
+## hosts-blocklists
+## blocklists-volexity
+## https://www.volexity.com/blog/
+## https://github.com/volexity/threat-intel
+
+
+# https://www.volexity.com/blog/2023/06/28/charming-kitten-updates-powerstar-with-an-interplanetary-twist/
+fuschia-rhinestone.cleverapps.io
+openlibrary.ignorelist.com

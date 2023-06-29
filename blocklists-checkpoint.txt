@@ -1,8 +1,8 @@
 ## hosts-blocklists
 ## blocklists-checkpoint
+## https://research.checkpoint.com/
+## https://research.checkpoint.com/latest-publications/
 
-# https://research.checkpoint.com/
-# https://research.checkpoint.com/latest-publications/
 
 # https://research.checkpoint.com/2023/stealth-soldier-backdoor-used-in-targeted-espionage-attacks-in-north-africa/
 2096.website

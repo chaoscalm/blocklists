@@ -1,18 +1,16 @@
 ## hosts-blocklists
 ## blocklists-akamai
+## https://www.akamai.com/blog/security-research?
 
-# https://www.akamai.com/blog/security-research?
 
 # https://www.akamai.com/blog/security-research/new-magecart-hides-behind-legit-domains
 
-
 # https://www.akamai.com/blog/security-research/mexals-cryptojacking-malware-resurgence
+
 # https://github.com/akamai/akamai-security-research/tree/main/malware/mexals
 
-
 # https://www.akamai.com/blog/security-research/crypto-giveaway-scams-are-still-successful#analysis
+
 # https://github.com/akamai/esg-secops
 
-
 # https://www.akamai.com/blog/security-research/sophisticated-phishing-scam-abusing-holiday-sentiment
-

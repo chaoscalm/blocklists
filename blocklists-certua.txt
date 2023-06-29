@@ -1,7 +1,7 @@
 ## hosts-blocklists
 ## blocklists-certua
-
 # https://cert.gov.ua/articles
+
 
 # https://cert.gov.ua/article/4905829
 aneria.net

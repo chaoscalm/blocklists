@@ -1,7 +1,7 @@
 ## hosts-blocklists
 ## blocklists-ahnlab
+## https://asec.ahnlab.com/en/
 
-# https://asec.ahnlab.com/en/
 
 # https://asec.ahnlab.com/en/54678/
 vndjgheruewy1.com
