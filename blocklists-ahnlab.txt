@@ -3,11 +3,33 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/55199/
+access.o-r.kr
+accmail.bornpig.com
+ai.clouds.r-e.kr
+everas.000webhostapp.com
+fgfgdfesvwa.myartsonline.com
+file.com-port.space
+gameo1.mygamesonline.org
+gpmmail.podosea.com
+play.sniperman.click
+smart.de-bat.click
+users.nya.pub
+
 #https://asec.ahnlab.com/en/54916/
 abena-dk.cam
-calc.abena-dk.cam
 blessed.abena-dk.cam
+calc.abena-dk.cam
 methew.abena-dk.cam
+
+# https://asec.ahnlab.com/en/55146/
+mjventas.com
+qualityzer.com
+
+# https://asec.ahnlab.com/en/55145/
+bigfile.mail.naver.com
+getara1.mygamesonline.org
+pikaros2.r-e.kr
 
 # https://asec.ahnlab.com/en/54861/
 acliftunnel.tk
