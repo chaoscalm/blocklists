@@ -1,7 +1,25 @@
 ## hosts-blocklists
 ## blocklists-certua
-# https://cert.gov.ua/articles
+## https://cert.gov.ua/articles
 
+
+# 10/07/2023
+
+
+# https://cert.gov.ua/article/5105791
+eopkne8kapj01xi.m.pipedream.net
+eos93vb2cwsu3xf.m.pipedream.net
+frge.io
+mail-gov-ua.frge.io
+net.frge.io
+robot-876.frge.io
+setnewcred.ukr.net.frge.io
+setnewcreds.ukr.net.frge.io
+ukr.net.frge.io
+
+# https://cert.gov.ua/article/5098518
+carpetmarker.pw
+everything-everywhere.at.ply.gg
 
 # https://cert.gov.ua/article/5077168
 finformservice.com
