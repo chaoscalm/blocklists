@@ -1,0 +1,8 @@
+## hosts-blocklists
+## blocklists-proofpoint
+## https://www.proofpoint.com/us/blog
+
+# https://www.proofpoint.com/us/blog/threat-insight/welcome-new-york-exploring-ta453s-foray-lnks-and-mac-malware
+filemanager.theworkpc.com
+fuschia-rhinestone.cleverapps.io
+library-store.camdvr.org
