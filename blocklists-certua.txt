@@ -3,6 +3,10 @@
 # https://cert.gov.ua/articles
 
 
+# https://cert.gov.ua/article/5077168
+finformservice.com
+ukrainianworldcongress.info
+
 # https://cert.gov.ua/article/4905829
 aneria.net
 armpress.net
