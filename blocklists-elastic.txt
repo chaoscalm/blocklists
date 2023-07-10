@@ -1,0 +1,25 @@
+## hosts-blocklists
+## blocklists-elastic
+## https://www.elastic.co/security-labs/
+
+
+## 10/07/2023
+
+
+# https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
+companydeck.online
+crypto.hondchain.com
+docsend.linkpc.net
+jaicvc.com
+starbucls.xyz
+webhostwatto.work.gd
+
+# https://www.elastic.co/security-labs/inital-research-of-jokerspy
+app.influmarket.org	
+
+# https://www.elastic.co/security-labs/elastic-charms-spectralviper
+appointmentmedia.com
+hosting-wordpress-services.com
+stablewindowsapp.com
+toppaperservices.com
+webmanufacturers.com
