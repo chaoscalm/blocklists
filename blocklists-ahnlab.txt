@@ -2,6 +2,14 @@
 ## blocklists-ahnlab
 ## https://asec.ahnlab.com/en/
 
+# https://asec.ahnlab.com/en/55229/
+jxedunavi.com
+resolv.ctmailer.net
+
+# https://asec.ahnlab.com/en/55219/
+joongang.site
+namsouth.com
+staradvertiser.store
 
 # https://asec.ahnlab.com/en/55199/
 access.o-r.kr
