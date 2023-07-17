@@ -3,6 +3,51 @@
 ## https://github.com/citizenlab/malware-indicators
 
 
+# 18/07/2023
+
+
+# https://citizenlab.ca/2023/07/hkleaks-covert-and-overt-online-harassment-tactics-to-repress-the-2019-hong-kong-protests/
+803.com.hk
+803.hk
+803hk.com.hk
+803hk.hk
+12337.gov.cn
+12339.gov.cn
+hk-protest.com
+hkleaker.cc
+hkleaker.cloud
+hkleaker.com
+hkleaker.link
+hkleaker.net
+hkleaker.news
+hkleaks.af
+hkleaks.app
+hkleaks.cc
+hkleaks.club
+hkleaks.cn
+hkleaks.co
+hkleaks.dog
+hkleaks.fun
+hkleaks.kg
+hkleaks.kz
+hkleaks.me
+hkleaks.ml
+hkleaks.net
+hkleaks.news
+hkleaks.org
+hkleaks.pk
+hkleaks.pw
+hkleaks.ru
+hkleaks.tj
+hkleaks.tm
+hkleaks.wiki
+hkleaks.wordpress.com
+hongkongmob.com
+hongkongmob.ru
+jophk.com
+truth-hk.com
+truth-hk.org
+
 # https://github.com/citizenlab/malware-indicators/tree/master/202006_DarkBasin
 2mblk.com
 4mblk.com
