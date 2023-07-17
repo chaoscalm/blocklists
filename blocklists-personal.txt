@@ -5447,3 +5447,23 @@ otrasoper.ga
 techmestore.pw
 unasinob.cf
 exeseria.com 
+
+
+# https://jumpcloud.com/support/july-2023-iocs
+alwaysckain.com
+Canolagroove.com
+centos-pkg.org
+centos-repos.org
+datadog-cloud.com
+datadog-graph.com
+launchruse.com
+nomadpkg.com
+nomadpkgs.com
+primerosauxiliosperu.com
+Reggedrobin.com
+toyourownbeat.com
+zscaler-api.org
+
+
+
+
