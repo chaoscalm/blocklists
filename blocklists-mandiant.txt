@@ -1,7 +1,13 @@
 ## hosts-blocklists
 ## blocklists-mandiant
+## https://www.mandiant.com/resources/blog
 
-# https://www.mandiant.com/resources/blog
+
+# 18/07/2023
+
+
+# https://www.mandiant.com/resources/blog/infected-usb-steal-secrets
+beautyporntube.com
 
 # https://www.mandiant.com/resources/blog/barracuda-esg-exploited-globally
 bestfindthetruth.com
