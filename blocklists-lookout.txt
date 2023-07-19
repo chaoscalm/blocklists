@@ -1,0 +1,15 @@
+## hosts-blocklists
+## blocklists-lookout
+
+
+# 19/07/2023
+
+
+# https://www.lookout.com/threat-intelligence/article/wyrmspy-dragonegg-surveillanceware-apt41
+alxc.tbtianyan.com
+andropwn.xyz
+dns.win10micros0ft.com
+huaxin-bantian.duckdns.org
+smiss.imwork.net
+update.umisen.com
+yxwasec.com

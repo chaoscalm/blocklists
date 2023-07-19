@@ -1,7 +1,13 @@
 ## hosts-blocklists
 ## blocklists-kaspersky
-
 ## https://securelist.com/
+
+
+# 19/07/2023
+
+
+# https://research.checkpoint.com/2023/byos-bundle-your-own-stealer/
+cp.bemilcoin.io
 
 # https://securelist.com/doublefinger-loader-delivering-greetingghoul-cryptocurrency-stealer/109982/
 cryptohedgefund.us
