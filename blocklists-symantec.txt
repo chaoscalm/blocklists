@@ -1,7 +1,16 @@
 ## hosts-blocklists
 ## blocklists-symantec
+## https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence
 
-# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence
+
+# 19/07/2023
+
+
+# https://symantec-enterprise-blogs.security.com/threat-intelligence/syssphinx-fin8-backdoor
+104-168-237-21.sslip.io
+api-cdn.net
+api-cdnw5.net
+git-api.com
 
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/flea-backdoor-microsoft-graph-apt15
 beltsymd.org	
