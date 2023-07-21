@@ -13,7 +13,6 @@ atomydoc.kg
 mail.aet.in.ua
 mail.arlingtonhousing.us
 mail.kzp.bg
-mail.kzp.bg/
 mail.lebsack.de
 mail.lechateaudelatour.fr
 mail.numina.md
