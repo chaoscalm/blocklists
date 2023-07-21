@@ -5465,5 +5465,16 @@ toyourownbeat.com
 zscaler-api.org
 
 
+# https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/#indicators
+bi2price.com
+coingeckoprice.com
+cryptopriceoffer.com
+npmaudit.com
+npmjscloud.com
+npmjsregister.com
+npmrepos.com
+tradingprice.net
+
+
 
 
