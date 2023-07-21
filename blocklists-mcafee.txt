@@ -1,0 +1,50 @@
+## hosts-blocklists
+## blocklists-tag
+## https://www.mcafee.com/blogs/other-blogs/mcafee-labs/
+
+
+# 21/07/2023
+
+
+# https://www.mcafee.com/blogs/other-blogs/mcafee-labs/shtml-phishing-attack-with-blurred-image/
+cianindustries.com
+formspree.io
+sweet.classicbo.com
+twenty88.com
+
+# https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fakecalls-android-malware-abusing-legitimate-signing-key/
+o20-app.dark-app.net
+o20.orange-app.today
+orange20.orange-app.today
+
+# https://www.mcafee.com/blogs/other-blogs/mcafee-labs/goldoson-privacy-invasive-and-clicker-android-adware-found-in-popular-apps-in-south-korea/
+bhuroid.com
+dalefs.com
+dggerys.com
+discess.net
+enestcon.com
+fuerob.com
+gadlito.com
+gerfane.com
+goldoson.net
+hjorsjopa.com
+htyyed.com
+methinno.net
+necktro.com
+ojiskorp.net
+onanico.net
+openwor.com
+phyerh.net
+ridinra.com
+rouperdo.net
+soildonutkiel.com
+soridok2kpop.com
+sorrowdeepkold.com
+superdonaldkood.com
+thervide.net
+tiffyre.net
+treffaas.com
+visceun.com
+
+# https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fake-security-app-found-abuses-japanese-payment-system/
+ruboq.com 
