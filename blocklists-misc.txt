@@ -239,38 +239,38 @@ virtualmediaoffice.com
 # https://www.elastic.co/security-labs/malware-analysis
 
 # https://www.elastic.co/security-labs/elastic-charms-spectralviper
-stablewindowsapp[.]com	
-webmanufacturers[.]com	
-toppaperservices[.]com	
-hosting-wordpress-services[.]com
-appointmentmedia[.]com
+stablewindowsapp.com	
+webmanufacturers.com	
+toppaperservices.com	
+hosting-wordpress-services.com
+appointmentmedia.com
 
 # https://www.elastic.co/security-labs/elastic-security-labs-steps-through-the-r77-rootkit
-msupdate[.]info
+msupdate.info
 
 # https://www.elastic.co/security-labs/elastic-users-protected-from-suddenicon-supply-chain-attack
 
-akamaicontainer[.]com
-akamaitechcloudservices[.]com
-azuredeploystore[.]com
-azureonlinecloud[.]com
-azureonlinestorage[.]com
-dunamistrd[.]com
-glcloudservice[.]com
-journalide[.]org
-msedgepackageinfo[.]com
-msstorageazure[.]com
-msstorageboxes[.]com
-officeaddons[.]com
-officestoragebox[.]com
-pbxcloudeservices[.]com
-pbxphonenetwork[.]com
-pbxsources[.]com
-qwepoi123098[.]com
-sbmsa[.]wiki
-sourceslabs[.]com
-visualstudiofactory[.]com
-zacharryblogs[.]com
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wiki
+sourceslabs.com
+visualstudiofactory.com
+zacharryblogs.com
 
 # https://www.elastic.co/security-labs/twice-around-the-dance-floor-with-pipedance
-exl.officeappsreviews[.]com/lanche-334e58sfj4eeu7h4dd3sss32d
+exl.officeappsreviews.com
