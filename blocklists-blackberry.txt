@@ -1,0 +1,25 @@
+## hosts-blocklists
+## blocklists-blackberry
+##https://blogs.blackberry.com/en/home
+
+
+# 17/07/2023
+
+
+# https://blogs.blackberry.com/en/2023/06/romcom-resurfaces-targeting-ukraine
+rdp-devolutions.com
+startleague.net
+
+# https://blogs.blackberry.com/en/2023/05/cmdstealer-targets-portugal-peru-and-mexico
+multa-ansr-pt[.]fun
+hxxps[:]//factura61[.]click/2/?j5szsmo0bk8tOSQSMS4mmp1XtQrmbNYoCB2GBem8
+hxxps[:]//factura61[.]click/2/?vzlv9CZ1gnLrNIaWBJBhJNWRCt7IVXDDwVzOQhSs
+hxxps[:]//sunat-pe[.]fun/?D80gaUJDUfuLG6lodTSEi7qoqciBWk5xE5w81pJO
+hxxps[:]//factura61[.]click/2/?CTtBmkRN8KPXVTgUn1ArCPGb5WXTXTaT7etdD7TC
+hxxps[:]//factura61[.]click/2/?yqJl8r7henupax3WsUvITb0PuSw5sn7HyZWGMvDv
+hxxps[:]//factura61[.]click/2/?GxkVBvEBTFfSDqaFr8Yjw9kyKH01xRseHoF0DNQc
+hxxps[:]//multa-ansr-pt[.]fun/?UFqQBhFaXulvEfeTbI38FFDKRth1r2DWKOFqUI0Y
+hxxps[:]//multa-ansr-pt[.]fun/?l4mm0DEhDbJPYd5qAQmwst09TDTjjvYjiG7ByCvx
+www[.]autoitscript[.]com
+hxxp[:]//publicpressmagazine[.]com/images/swan/do/it[.]php?b1=1&v1=1033&v2=1033&v3=windows%2010&v4=admin&v5=x86
+hxxp[:]//websylvania[.]com/psj/do/it[.]php?b1=1&v1=3082&v2=1034&v3=windows%207&v4=user&v5=x64
