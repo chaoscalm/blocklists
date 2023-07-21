@@ -1,7 +1,10 @@
 ## hosts-blocklists
 ## blocklists-tag
+## https://blog.google/threat-analysis-group/
 
-# https://blog.google/threat-analysis-group/
+
+## 21/07/2023
+
 
 # https://blog.google/threat-analysis-group/ukraine-remains-russias-biggest-cyber-focus-in-2023/
 biogenie.substack.com
