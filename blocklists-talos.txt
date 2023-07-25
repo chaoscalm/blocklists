@@ -1,0 +1,41 @@
+## hosts-blocklists
+## blocklists-avast
+## https://blog.talosintelligence.com/
+
+
+
+
+
+
+
+
+
+
+
+
+# https://blog.talosintelligence.com/malicious-campaigns-target-entities-in-ukraine-poland/
+bourns.space
+carpetmarker.pw
+ellechina.online
+frivol.space
+hssenglish.pw
+kebhana.site
+mingxing.pw
+onyangdol.site
+sellmyhousequickly.website
+simplifymedia.pw
+wordrow.website
+wuzhenfestival.site
+
+# https://blog.talosintelligence.com/undocumented-reddriver/
+aireport.umpteen.top
+file.zhedwe.top
+laomao.run
+newport.tofu77.top
+poilcy.itosha.top
+q5y2qclsk18.malaji.top
+red.zhedwe.top
+reserve.itosha.top
+workpoilcy.zhedwe.top
+
+# 
