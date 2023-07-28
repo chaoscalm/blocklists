@@ -1,2 +1,19 @@
-https://www.recordedfuture.com/research/intelligence-reports
-https://www.recordedfuture.com/research
+## hosts-blocklists
+## blocklists-recordedfuture
+## https://www.recordedfuture.com/research
+## https://www.recordedfuture.com/research/intelligence-reports
+
+
+# 28/07/023
+
+
+# https://www.recordedfuture.com/bluebravo-adapts-to-target-diplomatic-entities-with-graphicalproton-malware
+easym6.com
+fondoftravel.com
+mightystake.com
+reidao.com
+remcolours.com
+sharpledge.com
+simplesalsamix.com
+sylvio.com.br
+te-as.no
