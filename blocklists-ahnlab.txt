@@ -3,8 +3,14 @@
 ## https://asec.ahnlab.com/en/
 
 
-# 28/07/2023
+# 1/08/2023
 
+
+# https://asec.ahnlab.com/en/55652/
+config.v6.army
+panda.sect.kr
+speed.ableoil.net
+status.devq.workers.dev
 
 # https://asec.ahnlab.com/en/55585/
 akriqa.xyz
