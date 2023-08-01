@@ -94,9 +94,6 @@ qooqle.top
 vnssinc.com
 vsexec.com
 
-
-
-
 # https://securelist.com/apt10-tracking-down-lodeinfo-2022-part-i/107742/
 # https://securelist.com/apt10-tracking-down-lodeinfo-2022-part-ii/107745/
 dvdsesso.com
@@ -258,4 +255,77 @@ unitedfamilyhealth.net
 # https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/
 ddspadus.com
 disktest.com
+
+
+
+
+## kaspersky-ics
+
+# https://ics-cert.kaspersky.com/publications/reports/2023/07/31/common-ttps-of-attacks-against-industrial-organizations-implants-for-gathering-data/
+apps.onlinemapservices.com
+booking-onlines.com
+edit.onlinemapservices.com
+freetranslatecenter.com
+help.freetranslatecenter.com
+help.onlinemapservices.com
+onlinemapservices.com
+onlinenewscentral.com
+search.onlinemapservices.com
+sfb.odk-saturn.com
+
+# https://ics-cert.kaspersky.com/publications/reports/2022/08/08/targeted-attack-on-industrial-enterprises-and-public-institutions/
+custom.songuulcomiss.com
+doc.redstrpela.net
+fax.internnetionfax.com
+info.ntcprotek.com
+server.dotomater.club
+tech.songuulcomiss.com
+video.nicblainfo.net
+www1.dotomater.club
+www1.nppnavigator.net
+www2.defensysminck.net
+www2.sdelanasnou.com
+www3.vpkimplus.com
+
+# https://ics-cert.kaspersky.com/publications/reports/2022/06/27/attacks-on-industrial-control-systems-using-shadowpad/
+api.onedriev.tk
+documents.kankuedu.org
+grandfoodtony.com
+houwags.defineyourid.site
+live.musicweb.xyz
+noub.crabdance.com
+obo.videocenter.org
+order.cargobussiness.site
+storage.ondriev.tk
+tech.obj.services
+
+# https://ics-cert.kaspersky.com/publications/reports/2021/12/16/pseudomanuscrypt-a-mass-scale-spyware-attack-campaign/
+d.diragame.com
+email.yg9.me
+google.vrthcobj.com
+toa.mygametoa.com
+tob.mygametob.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 runblerx.com
