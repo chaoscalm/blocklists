@@ -1,7 +1,29 @@
 ## hosts-blocklists
 ## blocklists-microsoft
+## https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/?sort-by=newest-oldest&date=any
 
-# https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/?sort-by=newest-oldest&date=any
+
+# 03/08/2023
+
+
+# https://www.microsoft.com/en-us/security/blog/2023/08/02/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams/
+accountsVerification.onmicrosoft.com
+azuresecuritycenter.onmicrosoft.com
+identityVerification.onmicrosoft.com
+msftprotection.onmicrosoft.com
+teamsprotection.onmicrosoft.com
+
+# https://www.microsoft.com/en-us/security/blog/2023/07/25/cryptojacking-understanding-and-defending-against-cloud-compute-resource-abuse/  
+f2pool.com
+hashvault.pro
+herominers.com
+miner.rocks
+minexmr.com
+moneroocean.stream
+nanopool.org
+nicehash.com
+supportxmr.com
+zpool.ca
 
 # https://www.microsoft.com/en-us/security/blog/2023/06/22/iot-devices-and-linux-based-systems-targeted-by-openssh-trojan-campaign/
 2018.rawdot.net
