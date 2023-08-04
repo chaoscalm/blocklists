@@ -1,0 +1,35 @@
+## hosts-blocklists
+## blocklists-yarix
+## https://labs.yarix.com/
+
+# https://labs.yarix.com/2023/06/winton-a-russian-speaking-scam-group-targeting-middle-eastern-customers/
+aaryatables.com
+albaik-promo.drupality.com
+albaik-promo.healthyingo.com
+albaik-promo.novazgrada.com
+albaik-promo.novazgrada.comalbaik.drunkgnomes.com
+albaik-uae.nysxfund.com
+albaik.drunkgnomes.com
+allpcsz.com
+dkanedev.com
+drdermashop.com
+drmelsmusings.com
+emiratesdraw-uae.staypift.com
+goldensand.org
+guildclone.com
+gymbotest.com
+knowtheledgemedia.com
+listcaves.com
+maxframesss.com
+meyaway.com
+modernmtman.com
+neelroadbaptistchurch.com
+pricesonz.com
+promo.tajtechau.com
+rmr-rfq.com
+seangroathouse.com
+stylessierra.com
+toplinees.com
+topnethsz.com
+uae-kfc.vigilantalliance.com
+zeemanvacatures.com
