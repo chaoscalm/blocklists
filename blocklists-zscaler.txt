@@ -1,7 +1,67 @@
 ## hosts-blocklists
 ## blocklists-zscaler
-
 ## https://www.zscaler.com/blogs/research
+
+
+# 06/08/2023
+
+
+# https://www.zscaler.com/blogs/security-research/hibernating-qakbot-comprehensive-study-and-depth-campaign-analysis
+aadilmehmood.com
+azarmadar.com
+eaglewingsuae.com
+graficalevi.com.br
+gurtek.com.tr
+inspiratour.co.id
+iquodigital.com
+jbdata.com.ng
+logswalker.com
+superspeedtransports.com
+zainco.net
+
+# https://www.zscaler.com/blogs/security-research/toitoin-trojan-analyzing-new-multi-stage-attack-targeting-latam-region
+afroblack.shop
+alemaoautopecas.com
+arquivosclientes.online
+atendimento-arquivos.com
+bragancasbrasil.com
+cartolabrasil.com
+contatosclientes.services
+fantasiacinematica.online
+
+# https://www.zscaler.com/blogs/security-research/ransomware-redefined-redenergy-stealer-ransomware-attacks
+2no.co
+igrejaatos2.org
+
+# https://www.zscaler.com/blogs/security-research/mystic-stealer
+123-domaines.net
+africahelp.org
+akeygen.com
+alchemistwallet.io
+alerterapp.mobi
+ashrayakrutifoundation.org
+athletesadvantagephysio.com
+babypicturesultrasound.com
+bayswaterholding.com
+bhandarapolice.org
+coloradotruckie.com
+comprarepatenteitaliana.com
+cwbusinesswomen.org
+e-dato.com
+engtechjournal.org
+gujaratstudy.in
+hanoigarden.net
+hilltopfarmers.co.za
+kavier.com.mx
+marisolblooms.com
+quillkingston.org
+sacredspace-sf.com
+spotifyapkpremium.net
+tatouageclermontfd.com
+teammsolutions.com
+wearehumanhuman.com
+wordczarmedia.com
+wowvillas.in
 
 # https://www.zscaler.com/blogs/security-research/introducing-devopt-multifunctional-backdoor-arsenal
 mvd-k-tula.ru
@@ -100,22 +160,21 @@ wsavxrg.shop
 zzaen.com
 
 # https://www.zscaler.com/blogs/security-research/dbatloader-actively-distributing-malwares-targeting-european-businesses+
-hxxps://silverline[.]com
-hallowed247[.]duckdns[.]org
-hxxps://sleda[.]sleda[.]eu
-thesquirrelgame[.]net
-b-yy[.]xyz
+b-yy.xyz
+hallowed247.duckdns.org
+silverline.com
+sleda.sleda.eu
+thesquirrelgame.net
 
 # https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-distribution
-helthbrotthersg.com         
-transfer.sh    
-ehonlionetodo.com                            
-thefirstupd.com                             
-myvigyan.com   
-starcomputadoras.com
-somosnutrisalud.cl 
-wi-protect.com                    
+ehonlionetodo.com
+helthbrotthersg.com
+myvigyan.com
 oiartzunirratia.eus
+somosnutrisalud.cl
+starcomputadoras.com
+thefirstupd.com
+wi-protect.com
                              
 # https://www.zscaler.com/blogs/security-research/snip3-crypter-reveals-new-ttps-over-time
 crazydns.linkpc.net
