@@ -1,7 +1,54 @@
 ## hosts-blocklists
 ## blocklists-sentinelone
+## https://labs.sentinelone.com
 
-## https://labs.sentinelone.com/
+
+# 07/08/2023
+
+
+# https://www.sentinelone.com/labs/comrades-in-arms-north-korea-compromises-sanctioned-russian-missile-engineering-company/
+606qipai.com
+asplinc.com
+bsef.or.kr
+centos-packages.com
+dallynk.com
+redhat-packages.com
+yolenny.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # https://www.sentinelone.com/labs/kimsuky-ongoing-campaign-using-tailored-reconnaissance-toolkit/
 
