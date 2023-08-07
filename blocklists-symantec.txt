@@ -7,7 +7,6 @@
 
 
 # https://symantec-enterprise-blogs.security.com/threat-intelligence/syssphinx-fin8-backdoor
-104-168-237-21.sslip.io
 api-cdn.net
 api-cdnw5.net
 git-api.com
