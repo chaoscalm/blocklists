@@ -1,7 +1,13 @@
 ## cert-agid
 ## https://cert-agid.gov.it/
 
-## 10/07/2023
+## 08/08/2023
+
+
+# https://cert-agid.gov.it/wp-content/uploads/2023/08/agenttesla_07-08-2023.json
+mail.worlorderbillions.top
+
+
 
 
 # https://cert-agid.gov.it/news/malware-pec-dopo-sload-e-la-volta-di-vidar/
