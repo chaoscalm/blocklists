@@ -1,0 +1,22 @@
+## hosts-blocklists
+## blocklists-trendmicro
+## https://www.trendmicro.com/en_us/research.html
+
+
+# 11/08/2023
+
+
+# https://www.trendmicro.com/en_us/research/23/h/targetcompany-ransomware-abuses-fud-obfuscator-packers.html
+ whyers.io
+ 
+# https://www.trendmicro.com/en_us/research/23/g/cherryblos-and-faketrade-android-malware-involved-in-scam-campai.html
+008c.hugeversapi.com
+chatgptc.io
+dl.chatgptc.io
+dl.synthnet.ai
+gptc.m1m1mapi.com
+happyminder.buzz
+robot999.net
+synthnet.ai
+synthnet.m1m1mapi.com
+wapi.hugeversapi.com							
