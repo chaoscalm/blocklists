@@ -4,6 +4,33 @@
 ## https://github.com/eset/malware-ioc
 
 
+# 11/08/2023
+
+
+# https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/
+# https://github.com/eset/malware-ioc/tree/master/moustachedbouncer
+centrocspupdate.com
+dervasopssec.com
+ocsp-atomsecure.com
+securityocspdev.com
+updates.microsoft.com
+windows.network.troubleshooter.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # https://www.welivesecurity.com/2023/06/15/android-gravityrat-goes-after-whatsapp-backups/
 adb.androidadbserver.com
 bingechat.net
