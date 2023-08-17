@@ -8,3 +8,9 @@
 edenparkweddings.com
 sgrhf.org.pk
 toyy.zulipchat.com
+
+
+## sysdig
+
+# https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/
+desertplanets.com
