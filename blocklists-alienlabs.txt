@@ -1,0 +1,12 @@
+## hosts-blocklists
+## blocklists-alienlabs
+## https://cybersecurity.att.com/blogs/labs-research
+
+
+# 16/08/2023
+
+
+# https://cybersecurity.att.com/blogs/labs-research/proxynation-the-dark-nexus-between-proxy-apps-and-malware
+bapp.digitalpulsedata.com
+
+# 
