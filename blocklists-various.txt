@@ -2,6 +2,8 @@
 ## blocklists-various
 
 
+
+
 ## eclecticiq
 
 # https://blog.eclecticiq.com/german-embassy-lure-likely-part-of-campaign-against-nato-aligned-ministries-of-foreign-affairs
@@ -10,7 +12,55 @@ sgrhf.org.pk
 toyy.zulipchat.com
 
 
+
+
 ## sysdig
 
 # https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/
 desertplanets.com
+
+
+
+
+# zymperium
+# https://www.zimperium.com/blog/
+
+# https://www.zimperium.com/blog/kimsuky-infamous-threat-actor-churns-out-more-advanced-malware/
+gonamod.com
+lowerp.onlinewebshop.net
+navernnail.com
+siekis.com
+
+# https://www.zimperium.com/blog/moneymonger-predatory-loan-scam-campaigns-move-to-flutter/
+app.buddyrupee.com
+app.cash-bazar.com
+app.cashmarket.space
+app.coin-cash.xyz
+app.credit-king.xyz
+app.duttarupee.com
+app.flashrupee.com
+app.flashrupee.space
+app.flashrupee.xyz
+app.go-cash.net
+app.goldcash.vip
+app.handyloan.xyz
+app.hellorupe.com
+app.holdloan.xyz
+app.instantcredit.space
+app.loan-guide.xyz
+app.loanresources.space
+app.magicloan.space
+app.masprestamos.xyz
+app.moneysnap.space
+app.moneytreess.space
+app.rainbowcash.space
+app.safetyloan.xyz
+app.smallcredit.xyz
+app.smart-cash.xyz
+app.swipecredit.space
+app.timecredit.xyz
+
+# https://www.zimperium.com/blog/schoolyard-bully-trojan-facebook-credential-stealer/
+bigdata-habn.firebaseio.com
+bigdata2-habn.firebaseio.com
+bigdata3-habn.firebaseio.com
