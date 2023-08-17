@@ -1,0 +1,10 @@
+## hosts-blocklists
+## blocklists-various
+
+
+## eclecticiq
+
+# https://blog.eclecticiq.com/german-embassy-lure-likely-part-of-campaign-against-nato-aligned-ministries-of-foreign-affairs
+edenparkweddings.com
+sgrhf.org.pk
+toyy.zulipchat.com
