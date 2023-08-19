@@ -1,10 +1,11 @@
 ## hosts-blocklists
 ## blocklists-various
 
-
+19/08/2023
 
 
 ## eclecticiq
+## https://blog.eclecticiq.com
 
 # https://blog.eclecticiq.com/german-embassy-lure-likely-part-of-campaign-against-nato-aligned-ministries-of-foreign-affairs
 edenparkweddings.com
@@ -14,7 +15,49 @@ toyy.zulipchat.com
 
 
 
+## malwarebytes
+## https://www.malwarebytes.com/blog
+
+# https://www.malwarebytes.com/blog/threat-intelligence/2023/08/wooflocker2
+api.cloudcachestels.com
+api.cloudseedzedo.com
+api.imagecloudsedo.com
+appcloudzedo.com
+barustan.com
+beeronas.com
+besoliza.com
+bopiland.com
+cdn.contentob.com
+cdncontentstorage.com
+cdnpictureasset.com
+cloudcusersyn.com
+cloudgertopage.com
+cloudlogobox.com
+csscloudstorage.com
+datacloudasset.com
+defolis.com
+furakelw.com
+gomoyad.com
+gopilofan.com
+lobosixt.com
+logosvault.com
+malubana.com
+miniassetcloud.com
+molesanu.com
+sebasong.com
+semilupa.com
+somalics.com
+somawan.com
+vedopixt.com
+vulidoc.com
+xepilondi.com
+zemolist.com
+
+
+
+
 ## sysdig
+## https://sysdig.com/blog
 
 # https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/
 desertplanets.com
