@@ -1,0 +1,74 @@
+## hosts-blocklists
+## blocklists-lumen
+## https://blog.lumen.com/author/black-lotus-labs/
+
+
+# 22/08/2023
+
+
+# https://blog.lumen.com/routers-from-the-underground-exposing-avrecon/
+# https://github.com/blacklotuslabs/IOCs/blob/main/AVrecon_IOCs.txt
+cleandone.cc
+utcp.cc
+zerophone.cc
+
+# https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/
+# https://github.com/blacklotuslabs/IOCs/blob/main/Chaos_IoCs.txt
+a.nqb001.com
+abc.cfed.cc
+ai.nqb001.com
+are.nishabig.pro
+ars1.wemix.cc
+bb.hash3688.com
+bitantcoins.pro
+botnet.ddoswow.site
+js.wanpay1.cn
+kivspace.xyz
+linuxddos.net
+quanquandd.top
+skyeda.vip
+tf.xiaozhuddos.co
+tomca1.com
+x.xlg360.xyz
+xiaomai233.f3322.net
+
+# https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/
+# https://github.com/blacklotuslabs/IOCs/blob/main/ZuoRAT_IoCs.txt
+memthree.com
+service-1onwbsn4-1253943544.gz.apigw.tencentcs.com
+yuque.com
+
+# https://blog.lumen.com/new-konni-campaign-targeting-russian-ministry-of-foreign-affairs/
+# https://github.com/blacklotuslabs/IOCs/blob/main/Konni_HappyNewYear_IoCs.txt
+docs.undss.carnegieinsider.com
+e.mail.ru.settings.carnegieinsider.com
+e.mail.ru.settings.pronto-login.com
+economy.carnegieinsider.com
+h378576.atwebpages.com
+hpronto.settings.carnegieinsider.com
+i758769.atwebpages.com
+leaks.carnegieinsider.com
+mid.pronto-login.com
+passport.yandex.ru-settings.pronto-login.com
+portal.newint-mid.ru.carnegieinsider.com
+portalmid.pronto-login.com
+pronto-login.com
+russia.carnegieinsider.com
+
+# https://blog.lumen.com/reverserat-reemerges-with-a-nightfury-new-campaign-and-new-developments-same-familiar-side-actor/
+# https://github.com/blacklotuslabs/IOCs/blob/main/ReverseRat2.0_NightFury_IoCs.txt
+medizz.co
+drigablockszip.sytes.net
+zimbrasoft.ddns.net
+
+# https://blog.lumen.com/suspected-pakistani-actor-compromises-indian-power-company-with-new-reverserat/
+# https://github.com/blacklotuslabs/IOCs/blob/main/Reverserat_iocs.csv
+certindia.chickenkiller.com
+certindia.ignorelist.com
+coronavirusupdate.ddnsking.com
+defencecyberorg.myddns.me
+frankooxyz2.ddns.net
+iiieyehealth.com
+ikiranastore.com
+londonkids.in
+minervacollege.co.in
