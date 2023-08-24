@@ -7,6 +7,45 @@
 # 11/08/2023
 
 
+# https://www.welivesecurity.com/en/eset-research/telekopye-hunting-mammoths-using-telegram-bot/
+# https://github.com/eset/malware-ioc/tree/master/telekopye
+2cdx.site
+3inf.site
+formaa.ga
+id0391.ru
+id2770.ru
+id2918.site
+id7423.ru
+id8092.ru
+id39103.ru
+id66410.ru
+id82567.ru
+id83792.ru
+id23352352.ru
+pay-sacure4ds.ru
+
+# https://www.welivesecurity.com/en/eset-research/scarabs-colon-izing-vulnerable-servers/
+akamaicdnup.com
+b.688.org
+cdnupdate.net
+ss.688.org
+sys.688.org
+u.cbu.net
+u.piii.net
+up.awiki.org
+up.vctel.com
+update.cbu.net
+update.inet2.org
+
+# https://www.welivesecurity.com/en/eset-research/mass-spreading-campaign-targeting-zimbra-users/
+fmaildd.000webhostapp.com
+mtatdd.000webhostapp.com
+nmailddt.000webhostapp.com
+posderd.000webhostapp.com
+ridddtd.000webhostapp.com
+tmaxd.000webhostapp.com
+zimbra.y2kportfolio.com
+
 # https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/
 # https://github.com/eset/malware-ioc/tree/master/moustachedbouncer
 centrocspupdate.com
