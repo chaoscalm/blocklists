@@ -4,8 +4,19 @@
 ## https://github.com/eset/malware-ioc
 
 
-# 11/08/2023
+# 30/08/2023
 
+
+# https://www.welivesecurity.com/en/eset-research/badbazaar-espionage-tool-targets-android-users-trojanized-signal-telegram-apps/
+flygram.org
+mail.pmumail.com
+proxy1.signalplus.org
+proxy2.signalplus.org
+proxy3.signalplus.org
+proxy4.signalplus.org
+proxy5.signalplus.org
+proxy6.signalplus.org
+signalplus.org
 
 # https://www.welivesecurity.com/en/eset-research/telekopye-hunting-mammoths-using-telegram-bot/
 # https://github.com/eset/malware-ioc/tree/master/telekopye
