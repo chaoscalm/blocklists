@@ -6,6 +6,12 @@
 # 17/08/2023
 
 
+# https://asec.ahnlab.com/en/56405/
+bbs.topigsnorsvin.com
+chinesekungfu.org
+ipservice.kro.kr
+privatemake.bounceme.net
+
 # https://asec.ahnlab.com/wp-content/uploads/2023/08/ATIP_2023_Jun_Threat-Trend-Report-on-Kimsuky-Group-1.pdf
 app.awiki.org
 getara1.mygamesonline.org
