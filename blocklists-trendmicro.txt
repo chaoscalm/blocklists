@@ -3,8 +3,31 @@
 ## https://www.trendmicro.com/en_us/research.html
 
 
-# 12/08/2023
+# 31/08/2023
 
+
+# https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html
+access.trhammer.com
+cdn728a66b0.smartlinkcorp.net
+cdn-6dd0035.oxcdntech.com
+cdn-7a3d.vultr-dns.com
+cloudlibraries.global.ssl.fastly.net
+ms101.cloudshappen.com
+nx2.microware-help.com
+shinas.global.ssl.fastly.net
+web9a78bc52.trhammer.com
+zmailssl3.global.ssl.fastly.net
+
+# https://www.trendmicro.com/content/dam/trendmicro/global/en/research/23/h/profile-stealers-spread-via-llm-themed-facebook-ads/iocs-profile-stealers-spread-via-llm-themed-facebook-ads.txt
+ads-manager-meta.com
+bard-ai-gg.com
+gbard-ai.info
+gg-bard-ai.com
+gpt4-ai.org
+managedkv.com
+meta-business-manager.com
+meta-fb-ads.com
+online-chatbot.com
 
 # https://www.trendmicro.com/en_us/research/23/h/targetcompany-ransomware-abuses-fud-obfuscator-packers.html
  whyers.io
