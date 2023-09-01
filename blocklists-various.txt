@@ -235,6 +235,45 @@ zemolist.com
 
 
 
+## reversinglab
+## https://www.reversinglabs.com/blog
+
+# https://www.reversinglabs.com/blog/vmconnect-supply-chain-campaign-continues
+packages-api.test
+tableditermanaging.pro
+
+# https://www.reversinglabs.com/blog/vmconnect-malicious-pypi-packages-imitate-popular-open-source-modules
+deliworkshopexpress.xyz
+ethertestnet.pro
+
+# https://www.reversinglabs.com/blog/operation-brainleeches-malicious-npm-packages-fuel-supply-chain-and-phishing-attacks
+ourwhite.brainleeches.xyz
+
+# https://www.reversinglabs.com/blog/open-source-malware-sows-havoc-on-supply-chain
+zh.googlecdnb.tk
+
+# https://www.reversinglabs.com/blog/zetanile-open-source-software-trojans-from-north-korea
+leadsblue.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## sysdig
 ## https://sysdig.com/blog
 
