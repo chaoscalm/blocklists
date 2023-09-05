@@ -235,6 +235,47 @@ zemolist.com
 
 
 
+## morphisec
+## https://blog.morphisec.com/
+
+# https://blog.morphisec.com/chaes4-new-chaes-malware-variant-targeting-financial-and-logistics-customers
+4.q111.sbs
+
+
+
+
+## resecurity
+## https://www.resecurity.com/blog
+
+# https://www.resecurity.com/blog/article/smishing-triad-targeted-usps-and-us-citizens-for-data-theft
+poczta-polska.cc
+usplve.top
+uspoadc.top
+uspodaa.top
+uspodad.top
+uspoddp.top
+uspogumb.top
+uspoky.top
+uspshhg.top
+uspsjh.top
+uspskkq.top
+uspsuiu.top
+ususcac.top
+ususcgh.top
+ususcsa.top
+ususgs.top
+usushk.top
+ususmx.top
+ususnb.top
+ususnu.top
+ususuua.top
+wangduoyu.me
+wangduoyu.shop
+wangduoyu.site
+
+
+
+
 ## reversinglab
 ## https://www.reversinglabs.com/blog
 
@@ -258,18 +299,8 @@ leadsblue.com
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+## securityjoes
+## https://www.securityjoes.com/blog
 
 
 
@@ -325,3 +356,59 @@ app.timecredit.xyz
 bigdata-habn.firebaseio.com
 bigdata2-habn.firebaseio.com
 bigdata3-habn.firebaseio.com
+
+
+
+
+## whitesecure
+## https://labs.withsecure.com/publications
+
+# https://labs.withsecure.com/publications/meet-the-ducks
+a1outreach.software
+adplexity.site
+adshuge.com
+avalisemedia.com
+avalonorganics.work
+brandrecruiter.social
+brandrecruitment.social
+brandresource.social
+eucerin.work
+fendii.com
+fortyclothingglobal.com
+guessinc.work
+hrm.social
+hrmmarketing.link
+hrms.social
+hyundaimotor.social
+hyundaimotorgroup.social
+hyundaimotorjob.social
+job-mango.com
+la-roche-posay.click
+li-ning.agency
+li-ning.news
+li-ningagency.news
+louisvuitton-agency.link
+louisvuitton-agency.social
+louisvuitton-agencyjod.live
+louisvuitton-hr.news
+louisvuitton-jod.chat
+louisvuitton-social.news
+marketing-project.social
+marketingagency.social
+marketingmanager.social
+mccann.expert
+mccann.fyi
+mediastrategix.com
+nars.social
+narscosmetics.social
+nike-agency.link
+nzxtinc.social
+pradagroup.social
+recruiterofbrand.social
+recruitmentagency.social
+recuiter.company
+samsungagency.link
+strategixelite.com
+thehugeplus.com
+undrground.company
+yodo1game.software

@@ -1,0 +1,22 @@
+## hosts-blocklists
+## blocklists-jpcert
+## https://blogs.jpcert.or.jp/en/
+
+
+# 05/09/2023
+
+
+# https://blogs.jpcert.or.jp/en/2023/08/maldocinpdf.html
+cloudmetricsapp.com
+web365metrics.com
+
+# https://blogs.jpcert.or.jp/en/2023/07/dangerouspassword_dev.html
+app.developcore.org
+checkdevinc.com
+git-hub.me
+pkginstall.net
+
+# https://blogs.jpcert.or.jp/en/2023/05/gobrat.html
+ktlvz.dnsfailover.net
+su.vealcat.com
+wpksi.mefound.com
