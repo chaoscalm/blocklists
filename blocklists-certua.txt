@@ -3,8 +3,16 @@
 ## https://cert.gov.ua/articles
 
 
-# 01/09/2023
+# 05/09/2023
 
+
+# https://cert.gov.ua/article/5702579
+file.io
+ipapi.co
+mockbin.org
+mocky.io
+run.mocky.io
+webhook.site
 
 # https://cert.gov.ua/article/5661411
 topibuzz.space
