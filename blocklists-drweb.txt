@@ -4,6 +4,46 @@
 ## https://github.com/DoctorWebLtd/malware-iocs
 
 
+# 07/09/2023
+
+
+# https://news.drweb.com/show/?i=14743&lng=en
+abcr.ftsym1.com
+apz.bsaldo.com
+btvapp.net
+fadfa.gdalieyw.com
+fadfatest.pneydn.com
+latino9.com
+magistv.video
+ok3.mflve.com
+pcn.panddna.com
+romatotti520.oicp.io
+tele-latino.com
+telelatino.app
+youcine.one
+youcineapk.org
+youcineapp.com
+youcinetv.app
+youcinetv.page.link
+
+# https://news.drweb.com/show/?i=14728&lng=en
+atiflash.ru
+atikmdagpatcher.com
+balena-etcher.com
+btc-tools.ru
+clockgen64.com
+evga-precision.com
+more-power-tool.com
+nvflash.ru
+nvidiainspector.ru
+overdriventool.ru
+polaris-bios-editor.ru
+riva-tuner.com
+ryzen-master.com
+sapphiretrixx.com
+srbpolaris.ru
+techpowerup-gpu-z.com
+
 # https://news.drweb.com/show/?i=14705&lng=en
 # https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.Spy.SpinOk/README.adoc
 d3hdbjtb1686tn.cloudfront.net
