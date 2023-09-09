@@ -3,8 +3,11 @@
 ## https://securelist.com/
 
 
-# 10/8/2023
+# 09/09/2023
 
+
+# https://securelist.com/trojanized-telegram-mod-attacking-chinese-users/110482/
+sg.telegrnm.org
 
 # https://securelist.com/focus-on-droxidat-systembc/110302/
 epowersoftware.com
