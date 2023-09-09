@@ -3,8 +3,12 @@
 ## https://blog.google/threat-analysis-group/
 
 
-## 21/07/2023
+## 09/09/2023
 
+
+# https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/
+blgbeach.com
+dbgsymbol.com
 
 # https://blog.google/threat-analysis-group/ukraine-remains-russias-biggest-cyber-focus-in-2023/
 biogenie.substack.com
