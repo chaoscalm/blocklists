@@ -183,6 +183,22 @@ zretw.xyz
 
 
 
+## dtcert
+## https://github.security.telekom.com/
+
+# https://github.security.telekom.com/2023/08/darkgate-loader.html
+a-1bcdn.com
+avayacloud.com.global.prod.fastly.net
+drkgatevservicceoffice.net
+intranet.mcasavaya.com
+onlysportsfitnessam.com
+reactervnamnat.com
+sanibroadbandcommunicton.duckdns.org
+xfirecovery.pro
+
+
+
+
 ## eclecticiq
 ## https://blog.eclecticiq.com
 
