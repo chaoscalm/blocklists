@@ -1,5 +1,30 @@
 ## hosts-blocklists
-## blocklists-threatfabric
-## https://www.threatfabric.com/blogs
+## blocklists-fortinet
+## https://www.fortinet.com/blog/threat-research
 
 
+# 10/09/2023
+
+
+# https://www.fortinet.com/blog/threat-research/agent-tesla-variant-spread-by-crafted-excel-document
+mail.daymon.cc
+
+# https://www.fortinet.com/blog/threat-research/malware-distributed-via-freezers-and-syk-crypter
+churchxx.ddns.net
+freshinxworm.ddns.net
+plunder.ddnsguru.com
+plunder.dedyn.io
+plunder.dynnamn.ru
+plunder.jumpingcrab.com
+
+# https://www.fortinet.com/blog/threat-research/new-fast-developing-thirdeye-infostealer-pries-open-system-information
+anime-clab.ru
+glovatickets.ru
+ohmycars.ru
+shlalala.ru
+
+# https://www.fortinet.com/blog/threat-research/condi-ddos-botnet-spreads-via-tp-links-cve-2023-1389
+cdn2.duc3k.com
+ 
+# https://www.fortinet.com/blog/threat-research/clean-rooms-nuclear-missiles-and-sidecopy
+cornerstonebeverly.org
