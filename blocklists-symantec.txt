@@ -3,7 +3,10 @@
 ## https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence
 
 
-# 22/08/2023
+# 12/09/2023
+
+# https://symantec-enterprise-blogs.security.com/threat-intelligence/critical-infrastructure-attacks
+websencl.com 
 
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/carderbee-software-supply-chain-certificate-abuse
 cdn.ofo.ac
