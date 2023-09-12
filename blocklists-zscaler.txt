@@ -3,8 +3,125 @@
 ## https://www.zscaler.com/blogs/research
 
 
-# 14/08/2023
+# 12/09/2023
 
+
+# https://www.zscaler.com/blogs/security-research/technical-analysis-hijackloader
+geupdate-service.bond
+
+# https://www.zscaler.com/blogs/security-research/rise-tech-support-scams-abusing-windows-action-center-notifications
+acc-network.us
+almstda.tv
+analysesecuritystatus.com
+birmentuorpose.co.in
+bonalluterser.com
+chaeffulace.com
+datasecuritypc.com
+dolatiaschan.com
+enake.site
+exusnefte.com
+foreverstream.xyz
+gemstreams.com
+greewepi.net
+highpotencyguard.com
+improvedwebsecurity.com
+keepsafetycenter.com
+keewoach.net
+myalltimebestdefender.site
+naipsouz.net
+nebsefte.net
+np-downloader.com
+ologeysurincon.com
+oulsools.com
+potsaglu.net
+powerakkus.com
+re-captha-version-3-23.top
+scotennepruse.com
+sembilme.com
+soccerloverss.online
+soocaips.com
+squathweenic.com
+sunfont.site
+thaudray.com
+totaldeviceanalyticsoft.club
+trophional.com
+ultradesktopanalytic.com
+vasteeds.net
+webprotectionrequired.com
+whoursie.com
+whulsaux.com
+worldsports1.live
+worldwidedefence.online
+yourtopdefencebulwark.site
+zatloudredr.com
+zeekaihu.net
+zodic.xyz
+
+# https://www.zscaler.com/blogs/security-research/steal-it-campaign
+webhook.site
+
+# https://www.zscaler.com/blogs/security-research/look-ducktail
+a1outreach.software
+adplexity.site
+adplexitydesk.tech
+affiliateguide.tech
+avalonorganics.work
+brandrecruitment.social
+brandresource.social
+brandstyle.agency
+brandstyle.digital
+businessmanager-update.info
+businessmanagerads.tech
+connectads.agency
+disruptiveadvertising.agency
+eucerin.work
+fbadsguide.tech
+growmemarketing.agency
+guessinc.work
+hrm.social
+hrmmarketing.link
+hrms.social
+hyundaimotor.social
+hyundaimotorgroup.social
+hyundaimotorjob.social
+impressionagency.co
+impressiondigital.info
+impressiondigitals.agency
+la-roche-posay.click
+li-ning.agency
+li-ning.news
+li-ningagency.news
+li-ningjod.news
+louisvuitton-agency.link
+louisvuitton-agencyjod.live
+louisvuitton-hr.news
+louisvuitton-jod.chat
+louisvuitton-social.news
+luoisviitton.news
+mangogroup.sale
+marketing-project.social
+marketing-tool.info
+marketingagency.social
+marketingmanager.social
+mccann.expert
+mccann.fyi
+narscosmetics.social
+newguide.tech
+nike-agency.link
+ogilvy.social
+ogilvysocial.company
+ommmarketing.agency
+ommmarketing.digital
+passions.agency
+recruiterofbrand.social
+recruitmentagency.social
+recuiter.company
+samsungagency.link
+themars.social
+yodo1game.software
+
+# https://www.zscaler.com/blogs/security-research/agniane-stealer-dark-webs-crypto-threat
+Central-cee-doja.ru
 
 # https://www.zscaler.com/blogs/security-research/janelarat-repurposed-bx-rat-variant-targeting-latam-fintech
 9mdxmex.damnserver.com
