@@ -1013,6 +1013,11 @@ tracking.uzasignals.com
 
 ## https://www.sentinelone.com/blog/category/security-research/
 
+# https://www.sentinelone.com/blog/macos-metastealer-new-family-of-obfuscated-go-infostealers-spread-in-targeted-attacks/
+api.osx-mac.com
+builder.osx-mac.com
+db.osx-mac.com
+
 # https://www.sentinelone.com/blog/xloaders-latest-trick-new-macos-variant-disguised-as-signed-officenote-app/
 activ-ketodietakjsy620.cloud
 akrsnamchi.com
