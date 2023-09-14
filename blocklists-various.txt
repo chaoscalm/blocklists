@@ -232,6 +232,12 @@ melsicon.com
 ## malwarebytes
 ## https://www.malwarebytes.com/blog
 
+# https://www.malwarebytes.com/blog/threat-intelligence/2023/09/ongoing-webex-malvertising-drops-batloader
+fugas.site
+monoo3at.com
+updatecorporatenetworks.ru
+webexadvertisingoffer.com
+
 # https://www.malwarebytes.com/blog/threat-intelligence/2023/08/wooflocker2
 api.cloudcachestels.com
 api.cloudseedzedo.com
