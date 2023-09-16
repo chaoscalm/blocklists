@@ -229,66 +229,6 @@ melsicon.com
 
 
 
-## malwarebytes
-## https://www.malwarebytes.com/blog
-
-# https://www.malwarebytes.com/blog/threat-intelligence/2023/09/ongoing-webex-malvertising-drops-batloader
-fugas.site
-monoo3at.com
-updatecorporatenetworks.ru
-webexadvertisingoffer.com
-
-# https://www.malwarebytes.com/blog/threat-intelligence/2023/09/atomic-macos-stealer-delivered-via-malvertising
-app-downloads.org/tview.php
-trabingviews.com
-xn--tradgsvews-0ubd3y.com
-
-# https://www.malwarebytes.com/blog/threat-intelligence/2023/08/darkgate-reloaded-via-malvertising-campaigns
-a4scan.com
-advanced-ip-scanne.com
-advanced-ips-scanne.com
-advancedscanner.link
-ipadvancedscanner.com
-top.advscan.com
-
-# https://www.malwarebytes.com/blog/threat-intelligence/2023/08/wooflocker2
-api.cloudcachestels.com
-api.cloudseedzedo.com
-api.imagecloudsedo.com
-appcloudzedo.com
-barustan.com
-beeronas.com
-besoliza.com
-bopiland.com
-cdn.contentob.com
-cdncontentstorage.com
-cdnpictureasset.com
-cloudcusersyn.com
-cloudgertopage.com
-cloudlogobox.com
-csscloudstorage.com
-datacloudasset.com
-defolis.com
-furakelw.com
-gomoyad.com
-gopilofan.com
-lobosixt.com
-logosvault.com
-malubana.com
-miniassetcloud.com
-molesanu.com
-sebasong.com
-semilupa.com
-somalics.com
-somawan.com
-vedopixt.com
-vulidoc.com
-xepilondi.com
-zemolist.com
-
-
-
-
 ## morphisec
 ## https://blog.morphisec.com/
 
