@@ -26,30 +26,6 @@ winsccp.com
 yb-lawyers.com
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # https://www.bitdefender.com/blog/labs/exposing-rdstealerdeep-dive-into-a-targetedcyber-attack-against-east-asiainfrastructure/
 0g6666.com
 a-ad-tml.ntp-update.com
@@ -116,11 +92,11 @@ connect.skyrage.de
 files-8ie.pages.dev
 
 # https://www.bitdefender.com/blog/labs/tens-of-thousands-of-compromised-android-apps-found-by-bitdefender-anomaly-detection-technology/
-Konkfan.com
 beahor.com
+ehojam.com
 gogomeza.com
 kenudo.net
-ehojam.com
+Konkfan.com
 
 # https://www.bitdefender.com/blog/labs/s1deload-stealer-exploring-theeconomics-of-social-networkaccount-hijacking/
 appfree.club
