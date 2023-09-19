@@ -6,6 +6,9 @@
 # 19/09/2023
 
 
+# https://unit42.paloaltonetworks.com/fake-cve-2023-40477-poc-hides-venomrat/
+checkblacklistwords.eu
+
 # https://unit42.paloaltonetworks.com/turla-pensive-ursa-threat-assessment/
 bballetmaniacs.com
 berlinguas.com
