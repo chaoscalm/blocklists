@@ -1,0 +1,76 @@
+## hosts-blocklists
+## blocklits-unit42
+## https://unit42.paloaltonetworks.com/
+
+
+# 19/09/2023
+
+
+# https://unit42.paloaltonetworks.com/turla-pensive-ursa-threat-assessment/
+bballetmaniacs.com
+berlinguas.com
+bombheros.com
+branter.tk
+bronerg.tk
+Crusider.tk
+duke6.tk
+Gaismustudija.lv
+gallen.fi
+Hcdh-tunisie.org
+lakihelppi.com
+mail.aet.in.ua
+mail.arlingtonhousing.us
+mail.lebsack.de
+mail.lechateaudelatour.fr
+mail.numina.md
+manager.surro.am
+mtsoft.hol.es
+octoberoctopus.co.za
+pierreagencement.fr
+polishpod101.com
+sanitar.ml
+sansaispa.com
+simplifiedhomesales.com
+wekanda.tk
+
+# https://unit42.paloaltonetworks.com/wireshark-quiz-redline-stealer-answers/
+623start.site
+guiatelefonos.com
+
+# https://unit42.paloaltonetworks.com/wireshark-quiz-redline-stealer/
+coolweathercoat.com
+
+# https://unit42.paloaltonetworks.com/nodestealer-2-targets-facebook-business/
+adgowin66.site
+
+# https://unit42.paloaltonetworks.com/url-delivered-ransomware/
+bihsy.com
+clicktoevent.com
+coin-coin-coin-2.com
+data-host-file-16.com
+ex3mall.com
+host-coin-data-1.com
+miiwes.top
+oddsium.com
+privacy-tools-for-you-453.com
+privacy-tools-for-you-780.com
+rgyui.top
+spaceris.com
+uaery.top
+ugll.org
+veterinary-surgeons.net
+zerit.top
+
+# https://unit42.paloaltonetworks.com/cve-2023-36884-rce/
+altimata.org
+bentaxworld.com
+finformservice.com
+penofach.com
+ukrainianworldcongress.info
+wexonlake.com
+
+# https://unit42.paloaltonetworks.com/cloaked-ursa-phishing/
+resetlocations.com
+simplesalsamix.com
+willyminiatures.com
+
