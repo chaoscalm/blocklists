@@ -541,6 +541,9 @@ zyber-i.com
 # https://blog.sonatype.com/npm-packages-caught-exfiltrating-kubernetes-config-ssh-keys
 app.threatest.com
 
+# https://blog.sonatype.com/malicious-pypi-package-vmconnect-imitates-vmware-vsphere-connector-module
+ethertestnet.pro
+
 
 
 
