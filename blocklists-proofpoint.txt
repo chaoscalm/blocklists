@@ -3,8 +3,18 @@
 ## https://www.proofpoint.com/us/blog
 
 
-# 10/08/2023
+# 20/09/2023
 
+
+# https://www.proofpoint.com/us/blog/threat-insight/chinese-malware-appears-earnest-across-cybercrime-threat-landscape
+51fapiaoyun.com
+ckj2.cn
+drfs.ctcontents.com
+fakaka16.top
+fhyhdf.oss-cn-hangzhou.aliyuncs.com
+kakafa.top
+rus3rcqtp.hn-bkt.clouddn.com
+zc1800.oss-cn-shenzhen.aliyuncs.com
 
 # https://www.proofpoint.com/us/blog/email-and-cloud-threats/cloud-account-takeover-campaign-leveraging-evilproxy-targets-top-level
 01-net.com
