@@ -535,6 +535,15 @@ zyber-i.com
 
 
 
+## sonatype 
+## https://blog.sonatype.com/
+
+# https://blog.sonatype.com/npm-packages-caught-exfiltrating-kubernetes-config-ssh-keys
+app.threatest.com
+
+
+
+
 ## sysdig
 ## https://sysdig.com/blog
 
