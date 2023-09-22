@@ -3,8 +3,22 @@
 ## https://www.trendmicro.com/en_us/research.html
 
 
-# 18/09/2023
+# 22/09/2023
 
+
+# https://www.trendmicro.com/en_us/research/23/i/examining-the-activities-of-the-turla-group.html
+adelaida.ua
+aleimportadora.net
+atomydoc.kg
+mail.aet.in.ua
+mail.arlingtonhousing.us
+mail.kzp.bg
+mail.lebsack.de
+mail.lechateaudelatour.fr
+mail.numina.md
+octoberoctopus.co.za
+pierreagencement.fr
+sansaispa.com
 
 # https://www.trendmicro.com/en_us/research/23/i/earth-lusca-employs-new-linux-backdoor.html
 2e6veme8xs.bmssystemg188.us
@@ -14,9 +28,6 @@ lt76ux.confenos.shop
 doi.org
 i.ibb.co
 samuelelena.co
-
-#
-
 
 # https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html
 access.trhammer.com
