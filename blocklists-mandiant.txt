@@ -7,13 +7,16 @@
 
 
 # https://www.mandiant.com/resources/blog/apt29-evolving-diplomatic-phishing
-willyminiatures[.]com
-implesalsamix[.]com
-parquesanrafael[.]cl
-inovaoftalmologia[.]com[.]br
-sylvio[.]com[.]br/
-ttps://resetlocations[.]com
-gavice[.]ng
+gavice.ng
+implesalsamix.com
+inovaoftalmologia.com.br
+kegas.id
+kitaeri.com
+parquesanrafael.cl
+resetlocations.com
+sgrhf.org.pk
+sylvio.com.br
+willyminiatures.com
 
 # https://www.mandiant.com/resources/blog/unc4841-post-barracuda-zero-day-remediation
 bestfindthetruth.com
