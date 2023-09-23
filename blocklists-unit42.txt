@@ -3,8 +3,16 @@
 ## https://unit42.paloaltonetworks.com/
 
 
-# 19/09/2023
+# 23/09/2023
 
+
+# https://unit42.paloaltonetworks.com/stately-taurus-attacks-se-asian-government/
+Feed-5613.coderformylife.info
+uvfr4ep.com
+
+# https://unit42.paloaltonetworks.com/alloy-taurus-targets-se-asian-government/
+images.cdn-sina.tw
+Shell.cdn-sina.tw
 
 # https://unit42.paloaltonetworks.com/fake-cve-2023-40477-poc-hides-venomrat/
 checkblacklistwords.eu
