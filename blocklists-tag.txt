@@ -3,8 +3,12 @@
 ## https://blog.google/threat-analysis-group/
 
 
-## 09/09/2023
+## 23/09/2023
 
+
+# https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/
+c.betly.me
+sec-flare.com
 
 # https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/
 blgbeach.com
