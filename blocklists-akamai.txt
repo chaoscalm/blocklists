@@ -3,6 +3,64 @@
 ## https://www.akamai.com/blog/security-research?
 
 
+# 26/09/2023
+
+
+# https://www.akamai.com/blog/security-research/sophisticated-phishing-campaign-targeting-hospitality
+95link.cc
+98link.cc
+airbnb-reservation.cloud
+booking-confirmation.date
+booking-verification.su
+booking.account-guest.com
+booking.approve-reservation.info
+booking.check-request.info
+booking.check-reservation.info
+booking.com-id2435142.info
+booking.com.id8535029.date
+booking.com.id17825117.date
+booking.guest-approve.info
+booking.id3410894.com
+booking.id11853502.date
+booking.id19045617.info
+booking.id48088277.date
+booking.id60157261.date
+booking.id61189387.date
+booking.id90134267.com
+booking.id90152861.com
+booking.id301628951.date
+booking.operation-3ds.one
+booking.request-reservation.cloud
+Booking.request-reservation.info
+booking.reservation-3ds.info
+booking.reservation-accept.info
+booking.reservation-approve.info
+booking.reserved-operation.info
+booking.transaction-accept.info
+booking.transaction-confirm.com
+booking.transaction-confirmation.info
+booking.transaction-secure.info
+com-id809712.com
+expedia-book.cloud
+expedia.id23725813.top
+static.wakkofkznmartyxa3244.site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # https://www.akamai.com/blog/security-research/new-magecart-hides-behind-legit-domains
 
 # https://www.akamai.com/blog/security-research/mexals-cryptojacking-malware-resurgence
