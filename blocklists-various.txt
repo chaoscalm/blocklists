@@ -228,6 +228,21 @@ zretw.xyz
 
 
 
+## checkmarx 
+## https://checkmarx.com/blog/?
+ 
+# https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/?
+wagateway.pro
+
+# https://checkmarx.com/blog/attacker-unleashes-stealthy-crypto-mining-via-malicious-python-package/?
+vip.papiculo.net
+
+# https://checkmarx.com/blog/a-deep-dive-into-70-layers-of-obfuscated-info-stealer-malware/?
+rentry.co
+
+
+
+
 ## dtcert
 ## https://github.security.telekom.com/
 
