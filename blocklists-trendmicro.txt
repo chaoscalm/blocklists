@@ -3,8 +3,11 @@
 ## https://www.trendmicro.com/en_us/research.html
 
 
-# 22/09/2023
+# 29/09/2023
 
+
+# https://www.trendmicro.com/en_us/research/23/i/apt34-deploys-phishing-attack-with-new-malware.html
+tecforsc-001-site1.gtempurl.com
 
 # https://www.trendmicro.com/en_us/research/23/i/examining-the-activities-of-the-turla-group.html
 adelaida.ua
