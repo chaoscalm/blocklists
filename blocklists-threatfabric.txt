@@ -3,8 +3,11 @@
 ## https://www.threatfabric.com/blogs
 
 
-# 25/09/2023 
+# 02/10/2023 
 
+
+# https://www.threatfabric.com/blogs/lightspy-mapt-mobile-payment-system-attack
+spaceskd.com
 
 # https://www.threatfabric.com/blogs/xenomorph
 92l.info
@@ -12,3 +15,28 @@ airlinesimulator.io
 fobocontentplus.online
 fobocontentplus.site
 fobocontentplus.top
+
+# https://www.threatfabric.com/blogs/letscall-new-sophisticated-vishing-toolset
+finda-dl.finda.buzz
+finda-h5.letscall.ltd
+finda-msg.letscall.ltd
+finda.letscall.fyi
+finda.letscall.ltd
+kics-h5.letscall.fyi
+konan-h5.finda.buzz
+konan.nicetv.live
+lets-dl.finda.buzz
+letscall.39nat.com
+letscall.fss-app.live
+org-fin19.letscall.ltd
+salad-3.letscall.today
+salad-h5.letscall.today
+salad-msg.letscall.today
+
+# https://www.threatfabric.com/blogs/xenomorph-v3-a-new-variant-with-ats-targeting-more-than-400-institutions
+cofi.hk
+dedeperesere.xyz
+inj.had0.live
+jobviewer.co
+team.mi1kyway.tech
+vldeolan.com
