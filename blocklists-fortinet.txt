@@ -33,3 +33,48 @@ cdn2.duc3k.com
  
 # https://www.fortinet.com/blog/threat-research/clean-rooms-nuclear-missiles-and-sidecopy
 cornerstonebeverly.org
+
+# https://www.fortinet.com/blog/threat-research/tax-scammers-at-large
+datacenter11.myftp.org
+farmaciasmv.com
+nulle2nd.camdvr.org
+
+# https://www.fortinet.com/blog/threat-research/malware-disguised-as-document-ukraine-energoatom-delivers-havoc-demon-backdoor
+ukrtatnafta.org
+
+# https://www.fortinet.com/blog/threat-research/3cx-desktop-app-compromised
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+convieneonline.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wikisourceslabs.com
+Soyoungjun.com
+visualstudiofactory.com
+zacharryblogs.com
+
+# https://www.fortinet.com/blog/threat-research/moobot-strikes-again-targeting-cacti-and-realtek-vulnerabilities
+apid.mutoujs.xyz
+bot.layer7.top
+botnet.goelites.cc
+j.xnyidc.top
+juice.baselinux.net
+troon.dns.army
+xiaojue.cyou
+
+# https://www.fortinet.com/blog/threat-research/old-cyber-gang-uses-new-crypter-scrubcrypt
+su-95.letmaker.top
+work.letmaker.top
