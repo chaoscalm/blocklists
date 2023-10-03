@@ -1,0 +1,82 @@
+## hosts-blocklists
+## blocklists-genians
+## https://www.genians.co.kr/blog
+
+
+# 03/10/2023
+
+
+# https://www.genians.co.kr/blog/konniapt
+# https://www.genians.co.kr/hubfs/blogfile/20230926_threat_inteligence_report_konniapt.pdf?hsLang=ko
+anrun.kr
+daum-store.com
+ddmccic.or.kr
+m2comm.co.kr
+nate-download.com
+naver-file.com
+naver-storage.com
+
+# https://www.genians.co.kr/blog/bitb
+# https://www.genians.co.kr/hubfs/blogfile/20230901_threat_inteligence_report_BitB.pdf?hsLang=ko
+attachmentfile.site
+daily-goodnews.com
+daum.net.ph
+daum.uno
+daumuser.net
+emailsecurity.autos
+hiworks.com.de
+kakao.com.de
+kakao.com.ph
+kakao.com.vc
+kakao.uno
+kakaocopyright.com
+kakaoserver.com
+kakaotalkwallet.com
+libertynorthkorea.org
+mail-setting.com
+mailcorp.services
+mailstorage.site
+myfilestorages.com
+naver.cn.com
+naver.com.de
+naver.com.pe
+naver.one
+navercopyright.com
+naveruser.com
+newspad.info
+samsunggalaxynote.com
+today-breakingnews.com
+
+# https://www.genians.co.kr/blog/threat_intelligence_report_konni
+# https://www.genians.co.kr/hubfs/blogfile/20230727_threat_inteligence_report_Konni.pdf?hsLang=ko
+breezyhost.net
+cachecast001.com
+centhosting.net
+donew-order.com
+drvcast.com
+drvism.com
+elinline.com
+expressionkey.com
+fastfilestore.com
+filecompact.com
+filedownloaders.com
+headsity.com
+mallesr.com
+manage-box.com
+naver.bigfile020.com
+naver.cachecast001.com
+naver.cloudfiles001.com
+naver.down001.com
+naver.down-files.com
+naver.drive001.com
+naver.filedowns.net
+naver.files001.com
+naver.filetodownload.com
+nottingham39483.com
+overseeby.com
+resulview.com
+safemaners.com
+senteroman.com
+the-fast-file.com
+view-naver.com
+wintop-rus.com
