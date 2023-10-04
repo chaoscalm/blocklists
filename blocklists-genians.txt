@@ -80,3 +80,29 @@ senteroman.com
 the-fast-file.com
 view-naver.com
 wintop-rus.com
+
+# https://www.genians.co.kr/blog/threat_intelligence_report_macos
+# https://www.genians.co.kr/hubfs/blogfile/20230620_threat_inteligence_report_apt37_macos.pdf?hsLang=ko
+accounts.kakaocopyright.com
+adjectif.net
+attachment.mailstorage.site
+chosun.newspad.info
+docx1.b4a.app
+dost.b4a.app
+filestorage.b4a.app
+kmib.newspad.info
+link.b4a.app
+naver.com.de
+newdaily.newspad.info
+newtowninstitute.org
+samsunggalaxynote.com
+segye.newspad.info
+today-breakingnews.com
+vmi810830.contaboserver.net
+yonhap.newspad.info
+
+# https://www.genians.co.kr/blog/threat_intelligence_report_apt37
+# https://www.genians.co.kr/hubfs/blogfile/threat_intelligence_report_apt37.pdf?hsLang=ko
+docx1.b4a.app
+dost.b4a.app
+filestorage.b4a.app
