@@ -2,32 +2,26 @@
 ## https://cert-agid.gov.it/
 
 
-## 08/08/2023
+## 05/10/2023
+
 
 # https://cert-agid.gov.it/wp-content/uploads/2023/10/purelogs-stealer_agenzia-entrate_03-10-2023.json
-https://staszewski.xaa.pl
+staszewski.xaa.p
 
 # https://cert-agid.gov.it/wp-content/uploads/2023/10/ursnif_agenzia-entrate_03-10-2023.json
-whofoxy.com
-onlinepoints.online
-expirew.com
-netsecurez.com
 expirew.com
 mimemoa.com
+netsecurez.com
 ntcgo.com
-whofoxy.com
-netsecurez.com
-whofoxy.com
-netsecurez.com
 onlinepoints.online
+whofoxy.com
 
 # https://cert-agid.gov.it/wp-content/uploads/2023/09/ursnif_agenzia-entrate_27092023.json
-serverlogins.com
 mimemoa.com
-whofoxy.com
 netsecurez.com
-ntcgo.com"
+ntcgo.com
 serverlogins.com
+whofoxy.com
 
 # https://cert-agid.gov.it/news/il-malware-vidar-torna-ad-insidiare-le-caselle-pec/
 martinelliglobal.com
