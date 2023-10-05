@@ -231,6 +231,10 @@ zretw.xyz
 ## checkmarx 
 ## https://checkmarx.com/blog/?
  
+# https://checkmarx.com/blog/the-evolutionary-tale-of-a-persistent-python-threat/
+bananasquad.ru
+kekwltd.ru
+ 
 # https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/?
 wagateway.pro
 
