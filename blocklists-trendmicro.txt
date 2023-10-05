@@ -3,8 +3,16 @@
 ## https://www.trendmicro.com/en_us/research.html
 
 
-# 29/09/2023
+# 05/10/2023
 
+
+# https://www.trendmicro.com/en_us/research/23/j/infection-techniques-across-supply-chains-and-codebases.html#
+bananasquad.ru
+kekwltd.ru
+paste.fo
+rentry.co
+stromrechnung.ru
+xup.in
 
 # https://www.trendmicro.com/en_us/research/23/i/apt34-deploys-phishing-attack-with-new-malware.html
 tecforsc-001-site1.gtempurl.com
