@@ -7,6 +7,38 @@
 ## group-ib
 # https://www.group-ib.com/blog
 
+# https://www.group-ib.com/blog/golddigger-fraud-matrix/
+cskh.evnspa.cc
+cskh.evnspc.cc
+cskh.evnspe.cc
+cskh.evnspo.cc
+cskh.evnspr.cc
+dg1e.com
+hds6y.cc
+ks8cb.cc
+ms2ve.cc
+smgeo.cc
+viet.cgovn.cc
+viet.egovn.cc
+viet.gdtgovn.com
+viet.govn.cc
+vietcp.cc
+vietgav.cc
+vietgov0.cc
+vietgov1.cc
+vietgov3.cc
+vietgov4.cc
+vietgov5.cc
+vietgov6.cc
+vietgov22.cc
+vietgov33.cc
+vietgov.cc
+vietgovn.cc
+viettgov.cc
+vitgov.cc
+wbke.cc
+zu7kt.cc
+
 # https://www.group-ib.com/blog/shadowsyndicate-raas/
 aerosunelectric.com
 asaper.xyz
@@ -231,6 +263,10 @@ zretw.xyz
 ## checkmarx 
 ## https://checkmarx.com/blog/?
  
+# https://checkmarx.com/blog/the-evolutionary-tale-of-a-persistent-python-threat/
+bananasquad.ru
+kekwltd.ru
+ 
 # https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/?
 wagateway.pro
 
@@ -266,6 +302,42 @@ xfirecovery.pro
 edenparkweddings.com
 sgrhf.org.pk
 toyy.zulipchat.com
+
+
+
+
+## humansecurity
+## https://www.humansecurity.com/learn/blog
+
+# https://www.humansecurity.com/learn/blog/badbox-peachpit-and-the-fraudulent-device-in-your-delivery-box
+cbphe.com
+cbpheback.com
+dcylog.com
+flyermobi.com
+ycxrl.com
+
+# https://www.humansecurity.com/learn/blog/traffic-signals-the-vastflux-takedown
+analytichd.com
+bidderev.com
+bidderopt.com
+datahubserv.com
+giniechoserved.com
+hubspp.com
+intensebidmarket.com
+merthub.com
+servehb.com
+servepp.com
+servermlrn.com
+servinglabs.com
+servioum.com
+servomous.com
+servoror.com
+servrly.com
+servrpp.com
+trackingkey3.com
+trackservexo.com
+tredenel.com
+trktrk222.com
 
 
 
