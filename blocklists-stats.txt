@@ -17,8 +17,10 @@ comunetorino.matomo.cloud
 confindustriaemilia.matomo.cloud
 estra.matomo.cloud
 fondoest.matomo.cloud
+frcaudalie.matomo.cloud
 ftpmac.matomo.cloud
 gruppotea.matomo.cloud
+ilgiornaledelcibo.matomo.cloud
 ingestion.webanalytics.italia.it
 interparking.matomo.cloud
 italia.piwikpro.com
@@ -94,6 +96,7 @@ piwik.procne.it
 piwik.tapatalk.com
 piwik.whiterabbitsuite.com
 previdir.matomo.cloud
+scout.matomo.cloud
 stats3.slyvi.it
 stats4ondernemers.nl
 stats.adplay.it
@@ -132,6 +135,7 @@ stats.ultimate-guitar.com
 stats.unipi.it
 stats.vodafone-wifi.com
 svi-matomo.serviziaci.it
+veratour.matomo.cloud
 verona.matomo.cloud
 web.stats.ilmiopatronato.org
 webstats.opensoftware.it
