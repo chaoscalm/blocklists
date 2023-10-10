@@ -3,8 +3,14 @@
 ## https://www.akamai.com/blog/security-research?
 
 
-# 26/09/2023
+# 10/10/2023
 
+
+# https://www.akamai.com/blog/security-research/2023/oct/magecart-new-technique-404-pages-skimmer
+Pmdresearch.com
+secures-tool.com
+adsometric.com
+cngresearch.com
 
 # https://www.akamai.com/blog/security-research/sophisticated-phishing-campaign-targeting-hospitality
 95link.cc
