@@ -591,6 +591,22 @@ cunniloss.accesscam.org
 
 
 
+# phylum
+# https://blog.phylum.io/tag/research/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## resecurity
 ## https://www.resecurity.com/blog
 
@@ -716,6 +732,12 @@ app.threatest.com
 
 # https://blog.sonatype.com/malicious-pypi-package-vmconnect-imitates-vmware-vsphere-connector-module
 ethertestnet.pro
+
+
+
+
+# sucuri
+# https://blog.sucuri.net/
 
 
 
