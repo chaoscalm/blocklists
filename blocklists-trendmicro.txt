@@ -3,8 +3,18 @@
 ## https://www.trendmicro.com/en_us/research.html
 
 
-# 05/10/2023
+# 12/10/2023
 
+
+# https://www.trendmicro.com/content/dam/trendmicro/global/en/research/23/j/darkgate-opens-organizations-for-attack-via-skype-teams/IOCs-DarkGate-Opens-Organizations-for-Attack-via-Skype-Teams.txt
+coocooncookiedpo.com
+corialopolova.com
+Drkgatevservicceoffice.net
+marketisportsstumi.win
+msteamseyeappstore.com
+onlysportsfitnessam.com
+reactervnamnat.com
+wmnwserviceadsmark.com
 
 # https://www.trendmicro.com/en_us/research/23/j/infection-techniques-across-supply-chains-and-codebases.html#
 bananasquad.ru
