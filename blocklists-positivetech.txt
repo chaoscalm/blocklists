@@ -3,7 +3,7 @@
 ## https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/
 
 
-# 01/08/2023
+# 14/10/2023
 
 
 # https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/dark-river-you-can-t-see-them-but-they-re-there/
