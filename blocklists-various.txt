@@ -1021,11 +1021,52 @@ unionbank-verify.co.in
 metamask-securityupdate.com
 
 # https://shreshtait.com/blog/2023/02/phishing-campaign-targeting-indiana-department-of-workforce-developments-dwd-uplink/
+gov-in.in
+gov-t.in
+gov.indianaswork-forces.online
+gov.indianauplink.site
+gov.indianuplinks.online
+gov.uplinkswork-ones.online
+govn.indianaswork-forces.online
+govns.indianaswork-forces.online
+govs-claimant.online
+govs.indianaswork-forces.online
+govs.indianauplink.site
+govs.indianuplinks.online
+govs.uplinkswork-ones.online
+govt.indianaswork-forces.online
+govts.indianaswork-forces.online
+in-uplink-gov.com
+indiana.uplinkswork-ones.online
+indianaswork-forces.online
+indianauplink.site
+indianuplinks.online
+mail.indianaswork-forces.online
+mail.indianauplink.site
+mail.uplink-gov-ui.in
+up.ink.gov-in.in
+up.lnk.gov-in.in
+upiink.gov-in.in
+upiink.ln.gov-t.in
+upink.gov-in.in
+uplink-gov-ui.in
+uplink.gov-in.in
+uplink.in.gov-t.in
+uplinkswork-ones.online
+uplinkswork-ones.online.indianaswork-forces.online
+uplnk.gov-in.in
 
+# https://shreshtait.com/blog/2023/01/phishing-targeting-netherlands-chamber-of-commerce-users-kvk/
+webspace.re
 
+# https://shreshtait.com/blog/2023/01/phishing-target-microsoft-outlook-users/
+newoutlook.email
 
+# https://shreshtait.com/blog/2023/01/phishing-targeting-commonwealth-bank-customers/
+mycommbank.account-verify.app
 
-
+# https://shreshtait.com/blog/2023/01/phishing-targeting-indiana-department-of-workforce-development/
+gov.indianuplinks.online
 
 
 
