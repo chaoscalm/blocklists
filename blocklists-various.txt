@@ -279,6 +279,57 @@ rentry.co
 
 
 
+## cluster25
+## https://blog.cluster25.duskrise.com/
+
+# https://blog.cluster25.duskrise.com/2023/10/12/cve-2023-38831-russian-attack
+webhook.site
+
+# https://blog.cluster25.duskrise.com/2023/08/25/the-fraud-gala-bec
+aechas.com
+eagleake.com
+laskinchfinc.com
+latchmainc.com
+
+# https://blog.cluster25.duskrise.com/2022/12/22/an-infostealer-comes-to-town
+downloadpdf-fattura.de
+service-fatturecloud.de
+utente.service-fatturecloud.de
+
+# https://blog.cluster25.duskrise.com/2022/11/07/irano-russian-connection-nppd-leak
+dnsservicekl2.ru
+trkhaus.ru
+
+# https://blog.cluster25.duskrise.com/2022/09/15/erbium-stealer-a-new-infostealer
+f0679086.xsph.ru
+mamamiya137.ru
+
+# https://blog.cluster25.duskrise.com/2022/04/11/dprk-nexus-adversary-new-kitty-phishing
+naveicoipa.tech
+naveicoipc.tech
+naveicoipe.tech
+naveicoipf.online
+naveicoipg.online
+naveicoiph.online
+
+# https://blog.cluster25.duskrise.com/2022/03/08/ghostwriter-unc1151-adopts-microbackdoor-variants-in-cyber-operations-against-targets-in-ukraine
+xbeta.online
+
+# https://blog.cluster25.duskrise.com/2022/03/03/rurat-used-in-spear-phishing-attacks-against-media-organisations-in-united-states
+vuxner.com
+
+# https://blog.cluster25.duskrise.com/2022/01/03/konni-targets-the-russian-diplomatic-sector
+455686.c1.biz
+h378576.atwebpages.com
+i758769.atwebpages.com
+
+# https://blog.cluster25.duskrise.com/2021/09/10/a-rattlesnake-in-the-navy
+asw-sns.link
+edu-cx.org
+
+
+
+
 ## dtcert
 ## https://github.security.telekom.com/
 
