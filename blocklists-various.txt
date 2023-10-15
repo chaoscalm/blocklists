@@ -641,9 +641,56 @@ cunniloss.accesscam.org
 
 
 
-
 # phylum
 # https://blog.phylum.io/tag/research/
+
+
+
+
+## phishreport
+## https://phish.report/blog
+
+# https://phish.report/blog/red-lungfish-hunting-panel
+accessmyiq-login.com
+accessmyiq.bio
+accessmylq-logins.com
+accessmylq-online.com
+airtm-app.com
+bluesnap-login.com
+claerents-payment.com
+clearents-login.com
+clover.pm
+covnergaspay.com
+cps-compasspaymentservices.com
+ecommpay-login.com
+etrade-login.com
+fidelity-payment.com
+goemerhcant.com
+hunting-panel.cc
+hunting-panel.click
+online-valorqaytech.info
+paiytrace.com
+pay-trace.com
+payitrace-login.com
+payjianction-login.com
+payjunction-login.com
+payroc-login.com
+paystand-login.com
+paytrace-login.com
+paytrace-loglns.com
+payya.us
+payytrace-online.com
+plastiq-login.com
+plastiq-payment.com
+robinhod-login.com
+robinhood-payment.com
+sagepayments-net.com
+sages-payment.com
+salesforce-payment.com
+saqepayments.com
+sumup-online.com
+transax-login.lol
+worldnet-payment.com
 
 
 
@@ -955,6 +1002,30 @@ zyber-i.com
 
 ## securityjoes
 ## https://www.securityjoes.com/blog
+
+
+
+
+## shreshtait
+## https://shreshtait.com/blog/
+
+# https://shreshtait.com/blog/2023/03/threat-actors-targeting-indian-citizens/
+kmtractors.in
+newbosslink.xyz
+
+# https://shreshtait.com/blog/2023/03/phishing-targeting-union-bank-philippines-users/
+online.unionbankph.com
+unionbank-verify.co.in
+
+# https://shreshtait.com/blog/2023/02/phishing-targeting-metamask-users/
+metamask-securityupdate.com
+
+# https://shreshtait.com/blog/2023/02/phishing-campaign-targeting-indiana-department-of-workforce-developments-dwd-uplink/
+
+
+
+
+
 
 
 
