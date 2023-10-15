@@ -648,12 +648,196 @@ cunniloss.accesscam.org
 
 
 
+## redalert
+## https://redalert.nshc.net/blog
 
+# https://redalert.nshc.net/2023/04/18/phishing-attack-activities-threat-actors-in-sheeps-clothing-eng/
+accounts.qocple.epizy.com
+cood.nonghyup.website
+dankook.onedviver.epizy.com
+daum-privacy.com
+daurn.in.net
+googlmeil.com
+hanacard.navceo.website
+kakao.cloudfiles.epizy.com
+Kakaocop.com
+Kisa.42web.io
+naver-sec.site
+naver.cloudfiles.epizy.com
+navocorp.link
+nid.daurn.in.net
+snu.cloudfiles.epizy.com
 
+# https://redalert.nshc.net/2022/02/28/threat-actor-targeted-attack-against-finance-and-investment-industry-eng/
+abiesvc.com
+abiesvc.info
+abiesvc.jp.net
+amctradinggroup.biz
+amctradinggroup.cc
+atom.publicvm.com
+authenticate.azure-drive.com
+azureprotect.xyz
+beenos.biz
+bhomes.cc
+biki.digital
+bitflyer.team
+chemistryworld.us
+circlecapital.us
+cloud.azure-service.com
+cloud.beenos.biz
+cloud.globalbrains.co
+cloud.jumpshare.vip
+cloud.venturelabo.co
+cloud.youbicapital.co
+cloudshare.jumpshare.vip
+coinbigex.com
+deepmind.fund
+dekryptcap.digital
+doc.venturelabo.co
+doc.youbicapital.cc
+doconline.top
+docs.coinbigex.com
+docs.securedigitalmarkets.co
+docstream.online
+document.antcapital.us
+document.bhomes.cc
+document.fastercapital.cc
+document.skandiafastigheter.cc
+documentprotect.live
+documents.antcapital.us
+docuserver.xyz
+download.azure-drive.com
+download.azure-service.com
+drive.globalbrains.co
+drw.capital
+eii.world
+fastdown.site
+fastercapital.cc
+file.venturelabo.co
+filestream.download
+galaxydigital.cc
+galaxydigital.cloud
+googleservice.icu
+googleservice.xyz
+innoenergy.info
+isosecurity.xyz
+krakenlisting.com
+lemniscap.cc
+lundbergs.cc
+mclland.com
+ms.azureword.com
+msoffice.qooqle.download
+office.azureword.com
+protect.antcapital.us
+protect.azure-drive.com
+protect.venturelabo.co
+protectoffice.club
+qooqle.download
+reit.live
+sharedocs.xyz
+sinovationventures.co
+skandiafastigheter.cc
+ssl.globalbrains.co
+venturelabo.co
+verify.azure-drive.com
+youbicapital.cc
 
+# https://redalert.nshc.net/2021/03/29/threat-actor-group-targeting-russian-nuclear-power-plants/
+360mediashare.com
+ateliemilano.ru
+bizfilehost.tk
+dncars.ru
+exox.pro
+fgf1.i.ua
+gaspee.info
+gedebeywater.com
+hostex.monster
+kiat.by
+mystorage-settings.ru
+nordtexnika.az
+office360.work
+office360share.com
+rmska.net
+road258.website
+road349.website
+savalan.az
+timkasprot.temp.swtest.ru
+wsus.ga
+wsusms.com
+z-wavehome.ru
 
+# https://redalert.nshc.net/2019/10/24/sectord01-when-anime-goes-cyber/
+firewallsupports.com
+microsofte-update.com
+pasta58.com
 
+# https://redalert.nshc.net/2019/09/19/sectorh01-continues-abusing-web-services/
+attilabanks.ddns.net
+haggapaggawagga.duckdns.org
+ontothenextone.duckdns.org
+yakka.duckdns.org
 
+# https://redalert.nshc.net/2019/08/02/sectore02-updates-yty-framework-in-new-targeted-campaign-against-pakistan-government/
+data-backup.online
+servicejobs.life
+
+# https://redalert.nshc.net/2019/06/25/sectorc08-multi-layered-sfx-recent-campaigns-target-ukraine/
+bitlocker.ddns.net
+bitvers.ddns.net
+bitwork.ddns.net
+const-gov.ddns.net
+drop-new.ddns.net
+dropdrop.ddns.net
+dropper.crimea.com
+kristousb.ddns.net
+military-ua.ddns.net
+my-certificates.ddns.net
+my-work.ddns.net
+spr-d2.ddns.net
+spread-new.ddns.net
+spread.crimea.com
+sprs-files.ddns.net
+sprs-updates.ddns.net
+telo-spread.ddns.net
+tor-file.ddns.net
+torrent-stel.space
+torrent-supd.space
+torrent-videos.ddns.net
+torrent-vnc.ddns.net
+versiya-spread.myftp.org
+widusk.ddns.net
+wincreator.ddns.net
+winrouts.ddns.net
+workusb.ddns.net
+
+# https://redalert.nshc.net/2019/03/19/sectorm04-targeting-singapore-custom-malware-analysis/
+api.edu-us.tk
+api.micsoftoffice.ga
+api.officeonlinetool.com
+news.singmicrosoft.ga
+
+# https://redalert.nshc.net/2019/01/30/operation-kitty-phishing/
+acount-qooqle.pe.hu
+ago2.co.kr
+ahnniab.esy.es
+aiyac-updaite.hol.es
+daum-safety-team.esy.es
+gyjmc.com
+jejuseongahn.org
+jundosase.cafe24.com
+kuku79.herobo.com
+kuku675.site11.com
+mail-service.pe.hu
+mail-support.esy.es
+my-homework.890m.com
+myacccounts-goggle.hol.es
+myaccounnts-goggle.esy.es
+nav-mail.hol.es
+nid-mail.esy.es
+nid-naver.hol.es
+qqoqle-centering.esy.es
+safe-naver-mail.pe.hu
+suppcrt-seourity.esy.es
 
 
 
