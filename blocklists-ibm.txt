@@ -1,0 +1,54 @@
+## hosts-blocklists
+## blocklists-ibm
+
+
+
+
+
+
+## https://securityintelligence.com/category/x-force/defensive-security/
+
+# https://securityintelligence.com/x-force/x-force-uncovers-global-netscaler-gateway-credential-harvesting-campaign/
+cloudjs.live
+jscdn.biz
+jscloud.biz
+jscloud.ink
+jscloud.live
+
+
+
+## https://securityintelligence.com/category/x-force/threat-intelligence/
+
+## https://securityintelligence.com/posts/email-campaigns-leverage-updated-dbatloader-deliver-rats-stealers/
+660danm.top
+aconaus.org
+altralogos.com
+ariso.eu
+azurefd-paitohk.xyz
+balkancelikdovme.com
+binccoco.com
+biototec.co
+bvgroupcos.com
+chibb.ydns.eu
+doctorproff.ru
+donelpacino.ddns.net
+dunia138.info
+greatzillart.ydns.eu
+janus.news
+jimbo.ydns.eu
+mattewigs.com
+mytraderstore.com
+nightmare4666.ddns.net
+oldironmetalworksllc.com
+playdoapp.online
+purelyunorthodox.com
+rainbow-industrie.com
+remcos1.ydns.eu
+rva.info
+sinpercar.com
+totomata.com
+transportlogistcs.com
+travelinspiration.sa.com
+undoables.com
+www.twyfordtille.com
+zysnuy.com

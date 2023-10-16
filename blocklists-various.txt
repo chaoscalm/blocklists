@@ -279,6 +279,57 @@ rentry.co
 
 
 
+## cluster25
+## https://blog.cluster25.duskrise.com/
+
+# https://blog.cluster25.duskrise.com/2023/10/12/cve-2023-38831-russian-attack
+webhook.site
+
+# https://blog.cluster25.duskrise.com/2023/08/25/the-fraud-gala-bec
+aechas.com
+eagleake.com
+laskinchfinc.com
+latchmainc.com
+
+# https://blog.cluster25.duskrise.com/2022/12/22/an-infostealer-comes-to-town
+downloadpdf-fattura.de
+service-fatturecloud.de
+utente.service-fatturecloud.de
+
+# https://blog.cluster25.duskrise.com/2022/11/07/irano-russian-connection-nppd-leak
+dnsservicekl2.ru
+trkhaus.ru
+
+# https://blog.cluster25.duskrise.com/2022/09/15/erbium-stealer-a-new-infostealer
+f0679086.xsph.ru
+mamamiya137.ru
+
+# https://blog.cluster25.duskrise.com/2022/04/11/dprk-nexus-adversary-new-kitty-phishing
+naveicoipa.tech
+naveicoipc.tech
+naveicoipe.tech
+naveicoipf.online
+naveicoipg.online
+naveicoiph.online
+
+# https://blog.cluster25.duskrise.com/2022/03/08/ghostwriter-unc1151-adopts-microbackdoor-variants-in-cyber-operations-against-targets-in-ukraine
+xbeta.online
+
+# https://blog.cluster25.duskrise.com/2022/03/03/rurat-used-in-spear-phishing-attacks-against-media-organisations-in-united-states
+vuxner.com
+
+# https://blog.cluster25.duskrise.com/2022/01/03/konni-targets-the-russian-diplomatic-sector
+455686.c1.biz
+h378576.atwebpages.com
+i758769.atwebpages.com
+
+# https://blog.cluster25.duskrise.com/2021/09/10/a-rattlesnake-in-the-navy
+asw-sns.link
+edu-cx.org
+
+
+
+
 ## dtcert
 ## https://github.security.telekom.com/
 
@@ -590,6 +641,253 @@ cunniloss.accesscam.org
 
 
 
+# phylum
+# https://blog.phylum.io/tag/research/
+
+
+
+
+## phishreport
+## https://phish.report/blog
+
+# https://phish.report/blog/red-lungfish-hunting-panel
+accessmyiq-login.com
+accessmyiq.bio
+accessmylq-logins.com
+accessmylq-online.com
+airtm-app.com
+bluesnap-login.com
+claerents-payment.com
+clearents-login.com
+clover.pm
+covnergaspay.com
+cps-compasspaymentservices.com
+ecommpay-login.com
+etrade-login.com
+fidelity-payment.com
+goemerhcant.com
+hunting-panel.cc
+hunting-panel.click
+online-valorqaytech.info
+paiytrace.com
+pay-trace.com
+payitrace-login.com
+payjianction-login.com
+payjunction-login.com
+payroc-login.com
+paystand-login.com
+paytrace-login.com
+paytrace-loglns.com
+payya.us
+payytrace-online.com
+plastiq-login.com
+plastiq-payment.com
+robinhod-login.com
+robinhood-payment.com
+sagepayments-net.com
+sages-payment.com
+salesforce-payment.com
+saqepayments.com
+sumup-online.com
+transax-login.lol
+worldnet-payment.com
+
+
+
+
+## redalert
+## https://redalert.nshc.net/blog
+
+# https://redalert.nshc.net/2023/04/18/phishing-attack-activities-threat-actors-in-sheeps-clothing-eng/
+accounts.qocple.epizy.com
+cood.nonghyup.website
+dankook.onedviver.epizy.com
+daum-privacy.com
+daurn.in.net
+googlmeil.com
+hanacard.navceo.website
+kakao.cloudfiles.epizy.com
+Kakaocop.com
+Kisa.42web.io
+naver-sec.site
+naver.cloudfiles.epizy.com
+navocorp.link
+nid.daurn.in.net
+snu.cloudfiles.epizy.com
+
+# https://redalert.nshc.net/2022/02/28/threat-actor-targeted-attack-against-finance-and-investment-industry-eng/
+abiesvc.com
+abiesvc.info
+abiesvc.jp.net
+amctradinggroup.biz
+amctradinggroup.cc
+atom.publicvm.com
+authenticate.azure-drive.com
+azureprotect.xyz
+beenos.biz
+bhomes.cc
+biki.digital
+bitflyer.team
+chemistryworld.us
+circlecapital.us
+cloud.azure-service.com
+cloud.beenos.biz
+cloud.globalbrains.co
+cloud.jumpshare.vip
+cloud.venturelabo.co
+cloud.youbicapital.co
+cloudshare.jumpshare.vip
+coinbigex.com
+deepmind.fund
+dekryptcap.digital
+doc.venturelabo.co
+doc.youbicapital.cc
+doconline.top
+docs.coinbigex.com
+docs.securedigitalmarkets.co
+docstream.online
+document.antcapital.us
+document.bhomes.cc
+document.fastercapital.cc
+document.skandiafastigheter.cc
+documentprotect.live
+documents.antcapital.us
+docuserver.xyz
+download.azure-drive.com
+download.azure-service.com
+drive.globalbrains.co
+drw.capital
+eii.world
+fastdown.site
+fastercapital.cc
+file.venturelabo.co
+filestream.download
+galaxydigital.cc
+galaxydigital.cloud
+googleservice.icu
+googleservice.xyz
+innoenergy.info
+isosecurity.xyz
+krakenlisting.com
+lemniscap.cc
+lundbergs.cc
+mclland.com
+ms.azureword.com
+msoffice.qooqle.download
+office.azureword.com
+protect.antcapital.us
+protect.azure-drive.com
+protect.venturelabo.co
+protectoffice.club
+qooqle.download
+reit.live
+sharedocs.xyz
+sinovationventures.co
+skandiafastigheter.cc
+ssl.globalbrains.co
+venturelabo.co
+verify.azure-drive.com
+youbicapital.cc
+
+# https://redalert.nshc.net/2021/03/29/threat-actor-group-targeting-russian-nuclear-power-plants/
+360mediashare.com
+ateliemilano.ru
+bizfilehost.tk
+dncars.ru
+exox.pro
+fgf1.i.ua
+gaspee.info
+gedebeywater.com
+hostex.monster
+kiat.by
+mystorage-settings.ru
+nordtexnika.az
+office360.work
+office360share.com
+rmska.net
+road258.website
+road349.website
+savalan.az
+timkasprot.temp.swtest.ru
+wsus.ga
+wsusms.com
+z-wavehome.ru
+
+# https://redalert.nshc.net/2019/10/24/sectord01-when-anime-goes-cyber/
+firewallsupports.com
+microsofte-update.com
+pasta58.com
+
+# https://redalert.nshc.net/2019/09/19/sectorh01-continues-abusing-web-services/
+attilabanks.ddns.net
+haggapaggawagga.duckdns.org
+ontothenextone.duckdns.org
+yakka.duckdns.org
+
+# https://redalert.nshc.net/2019/08/02/sectore02-updates-yty-framework-in-new-targeted-campaign-against-pakistan-government/
+data-backup.online
+servicejobs.life
+
+# https://redalert.nshc.net/2019/06/25/sectorc08-multi-layered-sfx-recent-campaigns-target-ukraine/
+bitlocker.ddns.net
+bitvers.ddns.net
+bitwork.ddns.net
+const-gov.ddns.net
+drop-new.ddns.net
+dropdrop.ddns.net
+dropper.crimea.com
+kristousb.ddns.net
+military-ua.ddns.net
+my-certificates.ddns.net
+my-work.ddns.net
+spr-d2.ddns.net
+spread-new.ddns.net
+spread.crimea.com
+sprs-files.ddns.net
+sprs-updates.ddns.net
+telo-spread.ddns.net
+tor-file.ddns.net
+torrent-stel.space
+torrent-supd.space
+torrent-videos.ddns.net
+torrent-vnc.ddns.net
+versiya-spread.myftp.org
+widusk.ddns.net
+wincreator.ddns.net
+winrouts.ddns.net
+workusb.ddns.net
+
+# https://redalert.nshc.net/2019/03/19/sectorm04-targeting-singapore-custom-malware-analysis/
+api.edu-us.tk
+api.micsoftoffice.ga
+api.officeonlinetool.com
+news.singmicrosoft.ga
+
+# https://redalert.nshc.net/2019/01/30/operation-kitty-phishing/
+acount-qooqle.pe.hu
+ago2.co.kr
+ahnniab.esy.es
+aiyac-updaite.hol.es
+daum-safety-team.esy.es
+gyjmc.com
+jejuseongahn.org
+jundosase.cafe24.com
+kuku79.herobo.com
+kuku675.site11.com
+mail-service.pe.hu
+mail-support.esy.es
+my-homework.890m.com
+myacccounts-goggle.hol.es
+myaccounnts-goggle.esy.es
+nav-mail.hol.es
+nid-mail.esy.es
+nid-naver.hol.es
+qqoqle-centering.esy.es
+safe-naver-mail.pe.hu
+suppcrt-seourity.esy.es
+
+
+
 
 ## resecurity
 ## https://www.resecurity.com/blog
@@ -708,6 +1006,71 @@ zyber-i.com
 
 
 
+## shreshtait
+## https://shreshtait.com/blog/
+
+# https://shreshtait.com/blog/2023/03/threat-actors-targeting-indian-citizens/
+kmtractors.in
+newbosslink.xyz
+
+# https://shreshtait.com/blog/2023/03/phishing-targeting-union-bank-philippines-users/
+online.unionbankph.com
+unionbank-verify.co.in
+
+# https://shreshtait.com/blog/2023/02/phishing-targeting-metamask-users/
+metamask-securityupdate.com
+
+# https://shreshtait.com/blog/2023/02/phishing-campaign-targeting-indiana-department-of-workforce-developments-dwd-uplink/
+gov-in.in
+gov-t.in
+gov.indianaswork-forces.online
+gov.indianauplink.site
+gov.indianuplinks.online
+gov.uplinkswork-ones.online
+govn.indianaswork-forces.online
+govns.indianaswork-forces.online
+govs-claimant.online
+govs.indianaswork-forces.online
+govs.indianauplink.site
+govs.indianuplinks.online
+govs.uplinkswork-ones.online
+govt.indianaswork-forces.online
+govts.indianaswork-forces.online
+in-uplink-gov.com
+indiana.uplinkswork-ones.online
+indianaswork-forces.online
+indianauplink.site
+indianuplinks.online
+mail.indianaswork-forces.online
+mail.indianauplink.site
+mail.uplink-gov-ui.in
+up.ink.gov-in.in
+up.lnk.gov-in.in
+upiink.gov-in.in
+upiink.ln.gov-t.in
+upink.gov-in.in
+uplink-gov-ui.in
+uplink.gov-in.in
+uplink.in.gov-t.in
+uplinkswork-ones.online
+uplinkswork-ones.online.indianaswork-forces.online
+uplnk.gov-in.in
+
+# https://shreshtait.com/blog/2023/01/phishing-targeting-netherlands-chamber-of-commerce-users-kvk/
+webspace.re
+
+# https://shreshtait.com/blog/2023/01/phishing-target-microsoft-outlook-users/
+newoutlook.email
+
+# https://shreshtait.com/blog/2023/01/phishing-targeting-commonwealth-bank-customers/
+mycommbank.account-verify.app
+
+# https://shreshtait.com/blog/2023/01/phishing-targeting-indiana-department-of-workforce-development/
+gov.indianuplinks.online
+
+
+
+
 ## sonatype 
 ## https://blog.sonatype.com/
 
@@ -716,6 +1079,12 @@ app.threatest.com
 
 # https://blog.sonatype.com/malicious-pypi-package-vmconnect-imitates-vmware-vsphere-connector-module
 ethertestnet.pro
+
+
+
+
+# sucuri
+# https://blog.sucuri.net/
 
 
 

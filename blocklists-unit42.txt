@@ -3,8 +3,24 @@
 ## https://unit42.paloaltonetworks.com/
 
 
-# 23/09/2023
+# 14/10/2023
 
+
+# https://unit42.paloaltonetworks.com/dns-tunneling-in-the-wild/
+allowlisted.net
+awsl.site
+ciscocloud.space
+claudfront.net
+cloud-enrollment.com
+hammercdntech.com
+hsdps.cc
+identity-mgmt.com
+internalsupport.info
+mscd.store
+msft.center
+panos.ltd
+rcsmf100.net
+ubrella.online
 
 # https://unit42.paloaltonetworks.com/hooking-framework-in-sandbox-to-analyze-android-apk/
 madhavaapps.science
