@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## blocklists-mvd
+## blocklists-mvt
 ## https://github.com/mvt-project/mvt-indicators
 
 
