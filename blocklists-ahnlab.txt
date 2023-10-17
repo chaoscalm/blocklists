@@ -6,6 +6,10 @@
 # 11/10/2023
 
 
+# https://asec.ahnlab.com/en/57873/
+onessearth.online
+powsecme.co
+
 # https://asec.ahnlab.com/en/57736/
 apluslife.co.kr
 artbeads.co.kr
