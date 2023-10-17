@@ -6,6 +6,9 @@
 # 14/10/2023
 
 
+# https://www.trendmicro.com/en_us/research/23/j/beware-lumma-stealer-distributed-via-discord-cdn-.html
+gapi-node.io
+
 # https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html
 budgetnews.org
 kayakahead.net
