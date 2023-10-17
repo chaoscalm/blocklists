@@ -279,6 +279,15 @@ rentry.co
 
 
 
+## cloudflare
+## https://blog.cloudflare.com/
+
+# https://blog.cloudflare.com/malicious-redalert-rocket-alerts-application-targets-israeli-phone-calls-sms-and-user-information/
+redalerts.me
+
+
+
+
 ## cluster25
 ## https://blog.cluster25.duskrise.com/
 
