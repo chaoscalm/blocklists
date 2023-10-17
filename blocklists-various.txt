@@ -768,7 +768,6 @@ kmtractors.in
 newbosslink.xyz
 
 # https://shreshtait.com/blog/2023/03/phishing-targeting-union-bank-philippines-users/
-online.unionbankph.com
 unionbank-verify.co.in
 
 # https://shreshtait.com/blog/2023/02/phishing-targeting-metamask-users/
@@ -848,6 +847,31 @@ ethertestnet.pro
 
 # https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/
 desertplanets.com
+
+
+
+
+## threatradar
+## https://threatradar.net/blog/
+
+# https://threatradar.net/threat-intel-roundup-iis-bloodalchemy-wordpad-cisco/
+dcqj.me
+ocvs.me
+xtqt.me
+pfcj.me
+uige.me
+kfgd.link
+ftkq.me
+kihd.me
+fuzx.me
+tjzy.link
+lfvy.me
+wheretosign.com
+mylittleladder.xyz
+
+
+
+
 
 
 
