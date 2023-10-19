@@ -31,9 +31,6 @@ we-chat.info
 https://cyble.com/blog/purplefox-resurfaces-via-spam-emails-a-look-into-its-recent-campaign/
 black-sun-a335.asyorfplmnv.workers.dev
 
-
-
-
 # https://cyble.com/blog/covert-delivery-of-cobalt-strike-beacon-via-sophos-phishing-website/
 sopbos.com
 
