@@ -7,7 +7,7 @@
 
 
 # https://blog.google/threat-analysis-group/government-backed-actors-exploiting-winrar-vulnerability/
-fex[.]net
+fex.net
 webhook.site
 
 # https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/
