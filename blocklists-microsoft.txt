@@ -3,8 +3,19 @@
 ## https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/?sort-by=newest-oldest&date=any
 
 
-# 03/08/2023
+# 19/10/2023
 
+
+# https://www.microsoft.com/en-us/security/blog/2023/10/18/multiple-north-korean-threat-actors-exploiting-the-teamcity-cve-2023-42793-vulnerability/
+3dkit.org
+aeon-petro.com
+bandarpowder.com
+commune-fraita.ma
+dersmarketim.com
+galerielamy.com
+mge.sn
+olidhealth.com
+vadtalmandir.org
 
 # https://www.microsoft.com/en-us/security/blog/2023/08/02/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams/
 accountsVerification.onmicrosoft.com
