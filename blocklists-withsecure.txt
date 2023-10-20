@@ -1,0 +1,12 @@
+## hosts-blocklists
+## blocklists-withsecure
+## https://labs.withsecure.com/publications
+
+
+# 20/10/2023
+
+
+# https://labs.withsecure.com/publications/darkgate-malware-campaign
+sanibroadbandcommunicton.duckdns[.]org
+alianzasuma[.]com
+apisdata[.]xyz
