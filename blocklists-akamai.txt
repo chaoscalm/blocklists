@@ -3,8 +3,22 @@
 ## https://www.akamai.com/blog/security-research?
 
 
-# 10/10/2023
+# 20/10/2023
 
+
+# https://www.akamai.com/blog/security-research/hospitality-phishing-campaign-DNS-analysis-global-threat
+booking.acquire-transaction.cloud
+booking.check-request.info
+booking.com-id2435142.info
+booking.com-id2834440.info
+booking.com.id60157261.date
+booking.id17825117.date
+booking.id301628951.date
+booking.reservation-accept.info
+pay.avito.avito.avito.com-id20341.info
+service10.wakkofkznmartyxa3244.site
+static.wakkofkznmartyxa3244.site
+yandex.sberbank.com-id409712.com
 
 # https://www.akamai.com/blog/security-research/2023/oct/magecart-new-technique-404-pages-skimmer
 Pmdresearch.com
